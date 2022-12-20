@@ -1,0 +1,2450 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>日本語筆記</title>
+</head>
+<style>
+body {
+    position:relative; 
+    left:10px;
+    background-color:#EBF5FB;
+}
+a:link,
+a:visited,
+a:hover,
+a:active{
+    color:#000000;
+    text-decoration:none;
+}
+</style>    
+<body>
+<id="Top">    
+    生字：&nbsp;<a href="#Chapter_1">01</a>&nbsp;|&nbsp;<a href="#Chapter_2">02</a>&nbsp;|&nbsp;<a href="#Chapter_3">03</a>&nbsp;|&nbsp;<a href="#Chapter_4">04</a>&nbsp;|&nbsp;<a href="#Chapter_5">05</a>&nbsp;|&nbsp;<a href="#Chapter_6">06</a>&nbsp;|&nbsp;<a href="#Chapter_7">07</a>&nbsp;|&nbsp;<a href="#Chapter_8">08</a>&nbsp;|&nbsp;<a href="#Chapter_9">09</a>&nbsp;|&nbsp;<a href="#Chapter_10">10</a>&nbsp;|&nbsp;<a href="#Chapter_11">11</a>&nbsp;|&nbsp;<a href="#Chapter_12">12</a>&nbsp;|&nbsp;<a href="#Chapter_13">13</a>&nbsp;|&nbsp;<a href="#Chapter_14">14</a>&nbsp;|&nbsp;<a href="#Chapter_15">15</a>&nbsp;|&nbsp;<a href="#Chapter_16">16</a>&nbsp;|&nbsp;<a href="#Chapter_17">17</a>&nbsp;|&nbsp;<a href="#Chapter_18">18</a>&nbsp;|&nbsp;<a href="#Chapter_19">19</a>&nbsp;|&nbsp;<a href="#Chapter_20">20</a>&nbsp;|&nbsp;<a href="#Chapter_21">21</a>&nbsp;|&nbsp;<a href="#Chapter_22">22</a>&nbsp;|&nbsp;<a href="#Chapter_23">23</a>&nbsp;|&nbsp;<a href="#Chapter_24">24</a>&nbsp;|&nbsp;<a href="#Chapter_25">25</a>&nbsp;|&nbsp;<a href="#Chapter_26">26</a>&nbsp;|&nbsp;<a href="#Chapter_27">27</a>&nbsp;|&nbsp;<a href="#Chapter_28">28</a>&nbsp;|&nbsp;<a href="#Chapter_29">29</a>&nbsp;|&nbsp;<a href="#Chapter_30">30</a>&nbsp;|&nbsp;<a href="#Chapter_31">31</a>&nbsp;|&nbsp;<a href="#Chapter_32">32</a>&nbsp;|&nbsp;<a href="#Chapter_33">33</a>&nbsp;|&nbsp;<a href="#Chapter_34">34</a>&nbsp;|&nbsp;<a href="#Chapter_35">35</a>&nbsp;|&nbsp;<a href="#Chapter_36">36</a>&nbsp;|&nbsp;<a href="#Chapter_37">37</a>&nbsp;|&nbsp;<a href="#Chapter_38">38</a>&nbsp;|&nbsp;<a href="#Chapter_39">39</a>&nbsp;|&nbsp;<a href="#Chapter_40">40</a>&nbsp;|&nbsp;<a href="#Chapter_41">41</a>&nbsp;|&nbsp;<a href="#Chapter_42">42</a>&nbsp;|&nbsp;<a href="#Chapter_43">43</a>&nbsp;|&nbsp;<a href="#Chapter_44">44</a>&nbsp;|&nbsp;<a href="#Chapter_45">45</a>&nbsp;|&nbsp;
+    <br><a href="https://ccschan2021.github.io/grammer">文法</a>
+<br>
+    
+<p><h4 id="Chapter_1">第一課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=830 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>わたし</td><td></td></tr>
+<tr><td>2</td><td>あなた</td><td></td></tr><tr>
+<td>3</td><td>あのひと（あのかた）</td><td>あの人（あの方）</td></tr>
+<tr><td>4</td><td>〜さん</td><td></td></tr>
+<tr><td>5</td><td>〜ちゃん</td><td></td></tr>
+<tr><td>6</td><td>〜じん</td><td>〜人</td></tr>
+<tr><td>7</td><td>せんせい</td><td>先生</td></tr>
+<tr><td>8</td><td>きょうし</td><td>教師</td></tr>
+<tr><td>9</td><td>がくせい</td><td>学生</td></tr>
+<tr><td>10</td><td>かいしゃいん</td><td>会社員</td></tr> 
+<tr><td>11</td><td>しゃいん</td><td>社員</td></tr>
+<tr><td>12</td><td>ぎんこういん</td><td>銀行員</td></tr>
+<tr><td>13</td><td>いしゃ</td><td>医者</td></tr>
+<tr><td>14</td><td>けんきゅうしゃ</td><td>研究者</td></tr>
+<tr><td>15</td><td>だいがく</td><td>大学</td></tr> 
+<tr><td>16</td><td>びょういん</td><td>病院</td></tr> 
+<tr><td>17</td><td>だれ（どなた）</td><td></td></tr> 
+<tr><td>18</td><td>…さい</td><td>…歳</td></tr> 
+<tr><td>19</td><td>なんさい（おいくつ）</td><td>何歳</td></tr> 
+<tr><td>20</td><td>はい</td><td></td></tr> 
+<tr><td>21</td><td>いいえ</td><td></td></tr> 
+<tr><td>22</td><td>はじめまして</td><td>初めまして</td></tr>  
+<tr><td>23</td><td>〜からきました</td><td>〜から来ました</td></tr> 
+<tr><td>24</td><td>「どうぞ」よろしく「おねがいします」</td><td>「どうぞ」よろしく「お願いします」</td></tr>
+<tr><td>25</td><td>しつれいですが、おなまえは？</td><td>失礼ですが、お名前は？</td></tr>
+<tr><td>26</td><td>こちらは〜さんです。</td><td></td></tr> 
+<tr><td>27</td><td>おはようございます。</td><td></td></tr> 
+<tr><td>28</td><td>こんにちは</td><td></td></tr> 
+<tr><td>29</td><td>こんばんは</td><td></td></tr> 
+<tr><td>30</td><td>おやすみなさい</td><td>お休みなさい</td></tr> 
+<tr><td>31</td><td>さようなら</td><td></td></tr> 
+<tr><td>32</td><td>ありがとうございます</td><td></td></tr> 
+<tr><td>33</td><td>ありがとうございました</td><td></td></tr>  
+<tr><td>34</td><td>すみません</td><td></td></tr>  
+<tr><td>35</td><td>アメリカ</td><td></td></tr>  
+<tr><td>36</td><td>イギリス</td><td></td></tr>  
+<tr><td>37</td><td>インド</td><td></td></tr>  
+<tr><td>38</td><td>インドネシア</td><td></td></tr>
+<tr><td>39</td><td>かんこく</td><td>韓国</td></tr>  
+<tr><td>40</td><td>タイ</td><td></td></tr>  
+<tr><td>41</td><td>ちゅうごく</td><td>中国</td></tr>  
+<tr><td>42</td><td>ドイツ</td><td></td></tr>  
+<tr><td>43</td><td>にほん</td><td>日本</td></tr>  
+<tr><td>44</td><td>ブラジル</td><td></td></tr>  
+<tr><td>45</td><td>パワーでんき</td><td>パワー電気</td></tr>  
+<tr><td>46</td><td>こうべびょういん</td><td>神戸病院</td></tr>  
+<tr><td>47</td><td>さくらだいがく</td><td>さくら大学</td></tr>   
+<tr><td>48</td><td>ふじだいがく</td><td>富士大学</td></tr>
+</table>
+
+<p><h4 id="Chapter_2">第二課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>これ</td><td></td><td></td></tr>
+<tr><td>2</td><td>それ</td><td></td><td></td></tr>
+<tr><td>3</td><td>あれ</td><td></td><td></td></tr>
+<tr><td>4</td><td>この〜</td><td></td><td></td></tr>
+<tr><td>5</td><td>その〜</td><td></td><td></td></tr>
+<tr><td>6</td><td>あの〜</td><td></td><td></td></tr>
+<tr><td>7</td><td>ほん</td><td>本</td><td></td></tr>
+<tr><td>8</td><td>じしょ</td><td>辞書</td><td></td></tr>
+<tr><td>9</td><td>ざっし</td><td>雑誌</td><td></td></tr>
+<tr><td>10</td><td>しんぶん</td><td>新聞</td><td></td></tr>
+<tr><td>11</td><td>ノート</td><td></td><td></td></tr>
+<tr><td>12</td><td>てちょう</td><td>手帳</td><td></td></tr>
+<tr><td>13</td><td>めいし</td><td>名刺</td><td></td></tr>
+<tr><td>14</td><td>カード</td><td></td><td></td></tr>
+<tr><td>15</td><td>えんぴつ</td><td>鉛筆</td><td></td></tr>
+<tr><td>16</td><td>ボールペン</td><td></td><td></td></tr>
+<tr><td>17</td><td>シャープペンシル</td><td></td><td></td></tr>
+<tr><td>18</td><td>かぎ</td><td>鍵</td><td></td></tr>
+<tr><td>19</td><td>とけい</td><td>時計</td><td></td></tr>
+<tr><td>20</td><td>かさ</td><td>傘</td><td></td></tr>
+<tr><td>21</td><td>かばん</td><td>鞄</td><td></td></tr>
+<tr><td>22</td><td>シーデイー</td><td>CD</td><td></td></tr>
+<tr><td>23</td><td>テレビ</td><td></td><td></td></tr>
+<tr><td>24</td><td>ラジオ</td><td></td><td></td></tr>
+<tr><td>25</td><td>カメラ</td><td></td><td></td></tr>
+<tr><td>26</td><td>コンピューター</td><td></td><td></td></tr>
+<tr><td>27</td><td>くるま</td><td>車</td><td></td></tr>
+<tr><td>28</td><td>つくえ</td><td>机</td><td></td></tr>
+<tr><td>29</td><td>いす</td><td></td><td></td></tr>
+<tr><td>30</td><td>チョコレート</td><td></td><td></td></tr>
+<tr><td>31</td><td>コーヒー</td><td></td><td></td></tr>
+<tr><td>32</td><td>「お」みやげ</td><td>「お」土産</td><td></td></tr>
+<tr><td>33</td><td>えいご</td><td>英語</td><td></td></tr>
+<tr><td>34</td><td>にほんご</td><td>日本語</td><td></td></tr>
+<tr><td>35</td><td>〜ご</td><td>〜語</td><td></td></tr>
+<tr><td>36</td><td>なん</td><td>何</td><td>什麼</td></tr>
+<tr><td>37</td><td>そう</td><td></td><td>是的</td></tr>
+<tr><td>38</td><td style="background-color:#FFFF00">これからおせわになります</td><td>これからお世話になります</td><td>今後將承蒙你的照顧</td></tr>
+<tr><td>39</td><td style="background-color:#FFFF00">こちらこそ「どうぞ」よろしく「おねがいします」</td><td>こちらこそ「どうぞ」よろしく「お願いします」</td><td>哪裡哪裡,也請您多多指教</td></tr>
+<tr><td>40</td><td>あのう</td><td></td><td>那個⋯⋯</td></tr>
+<tr><td>41</td><td>えっ</td><td></td><td>咦⋯⋯</td></tr>
+<tr><td>42</td><td>どうぞ</td><td></td><td>請。</td></tr>
+<tr><td>43</td><td>「どうも」ありがとう「ございます」</td><td></td><td>謝謝。</td></tr>
+<tr><td>44</td><td>そうですか。</td><td></td><td>這樣啊。</td></tr>
+<tr><td>45</td><td style="background-color:#FFFF00">ちがいます。</td><td>違います。</td><td>不是</td></tr>
+<tr><td>46</td><td>あ</td><td></td><td>啊（用於意識到什麼時</td></tr>
+</table>
+    
+    <p><h4 id="Chapter_3">第三課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>    
+<tr><td>1</td><td>ここ</td><td></td><td></td></tr>
+<tr><td>2</td><td>そこ</td><td></td><td></td></tr>
+<tr><td>3</td><td>あそこ</td><td></td><td></td></tr>
+<tr><td>4</td><td>どこ</td><td></td><td></td></tr>
+<tr><td>5</td><td>こちら</td><td></td><td></td></tr>
+<tr><td>6</td><td>そちら</td><td></td><td></td></tr>
+<tr><td>7</td><td>あちら</td><td></td><td></td></tr>
+<tr><td>8</td><td>どちら</td><td></td><td></td></tr>
+<tr><td>9</td><td>きょうしつ</td><td>教室</td><td></td></tr>
+<tr><td>10</td><td>しょくどう</td><td>食堂</td><td></td></tr>
+<tr><td>11</td><td>じむしょ</td><td>事務所</td><td></td></tr>
+<tr><td>12</td><td>かいぎしつ</td><td>会議室</td><td></td></tr>
+<tr><td>13</td><td>うけつけ</td><td>受付</td><td></td></tr>
+<tr><td>14</td><td>ロビー</td><td></td><td>大堂</td></tr>
+<tr><td>15</td><td>へや</td><td>部屋</td><td></td></tr>
+<tr><td>16</td><td>トレイ</td><td></td><td>洗手間</td></tr>
+<tr><td>17</td><td>おてあらい</td><td>お手洗い</td><td>洗手間</td></tr>
+<tr><td>18</td><td>かいだん</td><td>階段</td><td></td></tr>
+<tr><td>19</td><td>エレベーター</td><td></td><td>電梯</td></tr>
+<tr><td>20</td><td>エスカレーター</td><td></td><td>電扶梯</td></tr>
+<tr><td>21</td><td>じどうはんばいき</td><td>自動販売機</td><td></td></tr>
+<tr><td>22</td><td>でんわ</td><td>電話</td><td></td></tr>
+<tr><td>23</td><td>「お」くに</td><td>「お」国</td><td></td></tr>
+<tr><td>24</td><td>かいしゃ</td><td>会社</td><td></td></tr>
+<tr><td>25</td><td>うち</td><td></td><td>家</td></tr>
+<tr><td>26</td><td>くつ</td><td>靴</td><td></td></tr>
+<tr><td>27</td><td>ネクタイ</td><td></td><td>領呔</td></tr>
+<tr><td>28</td><td>ワイン</td><td></td><td>葡萄酒</td></tr>
+<tr><td>29</td><td>うりば</td><td>売り場</td><td></td></tr>
+<tr><td>30</td><td>ちか</td><td>地下</td><td></td></tr>
+<tr><td>31</td><td>…かい(…がい)</td><td>…階</td><td></td></tr>
+<tr><td>32</td><td>なんかい</td><td>何階</td><td></td></tr>
+<tr><td>33</td><td>…えん</td><td>…円</td><td></td></tr>
+<tr><td>34</td><td>いくら</td><td></td><td></td></tr>
+<tr><td>35</td><td>ひゃく</td><td>百</td><td></td></tr>
+<tr><td>36</td><td>せん</td><td>千</td><td></td></tr>
+<tr><td>37</td><td>まん</td><td>万</td><td></td></tr>
+<tr><td>38</td><td>いらっしゃいませ</td><td></td><td>歡迎光臨</td></tr>
+<tr><td>39</td><td>「〜を」みせてください。</td><td>「〜を」見せてください。</td><td>請給我看</td></tr>
+<tr><td>40</td><td>じゃ</td><td></td><td>那麼</td></tr>
+<tr><td>41</td><td>「〜を」ください。</td><td></td><td>請給我～</td></tr>
+<tr><td>42</td><td>すみません</td><td></td><td>對不起、抱歉</td></tr>
+<tr><td>43</td><td>どうも</td><td></td><td>謝謝</td></tr>
+<tr><td>44</td><td>イタリア</td><td></td><td>意大利</td></tr>
+<tr><td>45</td><td>スイス</td><td></td><td>瑞士</td></tr>
+<tr><td>46</td><td>フランス</td><td></td><td>法國</td></tr>
+<tr><td>47</td><td>ジャカルタ</td><td></td><td>雅加達</td></tr>
+<tr><td>48</td><td>バンコク</td><td></td><td>曼谷</td></tr>
+<tr><td>49</td><td>ベルリン</td><td></td><td>柏林</td></tr>
+<tr><td>50</td><td>しんおおさか</td><td>新大阪</td><td></td></tr>    
+</table>
+
+    <p><h4 id="Chapter_4">第四課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>おきます</td><td>起きます</td><td></td><td>2</td></tr>
+<tr><td>2</td><td>ねます</td><td>寝ます</td><td></td><td></td></tr>
+<tr><td>3</td><td>はたらきます</td><td>働きます</td><td></td><td></td></tr>
+<tr><td>4</td><td>やすみます</td><td>休みます</td><td></td><td></td></tr>
+<tr><td>5</td><td>べんきょうします</td><td>勉強します</td><td></td><td></td></tr>
+<tr><td>6</td><td>おわります</td><td>終わります</td><td></td><td></td></tr>
+<tr><td>7</td><td>デパート</td><td></td><td>百貨公司</td><td></td></tr>
+<tr><td>8</td><td>ぎんこう</td><td>銀行</td><td></td><td></td></tr>
+<tr><td>9</td><td>ゆうびんきょく</td><td>郵便局</td><td></td><td></td></tr>
+<tr><td>10</td><td>としょかん</td><td>図書館</td><td></td><td></td></tr>
+<tr><td>11</td><td>びじゅつかん</td><td>美術館</td><td></td><td></td></tr>
+<tr><td>12</td><td>いま</td><td>今</td><td></td><td></td></tr>
+<tr><td>13</td><td>…じ</td><td>…時</td><td></td><td></td></tr>
+<tr><td>14</td><td>…ふん(…ぷん)</td><td>…分</td><td></td><td></td></tr>
+<tr><td>15</td><td>はん</td><td>半</td><td></td><td></td></tr>
+<tr><td>16</td><td>なんじ</td><td>何時</td><td></td><td></td></tr>
+<tr><td>17</td><td>なんぷん</td><td>何分</td><td></td><td></td></tr>
+<tr><td>18</td><td>ごぜん</td><td>午前</td><td></td><td></td></tr>
+<tr><td>19</td><td>ごご</td><td>午後</td><td></td><td></td></tr>
+<tr><td>20</td><td>あさ</td><td>朝</td><td></td><td></td></tr>
+<tr><td>21</td><td>ひる</td><td>昼</td><td></td><td></td></tr>
+<tr><td>22</td><td>ばん</td><td>晩</td><td></td><td></td></tr>
+<tr><td>23</td><td>よる</td><td>夜</td><td></td><td></td></tr>
+<tr><td>24</td><td>おととい</td><td></td><td>前天</td><td></td></tr>
+<tr><td>25</td><td>きのう</td><td></td><td>昨天</td><td></td></tr>
+<tr><td>26</td><td>きょう</td><td></td><td>今天</td><td></td></tr>
+<tr><td>27</td><td>あした</td><td></td><td>明天</td><td></td></tr>
+<tr><td>28</td><td>あさって</td><td></td><td>後天</td><td></td></tr>
+<tr><td>29</td><td>けさ</td><td>今朝</td><td></td><td></td></tr>
+<tr><td>30</td><td>こんばん</td><td>今晩</td><td></td><td></td></tr>
+<tr><td>31</td><td>やすみ</td><td>休み</td><td></td><td></td></tr>
+<tr><td>32</td><td>ひるやすみ</td><td>昼休み</td><td></td><td></td></tr>
+<tr><td>33</td><td>しけん</td><td>試験</td><td></td><td></td></tr>
+<tr><td>34</td><td>かいぎ</td><td>会議</td><td></td><td></td></tr>
+<tr><td>35</td><td>えいが</td><td>映画</td><td></td><td></td></tr>
+<tr><td>36</td><td>まいあさ</td><td>毎朝</td><td></td><td></td></tr>
+<tr><td>37</td><td>まいばん</td><td>毎晩</td><td></td><td></td></tr>
+<tr><td>38</td><td>まいにち</td><td>毎日</td><td></td><td></td></tr>
+<tr><td>39</td><td>げつようび</td><td>月曜日</td><td></td><td></td></tr>
+<tr><td>40</td><td>かようび</td><td>火曜日</td><td></td><td></td></tr>
+<tr><td>41</td><td>すいようび</td><td>水曜日</td><td></td><td></td></tr>
+<tr><td>42</td><td>もくようび</td><td>木曜日</td><td></td><td></td></tr>
+<tr><td>43</td><td>きんようび</td><td>金曜日</td><td></td><td></td></tr>
+<tr><td>44</td><td>どようび</td><td>土曜日</td><td></td><td></td></tr>
+<tr><td>45</td><td>にちようび</td><td>日曜日</td><td></td><td></td></tr>
+<tr><td>46</td><td>なんようび</td><td>何曜日</td><td></td><td></td></tr>
+<tr><td>47</td><td>〜から</td><td></td><td></td><td></td></tr>
+<tr><td>48</td><td>〜まで</td><td></td><td></td><td></td></tr>
+<tr><td>49</td><td>〜と〜</td><td></td><td></td><td></td></tr>
+<tr><td>50</td><td>ばんごう</td><td>番号</td><td>號碼</td><td></td></tr>
+<tr><td>51</td><td>なんばん</td><td>何番</td><td>幾號</td><td></td></tr>
+<tr><td>52</td><td>そちら</td><td></td><td>那邊、你那邊</td><td></td></tr>
+<tr><td>53</td><td>たいへんですね。</td><td>大変ですね。</td><td>真是辛苦啊。</td><td></td></tr>
+<tr><td>54</td><td>ニューヨーク</td><td></td><td>紐約</td><td></td></tr>
+<tr><td>55</td><td>ペキン</td><td></td><td>北京</td><td></td></tr>
+<tr><td>56</td><td>ロサンゼルス</td><td></td><td>洛杉磯</td><td></td></tr>
+<tr><td>57</td><td>ロンドン</td><td></td><td>倫敦</td><td></td></tr>
+<tr><td>58</td><td>でんわばんごう</td><td>電話番号</td><td></td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_5">第五課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>いきます</td><td>行きます</td><td></td></tr>
+<tr><td>2</td><td>きます</td><td>来ます</td><td></td></tr>
+<tr><td>3</td><td>かえります</td><td>帰ります</td><td></td></tr>
+<tr><td>4</td><td>がっこう</td><td>学校</td><td></td></tr>
+<tr><td>5</td><td>スーパー</td><td></td><td>超級市場</td></tr>
+<tr><td>6</td><td>えき</td><td>駅</td><td></td></tr>
+<tr><td>7</td><td>ひこうき</td><td>飛行機</td><td></td></tr>
+<tr><td>8</td><td>ふね</td><td>船</td><td></td></tr>
+<tr><td>9</td><td>でんしゃ</td><td>電車</td><td></td></tr>
+<tr><td>10</td><td>ちかてつ</td><td>地下鉄</td><td></td></tr>
+<tr><td>11</td><td>しんかんせん</td><td>新幹線</td><td></td></tr>
+<tr><td>12</td><td>バス</td><td></td><td>巴士</td></tr>
+<tr><td>13</td><td>タクシー</td><td></td><td>的士</td></tr>
+<tr><td>14</td><td>じてんしゃ</td><td>自転車</td><td></td></tr>
+<tr><td>15</td><td>あるいて</td><td>歩いて</td><td></td></tr>
+<tr><td>16</td><td>ひと</td><td>人</td><td></td></tr>
+<tr><td>17</td><td>ともたち</td><td>友達</td><td></td></tr>
+<tr><td>18</td><td>かれ</td><td>彼</td><td></td></tr>
+<tr><td>19</td><td>かのじょ</td><td>彼女</td><td></td></tr>
+<tr><td>20</td><td>かぞく</td><td>家族</td><td></td></tr>
+<tr><td>21</td><td>ひとりで</td><td>一人で</td><td></td></tr>
+<tr><td>22</td><td>せんしゅう</td><td>先週</td><td></td></tr>
+<tr><td>23</td><td>こんしゅう</td><td>今週</td><td></td></tr>
+<tr><td>24</td><td>らいしゅう</td><td>来週</td><td></td></tr>
+<tr><td>25</td><td>せんげつ</td><td>先月</td><td></td></tr>
+<tr><td>26</td><td>こんげつ</td><td>今月</td><td></td></tr>
+<tr><td>27</td><td>らいげつ</td><td>来月</td><td></td></tr>
+<tr><td>28</td><td>きょねん</td><td>去年</td><td></td></tr>
+<tr><td>29</td><td>ことし</td><td></td><td>今年</td></tr>
+<tr><td>30</td><td>らいねん</td><td>来年</td><td></td></tr>
+<tr><td>31</td><td>…ねん</td><td>…年</td><td></td></tr>
+<tr><td>32</td><td>なんねん</td><td>何年</td><td></td></tr>
+<tr><td>33</td><td>…がつ</td><td>…月</td><td></td></tr>
+<tr><td>34</td><td>なんがつ</td><td>何月</td><td></td></tr>
+<tr><td>35</td><td>ついたち</td><td>1日</td><td></td></tr>
+<tr><td>36</td><td>ふつか</td><td>2日</td><td></td></tr>
+<tr><td>37</td><td>みっか</td><td>3日</td><td></td></tr>
+<tr><td>38</td><td>よっか</td><td>4日</td><td></td></tr>
+<tr><td>39</td><td>いつか</td><td>5日</td><td></td></tr>
+<tr><td>40</td><td>むいか</td><td>6日</td><td></td></tr>
+<tr><td>41</td><td>なのか</td><td>7日</td><td></td></tr>
+<tr><td>42</td><td>ようか</td><td>8日</td><td></td></tr>
+<tr><td>43</td><td>ここのか</td><td>9日</td><td></td></tr>
+<tr><td>44</td><td>とおか</td><td>10日</td><td></td></tr>
+<tr><td>45</td><td>じゅうよっか</td><td>14日</td><td></td></tr>
+<tr><td>46</td><td>はつか</td><td>20日</td><td></td></tr>
+<tr><td>47</td><td>にじゅうよっか</td><td>24日</td><td></td></tr>
+<tr><td>48</td><td>…にち</td><td>…日</td><td></td></tr>
+<tr><td>49</td><td>なんにち</td><td>何日</td><td></td></tr>
+<tr><td>50</td><td>いつ</td><td></td><td>什麼時候</td></tr>
+<tr><td>51</td><td>たんじょうび</td><td>誕生日</td><td></td></tr>
+<tr><td>52</td><td>「どうも」ありがとうございました</td><td></td><td>非常感謝</td></tr>
+<tr><td>53</td><td style="background-color:#FFFF00">どういたしまして</td><td></td><td>不客氣</td></tr>
+<tr><td>54</td><td>……ばんせん</td><td>……番線</td><td></td></tr>
+<tr><td>55</td><td>つぎの</td><td>次の</td><td></td></tr>
+<tr><td>56</td><td>ふつう</td><td>普通</td><td></td></tr>
+<tr><td>57</td><td>きゅうこう</td><td>急行</td><td></td></tr>
+<tr><td>58</td><td>とっきゅう</td><td>特急</td><td></td></tr>
+<tr><td>59</td><td>そうですね</td><td></td><td>是啊</td></tr>
+<tr><td>60</td><td>こうしえん</td><td>甲子園</td><td></td></tr>
+<tr><td>61</td><td>おおさかじょう</td><td>大阪城</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_6">第六課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>たべます</td><td>食べます</td><td></td></tr>
+<tr><td>2</td><td>のみます</td><td>飲みます</td><td></td></tr>
+<tr><td>3</td><td>すいます「たばこを〜」</td><td>吸います「たばこを〜」</td><td></td></tr>
+<tr><td>4</td><td>みます</td><td>見ます</td><td></td></tr>
+<tr><td>5</td><td>ききます</td><td>聞きます</td><td></td></tr>
+<tr><td>6</td><td>よみます</td><td>読みます</td><td></td></tr>
+<tr><td>7</td><td>かきます</td><td>書きます</td><td></td></tr>
+<tr><td>8</td><td>かいます</td><td>買います</td><td></td></tr>
+<tr><td>9</td><td>とります「しゃしんを〜」</td><td>撮ります「写真を〜」</td><td></td></tr>
+<tr><td>10</td><td>します</td><td></td><td></td></tr>
+<tr><td>11</td><td>あいます「ともたちに〜」</td><td>会います「友達に〜」</td><td></td></tr>
+<tr><td>12</td><td>ごはん</td><td></td><td></td></tr>
+<tr><td>13</td><td>あさごはん</td><td>朝ごはん</td><td></td></tr>
+<tr><td>14</td><td>ひるごはん</td><td>昼ごはん</td><td></td></tr>
+<tr><td>15</td><td>ばんごはん</td><td>晩ごはん</td><td></td></tr>
+<tr><td>16</td><td>パン</td><td></td><td>麵包</td></tr>
+<tr><td>17</td><td>たまご</td><td>卵</td><td></td></tr>
+<tr><td>18</td><td>にく</td><td>肉</td><td></td></tr>
+<tr><td>19</td><td>さかな</td><td>魚</td><td></td></tr>
+<tr><td>20</td><td>やさい</td><td>野菜</td><td></td></tr>
+<tr><td>21</td><td>くだもの</td><td>果物</td><td></td></tr>
+<tr><td>22</td><td>みず</td><td>水</td><td></td></tr>
+<tr><td>23</td><td>おちゃ</td><td>お茶</td><td></td></tr>
+<tr><td>24</td><td>こうちゃ</td><td>紅茶</td><td></td></tr>
+<tr><td>25</td><td>ぎゅうにゅう(ミルク)</td><td>牛乳</td><td></td></tr>
+<tr><td>26</td><td>ジュース</td><td></td><td>果汁</td></tr>
+<tr><td>27</td><td>ビール</td><td></td><td>啤酒</td></tr>
+<tr><td>28</td><td>ビル</td><td></td><td>大廈</td></tr>
+<tr><td>29</td><td>「お」さけ</td><td>「お」酒</td><td></td></tr>
+<tr><td>30</td><td>たばこ</td><td></td><td>香煙</td></tr>
+<tr><td>31</td><td>てがみ</td><td>手紙</td><td>信</td></tr>
+<tr><td>32</td><td>レポート</td><td></td><td>報告</td></tr>
+<tr><td>33</td><td>しゃしん</td><td>写真</td><td></td></tr>
+<tr><td>34</td><td>ビデオ</td><td></td><td>Video</td></tr>
+<tr><td>35</td><td>みせ</td><td>店</td><td></td></tr>
+<tr><td>36</td><td>にわ</td><td>庭</td><td></td></tr>
+<tr><td>37</td><td>しゅくだい</td><td>宿題</td><td>〜をします</td></tr>
+<tr><td>38</td><td>テニス</td><td></td><td>〜をします</td></tr>
+<tr><td>39</td><td>サッカー</td><td></td><td>〜をします</td></tr>
+<tr><td>40</td><td>「お」はなみ</td><td>「お」花見</td><td>〜をします</td></tr>
+<tr><td>41</td><td>なに</td><td>何</td><td>什麼</td></tr>
+<tr><td>42</td><td>いっしょに</td><td></td><td>一起</td></tr>
+<tr><td>43</td><td>ちょっと</td><td></td><td>一會、一點</td></tr>
+<tr><td>44</td><td>いつも</td><td></td><td>經常、總是</td></tr>
+<tr><td>45</td><td>ときどき</td><td>時々</td><td>有時</td></tr>
+<tr><td>46</td><td>それから</td><td></td><td>然後</td></tr>
+<tr><td>47</td><td>ええ</td><td></td><td>是的</td></tr>
+<tr><td>48</td><td>いいですね。</td><td></td><td>好啊。</td></tr>
+<tr><td>49</td><td>わかりました。</td><td></td><td>我明白了。</td></tr>
+<tr><td>50</td><td>なんですか。</td><td>何ですか。</td><td>什麼事？</td></tr>
+<tr><td>51</td><td>じゃ、また「あした」</td><td></td><td>那麼，(明天)再見</td></tr>
+<tr><td>52</td><td>メキシコ</td><td>墨西哥</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_7">第七課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>きります</td><td>切ります</td><td>切、剪</td></tr>
+<tr><td>2</td><td>おくります</td><td>送ります</td><td>寄、送</td></tr>
+<tr><td>3</td><td>あげます</td><td></td><td>給</td></tr>
+<tr><td>4</td><td>もらいます</td><td></td><td>得到</td></tr>
+<tr><td>5</td><td>かします</td><td>貸します</td><td>借給</td></tr>
+<tr><td>6</td><td>かります</td><td>借ります</td><td>借</td></tr>
+<tr><td>7</td><td>おしえます</td><td>教えます</td><td>教、告訴</td></tr>
+<tr><td>8</td><td>ならいます</td><td>習います</td><td>學習</td></tr>
+<tr><td>9</td><td>かけます「でんわを〜」</td><td>「電話を〜」</td><td>打電話</td></tr>
+<tr><td>10</td><td>て</td><td>手</td><td></td></tr>
+<tr><td>11</td><td>はし</td><td></td><td>筷子</td></tr>
+<tr><td>12</td><td>スプーン</td><td></td><td>匙羹</td></tr>
+<tr><td>13</td><td>ナイフ</td><td></td><td>刀</td></tr>
+<tr><td>14</td><td>フォーク</td><td></td><td>叉</td></tr>
+<tr><td>15</td><td>はさみ</td><td></td><td>剪刀</td></tr>
+<tr><td>16</td><td>パソコン</td><td></td><td>電腦</td></tr>
+<tr><td>17</td><td>ケータイ</td><td>携帶</td><td>手機</td></tr>
+<tr><td>18</td><td>メール</td><td></td><td>電郵</td></tr>
+<tr><td>19</td><td>ねんがじょう</td><td>年賀状</td><td>賀年卡</td></tr>
+<tr><td>20</td><td>パンチ</td><td></td><td>打孔機</td></tr>
+<tr><td>21</td><td>ホッチキス</td><td></td><td>釘書機</td></tr>
+<tr><td>22</td><td>セロテープ</td><td></td><td>透明膠帶</td></tr>
+<tr><td>23</td><td>けしごむ</td><td>消しゴム</td><td></td></tr>
+<tr><td>24</td><td>かみ</td><td>紙</td><td></td></tr>
+<tr><td>25</td><td>はな</td><td>花</td><td></td></tr>
+<tr><td>26</td><td>シャツ</td><td></td><td>襯衫</td></tr>
+<tr><td>27</td><td>プレゼント</td><td></td><td>禮物</td></tr>
+<tr><td>28</td><td>にもつ</td><td>荷物</td><td>行李、包裹</td></tr>
+<tr><td>29</td><td>おかね</td><td>お金</td><td>錢</td></tr>
+<tr><td>30</td><td>きっぷ</td><td>切符</td><td>車票、入場券</td></tr>
+<tr><td>31</td><td>クリスマス</td><td></td><td>聖誕</td></tr>
+<tr><td>32</td><td>ちち</td><td>父</td><td>家父</td></tr>
+<tr><td>33</td><td>はは</td><td>母</td><td>家母</td></tr>
+<tr><td>34</td><td>おとうさん</td><td>お父さん</td><td>別人的父親、稱呼自己父親時也使用</td></tr>
+<tr><td>35</td><td>おかあさん</td><td>お母さん</td><td>別人的母親、稱呼自己母親時也使用</td></tr>
+<tr><td>36</td><td>もう</td><td></td><td>已經</td></tr>
+<tr><td>37</td><td>まだ</td><td></td><td>尚未、還沒</td></tr>
+<tr><td>38</td><td>これから</td><td></td><td>從現在起</td></tr>
+<tr><td>39</td><td>いらっしゃい。</td><td></td><td>歡迎</td></tr>
+<tr><td>40</td><td>どうぞおあがりください。</td><td>どうぞお上がりください。</td><td>請進</td></tr>
+<tr><td>41</td><td>しつれいします。</td><td>失礼します。</td><td>打擾了</td></tr>
+<tr><td>42</td><td>「〜は」いかがですか。</td><td></td><td>你覺得～怎麼樣？</td></tr>
+<tr><td>43</td><td>いただきます。</td><td></td><td>我開動了</td></tr>
+<tr><td>44</td><td>ごちそうさまでした。</td><td></td><td>我吃飽了</td></tr>
+<tr><td>45</td><td>「〜、」すてきですね。</td><td></td><td>〜、真不錯啊！</td></tr>
+<tr><td>46</td><td>スペイン</td><td></td><td>西班牙</td></tr>
+</table>
+
+<p><h4 id="Chapter_8">第八課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>ハンサム「な」</td><td></td><td>英俊</td></tr>
+<tr><td>2</td><td>きれい「な」</td><td></td><td>漂亮</td></tr>
+<tr><td>3</td><td>しずか「な」</td><td>静か</td><td>安靜</td></tr>
+<tr><td>4</td><td>にぎやか「な」</td><td></td><td>熱鬧</td></tr>
+<tr><td>5</td><td>ゆうめい「な」</td><td>有名</td><td>有名</td></tr>
+<tr><td>6</td><td>しんせつ「な」</td><td>親切</td><td>親切(不用於自己親屬)</td></tr>
+<tr><td>7</td><td>げんき「な」</td><td>元気</td><td>健康</td></tr>
+<tr><td>8</td><td>ひま「な」</td><td>暇</td><td>有時間、有空</td></tr>
+<tr><td>9</td><td>べんり「な」</td><td>便利</td><td>方便</td></tr>
+<tr><td>10</td><td>すてき「な」</td><td>素敵</td><td>非常好</td></tr>
+<tr><td>11</td><td>おおきい</td><td>大きい</td><td>大</td></tr>
+<tr><td>12</td><td>ちいさい</td><td>小さい</td><td>小</td></tr>
+<tr><td>13</td><td>あたらしい</td><td>新しい</td><td>新、新鮮</td></tr>
+<tr><td>14</td><td>ふるい</td><td>古い</td><td>舊、不新鮮</td></tr>
+<tr><td>15</td><td>いい(よい)</td><td></td><td>好</td></tr>
+<tr><td>16</td><td>わるい</td><td>悪い</td><td>壞</td></tr>
+<tr><td>17</td><td>あつい</td><td>暑い、熱い</td><td>熱</td></tr>
+<tr><td>18</td><td>さむい</td><td>寒い</td><td>冷</td></tr>
+<tr><td>19</td><td>つめたい</td><td>冷たい</td><td>冰、涼</td></tr>
+<tr><td>20</td><td>むずかしい</td><td>難しい</td><td>難</td></tr>
+<tr><td>21</td><td>やさしい</td><td>易しい</td><td>簡單</td></tr>
+<tr><td>22</td><td>たかい</td><td>高い</td><td>貴、高</td></tr>
+<tr><td>23</td><td>やすい</td><td>安い</td><td>便宜</td></tr>
+<tr><td>24</td><td>ひくい</td><td>低い</td><td>低、矮</td></tr>
+<tr><td>25</td><td>おもしろい</td><td>面白い</td><td>有趣</td></tr>
+<tr><td>26</td><td>おいしい</td><td></td><td>好吃</td></tr>
+<tr><td>27</td><td>いそがしい</td><td>忙しい</td><td>忙</td></tr>
+<tr><td>28</td><td>たのしい</td><td>楽しい</td><td>愉快、高興</td></tr>
+<tr><td>29</td><td>しろい</td><td>白い</td><td>白色</td></tr>
+<tr><td>30</td><td>くろい</td><td>黒い</td><td>黑色</td></tr>
+<tr><td>31</td><td>あかい</td><td>赤い</td><td>紅色</td></tr>
+<tr><td>32</td><td>あおい</td><td>青い</td><td>藍色</td></tr>
+<tr><td>33</td><td>さくら</td><td>桜</td><td>櫻花</td></tr>
+<tr><td>34</td><td>やま</td><td>山</td><td>山</td></tr>
+<tr><td>35</td><td>まち</td><td>町</td><td>市鎮、街道</td></tr>
+<tr><td>36</td><td>たべもの</td><td>食べ物</td><td>食物</td></tr>
+<tr><td>37</td><td>ところ</td><td>所</td><td>地方</td></tr>
+<tr><td>38</td><td>りょう</td><td>寮</td><td>宿舍</td></tr>
+<tr><td>39</td><td>レストラン</td><td></td><td>餐廳</td></tr>
+<tr><td>40</td><td>せいかつ</td><td>生活</td><td>生活</td></tr>
+<tr><td>41</td><td>「お」しごと</td><td>「お」仕事</td><td>工作(～をします)</td></tr>
+<tr><td>42</td><td>どう</td><td></td><td>怎麼樣</td></tr>
+<tr><td>43</td><td>どんな〜</td><td></td><td>什麼樣的+名詞</td></tr>
+<tr><td>44</td><td>とても</td><td></td><td>非常</td></tr>
+<tr><td>45</td><td>あまり</td><td></td><td>不太～+否定句</td></tr>
+<tr><td>46</td><td>そして</td><td></td><td>而且、於是</td></tr>
+<tr><td>47</td><td>〜が、〜</td><td></td><td>～、但是～</td></tr>
+<tr><td>48</td><td>「〜、」もういっぱいいかがですか。</td><td>「〜、」もう一杯いかがですか。</td><td>再來一杯～怎麼樣？</td></tr>
+<tr><td>49</td><td>「いいえ、」けっこうです。</td><td>「いいえ、」結構です。</td><td>不、足夠了。</td></tr>
+<tr><td>50</td><td>もう～です「ね」。</td><td></td><td>已經～了呢</td></tr>
+<tr><td>51</td><td>そろそろしつれいします。</td><td>そろそろ失礼します。</td><td>差不多該告辭了。</td></tr>
+<tr><td>52</td><td>いいえ。</td><td></td><td>不、沒什麼。</td></tr>
+<tr><td>53</td><td>またいらっしゃってください。</td><td></td><td>歡迎再來。</td></tr>
+<tr><td>54</td><td>おかげさまでげんきです。</td><td>おかげさまで元気です。</td><td>托你的福。</td></tr>
+<tr><td>55</td><td>おげんきですか。</td><td>お元気ですか。</td><td>你好嗎？</td></tr>
+<tr><td>56</td><td>そうですね。</td><td></td><td>嗯。</td></tr>
+<tr><td>57</td><td>シャンハイ</td><td></td><td>上海</td></tr>
+<tr><td>58</td><td>きんかくじ</td><td>金閣寺</td><td></td></tr>
+<tr><td>59</td><td>ならこうえん</td><td>奈良公園</td><td></td></tr>
+<tr><td>60</td><td>ふじさん</td><td>富士山</td><td></td></tr>
+</table>
+    
+<p><h4 id="Chapter_9">第九課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>わかります</td><td></td><td>懂、明白</td></tr>
+<tr><td>2</td><td>あります</td><td></td><td>有</td></tr>
+<tr><td>3</td><td>すき「な」</td><td>好き</td><td>喜歡</td></tr>
+<tr><td>4</td><td>きらい「な」</td><td>嫌い</td><td>討厭</td></tr>
+<tr><td>5</td><td>じょうず「な」</td><td>上手</td><td>好、擅長</td></tr>
+<tr><td>6</td><td>へた「な」</td><td>下手</td><td>不好、不擅長</td></tr>
+<tr><td>7</td><td>のみもの</td><td>飲み物</td><td>飲料</td></tr>
+<tr><td>8</td><td>りょうり</td><td>料理</td><td>料理、菜餚(～をします)</td></tr>
+<tr><td>9</td><td>スポーツ</td><td></td><td>體育、運動(～をします)</td></tr>
+<tr><td>10</td><td>やきゅう</td><td>野球</td><td>棒球(～をします)</td></tr>
+<tr><td>11</td><td>ダンス</td><td></td><td>跳舞(～をします)</td></tr>
+<tr><td>12</td><td>りょこう</td><td>旅行</td><td>旅行(～をします)</td></tr>
+<tr><td>13</td><td>おんがく</td><td>音楽</td><td>音樂</td></tr>
+<tr><td>14</td><td>うた</td><td>歌</td><td>歌</td></tr>
+<tr><td>15</td><td>クラシック</td><td></td><td>古典音樂</td></tr>
+<tr><td>16</td><td>ジャズ</td><td></td><td>爵士樂</td></tr>
+<tr><td>17</td><td>コンサート</td><td></td><td>音樂會</td></tr>
+<tr><td>18</td><td>カラオケ</td><td></td><td>卡拉OK</td></tr>
+<tr><td>19</td><td>かぶき</td><td>歌舞伎</td><td>歌舞伎</td></tr>
+<tr><td>20</td><td>え</td><td>絵</td><td>畫</td></tr>
+<tr><td>21</td><td>じ</td><td>字</td><td>字</td></tr>
+<tr><td>22</td><td>かんじ</td><td>漢字</td><td>漢字</td></tr>
+<tr><td>23</td><td>ひらがな</td><td>平仮名</td><td>平假名</td></tr>
+<tr><td>24</td><td>かたかな</td><td>片仮名</td><td>片假名</td></tr>
+<tr><td>25</td><td>ローマじ</td><td>ローマ字</td><td>羅馬字</td></tr>
+<tr><td>26</td><td>こまかいおかね</td><td>細かいお金</td><td>零錢</td></tr>
+<tr><td>27</td><td>チケット</td><td></td><td>票</td></tr>
+<tr><td>28</td><td>じかん</td><td>時間</td><td>時間</td></tr>
+<tr><td>29</td><td>ようじ</td><td>用事</td><td>事情</td></tr>
+<tr><td>30</td><td>やくそく</td><td>約束</td><td>約定(～をします)</td></tr>
+<tr><td>31</td><td>アルバイト</td><td></td><td>打工(～をします)</td></tr>
+<tr><td>32</td><td>ごしゅじん</td><td>ご主人</td><td>別人的丈夫</td></tr>
+<tr><td>33</td><td>おっと</td><td>夫</td><td>自己的丈夫</td></tr>
+<tr><td>34</td><td>しゅじん</td><td>主人</td><td>自己的丈夫</td></tr>
+<tr><td>35</td><td>おくさん</td><td>奥さん</td><td>別人的妻子</td></tr>
+<tr><td>36</td><td>つま</td><td>妻</td><td>自己的妻子</td></tr>
+<tr><td>37</td><td>かない</td><td>家内</td><td>自己的妻子</td></tr>
+<tr><td>38</td><td>こども</td><td>子ども/子供</td><td>小孩</td></tr>
+<tr><td>39</td><td>よく</td><td></td><td>很、非常</td></tr>
+<tr><td>40</td><td>だいたい</td><td>大体</td><td>大致、大概</td></tr>
+<tr><td>41</td><td>たくさん</td><td></td><td>很多</td></tr>
+<tr><td>42</td><td>すこし</td><td>少し</td><td>一些、一點</td></tr>
+<tr><td>43</td><td>ぜんぜん</td><td>全然</td><td>完全+否定句</td></tr>
+<tr><td>44</td><td>はやく</td><td>早く、速く</td><td>早、快</td></tr>
+<tr><td>45</td><td>〜から</td><td></td><td>因為～</td></tr>
+<tr><td>46</td><td>どうして</td><td></td><td>怎麼、為什麼</td></tr>
+<tr><td>47</td><td>ああ</td><td></td><td>啊</td></tr>
+<tr><td>48</td><td>いっしょにいかがですか。</td><td></td><td>一起來怎麼樣？</td></tr>
+<tr><td>49</td><td>「〜は」ちょっと…。</td><td></td><td>～有點⋯</td></tr>
+<tr><td>50</td><td>だめですか。</td><td></td><td>不行嗎？</td></tr>
+<tr><td>51</td><td>またこんどおねがいします。</td><td>また今度お願いします。</td><td>下一次請再邀我。</td></tr>
+<tr><td>52</td><td>かしてください。</td><td>貸してください。</td><td>請借給我。</td></tr>
+<tr><td>53</td><td>いいですよ。</td><td></td><td>好啊</td></tr>
+<tr><td>54</td><td>ざんねんですが、ともたちとやくそくがありますから、…</td><td>残念ですが、友達と約束がありますから、…</td><td>雖然很遺憾⋯</td></tr>
+</table>
+
+<p><h4 id="Chapter_10">第十課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>あります</td><td></td><td>在、有(不會活動的東西)</td></tr>
+<tr><td>2</td><td>います</td><td></td><td>在、有(人、動物)</td></tr>
+<tr><td>3</td><td>いろいろ「な」</td><td></td><td>各式各樣</td></tr>
+<tr><td>4</td><td>おとこのひと</td><td>男の人</td><td></td></tr>
+<tr><td>5</td><td>おんなのひと</td><td>女の人</td><td></td></tr>
+<tr><td>6</td><td>おとこのこ</td><td>男の子</td><td></td></tr>
+<tr><td>7</td><td>おんなのこ</td><td>女の子</td><td></td></tr>
+<tr><td>8</td><td>いぬ</td><td>犬</td><td></td></tr>
+<tr><td>9</td><td>ねこ</td><td>猫</td><td></td></tr>
+<tr><td>10</td><td>パンダ</td><td></td><td>熊貓</td></tr>
+<tr><td>11</td><td>ぞう</td><td>象</td><td></td></tr>
+<tr><td>12</td><td>き</td><td>木</td><td></td></tr>
+<tr><td>13</td><td>もの</td><td>物</td><td></td></tr>
+<tr><td>14</td><td>でんち</td><td>電池</td><td></td></tr>
+<tr><td>15</td><td>はこ</td><td>箱</td><td>箱子</td></tr>
+<tr><td>16</td><td>スイッチ</td><td></td><td>開關</td></tr>
+<tr><td>17</td><td>れいぞうこ</td><td>冷蔵庫</td><td>冰箱</td></tr>
+<tr><td>18</td><td>テーブル</td><td></td><td>枱</td></tr>
+<tr><td>19</td><td>ベッド</td><td></td><td>床</td></tr>
+<tr><td>20</td><td>たな</td><td>棚</td><td>架子、書架</td></tr>
+<tr><td>21</td><td>ドア</td><td></td><td>門</td></tr>
+<tr><td>22</td><td>まど</td><td>窓</td><td>窗戶</td></tr>
+<tr><td>23</td><td>ポスト</td><td></td><td>郵筒、信箱</td></tr>
+<tr><td>24</td><td>ビル</td><td></td><td>大樓</td></tr>
+<tr><td>25</td><td>エーティーエム</td><td></td><td>提款機</td></tr>
+<tr><td>26</td><td>コンビニ</td><td></td><td>便利店</td></tr>
+<tr><td>27</td><td>こうえん</td><td>公園</td><td></td></tr>
+<tr><td>28</td><td>きっさてん</td><td>喫茶店</td><td>咖啡店</td></tr>
+<tr><td>29</td><td>〜や</td><td>〜屋</td><td>～店</td></tr>
+<tr><td>30</td><td>のりば</td><td>乗り場</td><td>乗車處</td></tr>
+<tr><td>31</td><td>けん</td><td>県</td><td>縣</td></tr>
+<tr><td>32</td><td>うえ</td><td>上</td><td></td></tr>
+<tr><td>33</td><td>した</td><td>下</td><td></td></tr>
+<tr><td>34</td><td>まえ</td><td>前</td><td></td></tr>
+<tr><td>35</td><td>うしろ</td><td></td><td>後</td></tr>
+<tr><td>36</td><td>みぎ</td><td>右</td><td></td></tr>
+<tr><td>37</td><td>ひだり</td><td>左</td><td></td></tr>
+<tr><td>38</td><td>なか</td><td>中</td><td>裡面</td></tr>
+<tr><td>39</td><td>そと</td><td>外</td><td>外面</td></tr>
+<tr><td>40</td><td>となり</td><td>隣</td><td>旁邊</td></tr>
+<tr><td>41</td><td>ちかく</td><td>近く</td><td>附近</td></tr>
+<tr><td>42</td><td>あいだ</td><td>間</td><td>～之間</td></tr>
+<tr><td>43</td><td>〜や〜「など」</td><td></td><td>～和～「等」</td></tr>
+<tr><td>44</td><td>「どうも」すみません。</td><td></td><td>真是謝謝你。</td></tr>
+<tr><td>45</td><td>ナンプラー</td><td></td><td>魚露</td></tr>
+<tr><td>46</td><td>コーナー</td><td></td><td>專區、專櫃</td></tr>
+<tr><td>47</td><td>いちばんした。</td><td></td><td>最下面</td></tr>
+<tr><td>48</td><td>東京ディズニーランド</td><td></td><td>東京迪士尼</td></tr>
+<tr><td>49</td><td>ちばけん</td><td>千葉県</td><td></td></tr>
+<tr><td>50</td><td>いろいろなもの</td><td>いろいろな物</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_11">第十一課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>います「こどもが〜」</td><td>「子どもが〜」</td><td>有(小孩)</td></tr>
+<tr><td>2</td><td>います「にほんに〜」</td><td>「日本に〜」</td><td>在(日本)</td></tr>
+<tr><td>3</td><td>かかります</td><td></td><td>花費(時間、金錢等)</td></tr>
+<tr><td>4</td><td>やすみます「かいしゃを〜」</td><td>休みます「会社を〜」</td><td>(向公司)請假</td></tr>
+<tr><td>5</td><td>ひとつ</td><td>１つ</td><td></td></tr>
+<tr><td>6</td><td>ふたつ</td><td>２つ</td><td></td></tr>
+<tr><td>7</td><td>みっつ</td><td>３つ</td><td></td></tr>
+<tr><td>8</td><td>よっつ</td><td>4つ</td><td></td></tr>
+<tr><td>9</td><td>いつつ</td><td>５つ</td><td></td></tr>
+<tr><td>10</td><td>むっつ</td><td>６つ</td><td></td></tr>
+<tr><td>11</td><td>ななつ</td><td>7つ</td><td></td></tr>
+<tr><td>12</td><td>やっつ</td><td>８つ</td><td></td></tr>
+<tr><td>13</td><td>ここのつ</td><td>９つ</td><td></td></tr>
+<tr><td>14</td><td>とお</td><td>10</td><td></td></tr>
+<tr><td>15</td><td>いくつ</td><td></td><td></td></tr>
+<tr><td>16</td><td>ひとり</td><td>1人</td><td></td></tr>
+<tr><td>17</td><td>ふたり</td><td>2人</td><td></td></tr>
+<tr><td>18</td><td>…にん</td><td>…人</td><td></td></tr>
+<tr><td>19</td><td>…だい</td><td>…台</td><td></td></tr>
+<tr><td>20</td><td>…まい</td><td>…枚</td><td></td></tr>
+<tr><td>21</td><td>…かい</td><td>…回</td><td></td></tr>
+<tr><td>22</td><td>りんご</td><td>林檎</td><td></td></tr>
+<tr><td>23</td><td>みかん</td><td></td><td>柑</td></tr>
+<tr><td>24</td><td>サンドイッチ</td><td></td><td>三明治</td></tr>
+<tr><td>25</td><td>カレー「ライス」</td><td></td><td>咖哩(飯)</td></tr>
+<tr><td>26</td><td>アイスクリーム</td><td></td><td>雪糕</td></tr>
+<tr><td>27</td><td>きって</td><td>切手</td><td>郵票</td></tr>
+<tr><td>28</td><td>はがき</td><td>葉書</td><td>明信片</td></tr>
+<tr><td>29</td><td>ふうとう</td><td>封筒</td><td>信封</td></tr>
+<tr><td>30</td><td>りょうしん</td><td>両親</td><td>父母</td></tr>
+<tr><td>31</td><td>きょうだい</td><td>兄弟</td><td>兄弟姊妹</td></tr>
+<tr><td>32</td><td>あに</td><td>兄</td><td>(自己的)哥哥</td></tr>
+<tr><td>33</td><td>あにいさん</td><td>あ兄さん</td><td>(別人的)哥哥</td></tr>
+<tr><td>34</td><td>あね</td><td>姉</td><td>(自己的)姊姊</td></tr>
+<tr><td>35</td><td>あねえさん</td><td>あ姉さん</td><td>(別人的)姊姊</td></tr>
+<tr><td>36</td><td>おとうと</td><td>弟</td><td>(自己的)弟弟</td></tr>
+<tr><td>37</td><td>おとうとさん</td><td>弟さん</td><td>(別人的)弟弟</td></tr>
+<tr><td>38</td><td>いもうと</td><td>妹</td><td>(自己的)妹妹</td></tr>
+<tr><td>39</td><td>いもうとさん</td><td>妹さん</td><td>(別人的)妹妹</td></tr>
+<tr><td>40</td><td>がいこく</td><td>外国</td><td></td></tr>
+<tr><td>41</td><td>りゅうがくせい</td><td>留学生</td><td></td></tr>
+<tr><td>42</td><td>クラス</td><td></td><td>班級</td></tr>
+<tr><td>43</td><td>…じかん</td><td>…時間</td><td></td></tr>
+<tr><td>44</td><td>…しゅうかん</td><td>…週間</td><td></td></tr>
+<tr><td>45</td><td>…かげつ</td><td>…か月</td><td></td></tr>
+<tr><td>46</td><td>…ねん</td><td>…年</td><td></td></tr>
+<tr><td>47</td><td>〜ぐらい</td><td></td><td>～左右、大約～</td></tr>
+<tr><td>48</td><td>どのくらい</td><td></td><td>多久時間</td></tr>
+<tr><td>49</td><td>ぜんぶで</td><td>全部で</td><td>一共、合計</td></tr>
+<tr><td>50</td><td>みんな</td><td></td><td>全部、大家</td></tr>
+<tr><td>51</td><td>〜だけ</td><td></td><td>只～</td></tr>
+<tr><td>52</td><td>いい「お」てんきですね。</td><td>いい「お」天気ですね。</td><td>天氣真好啊。</td></tr>
+<tr><td>53</td><td>おでかけですか。</td><td>お出かけですか。</td><td>你要外出啊？</td></tr>
+<tr><td>54</td><td>ちょっと〜まで。</td><td></td><td>我去～一下。</td></tr>
+<tr><td>55</td><td>いってらっしゃい。</td><td>行ってらっしゃい。</td><td>請慢走。(在家的人使用)</td></tr>
+<tr><td>56</td><td>いってきます。</td><td>行ってきます。</td><td>我出門了。</td></tr>
+<tr><td>57</td><td>ふなびん</td><td>船便</td><td></td></tr>
+<tr><td>58</td><td>こうくうびん</td><td>航空便</td><td></td></tr>
+<tr><td>59</td><td>エアメール</td><td></td><td>航空郵件</td></tr>
+<tr><td>60</td><td>おねがいします。</td><td>お願いします。</td><td>拜託了。</td></tr>
+<tr><td>61</td><td>かしこまりました。</td><td></td><td>明白了。(服務業禮貌語)</td></tr>
+<tr><td>62</td><td>オーストラリア</td><td></td><td>澳洲</td></tr>
+</table>
+
+<p><h4 id="Chapter_12">第十二課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>かんたん「な」</td><td>簡単</td><td>簡單</td></tr>
+<tr><td>2</td><td>ちかい</td><td>近い</td><td>近</td></tr>
+<tr><td>3</td><td>とおい</td><td>遠い</td><td>遠</td></tr>
+<tr><td>4</td><td>はやい</td><td>速い、早い</td><td>快、早</td></tr>
+<tr><td>5</td><td>おそい</td><td>遅い</td><td>慢</td></tr>
+<tr><td>6</td><td>おおい「ひとが〜」</td><td>多い「人が〜」</td><td>(人)多</td></tr>
+<tr><td>7</td><td>すくない「ひとが〜」</td><td>少ない「人が〜」</td><td>(人)少</td></tr>
+<tr><td>8</td><td>あたたかい</td><td>暖かい、温かい</td><td>温暖</td></tr>
+<tr><td>9</td><td>すずしい</td><td>涼しい</td><td>涼快</td></tr>
+<tr><td>10</td><td>あまい</td><td>甘い</td><td>甜</td></tr>
+<tr><td>11</td><td>からい</td><td>辛い</td><td>辣</td></tr>
+<tr><td>12</td><td>おもい</td><td>重い</td><td>重</td></tr>
+<tr><td>13</td><td>かるい</td><td>軽い</td><td>輕</td></tr>
+<tr><td>14</td><td>いい「コーヒーが〜」</td><td></td><td>(咖啡)好,兩種選擇時</td></tr>
+<tr><td>15</td><td>きせつ</td><td></td><td>季節</td></tr>
+<tr><td>16</td><td>はる</td><td>春</td><td></td></tr>
+<tr><td>17</td><td>なつ</td><td>夏</td><td></td></tr>
+<tr><td>18</td><td>あき</td><td>秋</td><td></td></tr>
+<tr><td>19</td><td>ふゆ</td><td>冬</td><td></td></tr>
+<tr><td>20</td><td>てんき</td><td>天気</td><td></td></tr>
+<tr><td>21</td><td>あめ</td><td>雨</td><td></td></tr>
+<tr><td>22</td><td>ゆき</td><td>雪</td><td></td></tr>
+<tr><td>23</td><td>くもり</td><td>曇り</td><td>陰天</td></tr>
+<tr><td>24</td><td>ホテル</td><td></td><td>酒店</td></tr>
+<tr><td>25</td><td>くうこう</td><td>空港</td><td>機場</td></tr>
+<tr><td>26</td><td>うみ</td><td>海</td><td></td></tr>
+<tr><td>27</td><td>せかい</td><td>世界</td><td></td></tr>
+<tr><td>28</td><td>パーティー</td><td></td><td>派對(〜をします)</td></tr>
+<tr><td>29</td><td>「お」まつり</td><td>「お」祭り</td><td>慶典、廟會</td></tr>
+<tr><td>30</td><td>すきやき</td><td>すき焼き</td><td>壽喜燒</td></tr>
+<tr><td>31</td><td>さしみ</td><td>刺身</td><td></td></tr>
+<tr><td>32</td><td>「お」すし</td><td>「お」寿司</td><td></td></tr>
+<tr><td>33</td><td>てんぷら</td><td></td><td>天婦羅</td></tr>
+<tr><td>34</td><td>ぶたにく</td><td>豚肉</td><td>豬肉</td></tr>
+<tr><td>35</td><td>とりにく</td><td>とり肉</td><td>雞肉</td></tr>
+<tr><td>36</td><td>ぎゅうにく</td><td>牛肉</td><td></td></tr>
+<tr><td>37</td><td>レモン</td><td></td><td>檸檬</td></tr>
+<tr><td>38</td><td>いけばな</td><td>生け花</td><td>插花(〜をします)</td></tr>
+<tr><td>39</td><td>もみじ</td><td>紅葉</td><td>楓葉</td></tr>
+<tr><td>40</td><td>どちら</td><td></td><td>哪一個、二選一時</td></tr>
+<tr><td>41</td><td>どれ</td><td></td><td>三個或以上時</td></tr>
+<tr><td>42</td><td>どちらも</td><td></td><td>兩者都～</td></tr>
+<tr><td>43</td><td>いちばん</td><td>一番</td><td>最</td></tr>
+<tr><td>44</td><td>ずっと</td><td></td><td>～得多</td></tr>
+<tr><td>45</td><td>はじめて</td><td>初めて</td><td>第一次、初次</td></tr>
+<tr><td>46</td><td>ただいま。</td><td></td><td>我回來了。</td></tr>
+<tr><td>47</td><td>おかえりなさい。</td><td>お帰りなさい。</td><td>你回來啦！</td></tr>
+<tr><td>48</td><td>わあ、すごいひとですね。</td><td>わあ、すごい人ですね。</td><td>哇、人好多啊！</td></tr>
+<tr><td>49</td><td>つかれました。</td><td>疲れました。</td><td>我累了。</td></tr>
+<tr><td>50</td><td>ぎおんまつり</td><td>祇園祭</td><td>京都最有名的慶典</td></tr>
+<tr><td>51</td><td>ホンコン</td><td></td><td>香港</td></tr>
+<tr><td>52</td><td>シンガポール</td><td></td><td>新加坡</td></tr>
+</table>
+
+<p><h4 id="Chapter_13">第十三課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1230 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+<tr><td>1</td><td>あそびます</td><td>遊びます</td><td>玩</td></tr>
+<tr><td>2</td><td>およぎます</td><td>泳ぎます</td><td>游泳</td></tr>
+<tr><td>3</td><td>むかえます「〜を〜」</td><td>迎えます「〜を〜」</td><td>迎接</td></tr>
+<tr><td>4</td><td>つかれます</td><td>疲れます</td><td>疲累</td></tr>
+<tr><td>5</td><td>けっこんします</td><td>結婚します</td><td>結婚</td></tr>
+<tr><td>6</td><td>かいものします</td><td>買い物します</td><td>購物、買東西</td></tr>
+<tr><td>7</td><td>しょくじします</td><td>食事します</td><td>吃飯、用餐</td></tr>
+<tr><td>8</td><td>さんぽします「こうえんを〜」</td><td>散歩します「公園を〜」</td><td>（在公園）散步</td></tr>
+<tr><td>9</td><td>たいへん「な」</td><td>大変</td><td>很（累）、相當（辛苦）</td></tr>
+<tr><td>10</td><td>ほしい</td><td>欲しい</td><td>想要</td></tr>
+<tr><td>11</td><td>ひろい</td><td>広い</td><td>寬</td></tr>
+<tr><td>12</td><td>せまい</td><td>狭い</td><td>窄</td></tr>
+<tr><td>13</td><td>プール</td><td></td><td>游泳池</td></tr>
+<tr><td>14</td><td>かわ</td><td>川</td><td>河流</td></tr>
+<tr><td>15</td><td>びじゅつ</td><td>美術</td><td>美術</td></tr>
+<tr><td>16</td><td>つり</td><td>釣り</td><td>釣魚+をします</td></tr>
+<tr><td>17</td><td>スキー</td><td></td><td>滑雪+をします</td></tr>
+<tr><td>18</td><td>しゅうまつ</td><td>週末</td><td>週末</td></tr>
+<tr><td>19</td><td>「お」しょうがつ</td><td>「お」正月</td><td>新年</td></tr>
+<tr><td>20</td><td>〜ごろ</td><td></td><td>～左右時間</td></tr>
+<tr><td>21</td><td>なにか</td><td>何か</td><td>什麼</td></tr>
+<tr><td>22</td><td>どこか</td><td></td><td>哪裡</td></tr>
+<tr><td>23</td><td>ごちゅうもんは？</td><td>ご注文は？</td><td>你要點什麼？</td></tr>
+<tr><td>24</td><td>ていしょく</td><td>定食</td><td>套餐</td></tr>
+<tr><td>25</td><td>ぎゅうどん</td><td>牛どん</td><td>牛肉蓋飯</td></tr>
+<tr><td>26</td><td>「しょうしょう」おまちください。</td><td>「少々」お待ちください。</td><td>請稍等</td></tr>
+<tr><td>27</td><td>〜でございます。</td><td></td><td>です的禮貌用語</td></tr>
+<tr><td>28</td><td>べつべつに</td><td>別々に</td><td>分別、各自</td></tr>
+<tr><td>29</td><td>のどがかわきます。</td><td></td><td>口喝</td></tr>
+<tr><td>30</td><td>おなかがすきます。</td><td></td><td>肚子餓</td></tr>
+<tr><td>31</td><td>そうしましょう。</td><td></td><td>就這麼辦吧</td></tr>
+</table>
+
+<p><h4 id="Chapter_14">第十四課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>つけます</td><td></td><td>開（空調等）</td><td>2</td></tr>
+<tr><td>2</td><td>けします</td><td>消します</td><td>關（空調等）</td><td>1</td></tr>
+<tr><td>3</td><td>あけます</td><td>開けます</td><td>開（門、窗等）</td><td>2</td></tr>
+<tr><td>4</td><td>しめます</td><td>閉めます</td><td>關（門、窗等）</td><td>2</td></tr>
+<tr><td>5</td><td>いそぎます</td><td>急ぎます</td><td>趕快</td><td>1</td></tr>
+<tr><td>6</td><td>まちます</td><td>待ちます</td><td>等</td><td>1</td></tr>
+<tr><td>7</td><td>もちます</td><td>持ちます</td><td>拿</td><td>1</td></tr>
+<tr><td>8</td><td>とります</td><td>取ります</td><td>取</td><td>1</td></tr>
+<tr><td>9</td><td>てつだいます</td><td>手伝います</td><td>幫忙</td><td>1</td></tr>
+<tr><td>10</td><td>よびます</td><td>呼びます</td><td>叫</td><td>1</td></tr>
+<tr><td>11</td><td>はなします</td><td>話します</td><td>説</td><td>1</td></tr>
+<tr><td>12</td><td>つかいます</td><td>使います</td><td>使用</td><td>1</td></tr>
+<tr><td>13</td><td>とめます</td><td>止めます</td><td>停止</td><td>2</td></tr>
+<tr><td>14</td><td>みせます</td><td>見せます</td><td>出示、給人看</td><td>2</td></tr>
+<tr><td>15</td><td>おしえます「じゅうしょを〜」</td><td>教えます「住所を〜」</td><td>告訴、教</td><td>2</td></tr>
+<tr><td>16</td><td>すわります</td><td>座ります</td><td>坐</td><td>1</td></tr>
+<tr><td>17</td><td>たちます</td><td>立ちます</td><td>站立</td><td>1</td></tr>
+<tr><td>18</td><td>はいります「きっさてんに〜」</td><td>入ります「喫茶店に〜」</td><td>進入</td><td>1</td></tr>
+<tr><td>19</td><td>でます「きっさてんを〜」</td><td>出ます「喫茶店を〜」</td><td>離開</td><td>2</td></tr>
+<tr><td>20</td><td>ふります「あめが〜」</td><td>降ります「雨が〜」</td><td>下雨</td><td>1</td></tr>
+<tr><td>21</td><td>コピーします</td><td></td><td>影印</td><td>3</td></tr>
+<tr><td>22</td><td>でんき</td><td>電気</td><td>電燈、電氣</td><td></td></tr>
+<tr><td>23</td><td>エアコン</td><td></td><td>空調</td><td></td></tr>
+<tr><td>24</td><td>パスポート</td><td></td><td>護照</td><td></td></tr>
+<tr><td>25</td><td>なまえ</td><td>名前</td><td>姓名</td><td></td></tr>
+<tr><td>26</td><td>じゅうしょ</td><td>住所</td><td>地址</td><td></td></tr>
+<tr><td>27</td><td>ちず</td><td>地図</td><td>地圖</td><td></td></tr>
+<tr><td>28</td><td>しお</td><td>塩</td><td>鹽</td><td></td></tr>
+<tr><td>29</td><td>さとう</td><td>砂糖</td><td>砂糖</td><td></td></tr>
+<tr><td>30</td><td>もんだい</td><td>問題</td><td>問題</td><td></td></tr>
+<tr><td>31</td><td>こたえ</td><td>答え</td><td>回答、解答</td><td></td></tr>
+<tr><td>32</td><td>よみかた</td><td>読み方</td><td>讀法、唸法</td><td></td></tr>
+<tr><td>33</td><td>〜かた</td><td>〜方</td><td>～的方法</td><td></td></tr>
+<tr><td>34</td><td>まっすぐ</td><td></td><td>直直地</td><td></td></tr>
+<tr><td>35</td><td>ゆっくり</td><td></td><td>慢慢地、好好地</td><td></td></tr>
+<tr><td>36</td><td>すぐ</td><td></td><td>馬上</td><td></td></tr>
+<tr><td>37</td><td>また</td><td></td><td>再</td><td></td></tr>
+<tr><td>38</td><td>あとで</td><td></td><td>等一下、稍候</td><td></td></tr>
+<tr><td>39</td><td>もうすこし</td><td>もう少し</td><td>再～一點</td><td></td></tr>
+<tr><td>40</td><td>もう〜</td><td></td><td>再～</td><td></td></tr>
+<tr><td>41</td><td>しんごうをみぎへまがってください。</td><td>信号を右へ曲がってください。</td><td>請在紅綠燈處右轉</td><td></td></tr>
+<tr><td>42</td><td>これでおねがいします。</td><td>これでお願いします。</td><td>我用這個付錢</td><td></td></tr>
+<tr><td>43</td><td>おつり</td><td>お釣り</td><td>零錢</td><td></td></tr>
+<tr><td>44</td><td>さあ</td><td></td><td>那麼</td><td></td></tr>
+<tr><td>45</td><td>あれ？</td><td></td><td>咦？</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_15">第十五課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>おきます</td><td>置きます</td><td>放置</td><td>1</td></tr>
+<tr><td>2</td><td>つくります</td><td>作ります、造ります</td><td>做、製造</td><td>1</td></tr>
+<tr><td>3</td><td>うります</td><td>売ります</td><td>賣</td><td>1</td></tr>
+<tr><td>4</td><td>しります</td><td>知ります</td><td>知道</td><td>1</td></tr>
+<tr><td>5</td><td>すみます</td><td>住みます</td><td>居住</td><td>1</td></tr>
+<tr><td>6</td><td>けんきゅうします</td><td>研究します</td><td>研究</td><td>3</td></tr>
+<tr><td>7</td><td>しりょう</td><td>資料</td><td>資料</td><td></td></tr>
+<tr><td>8</td><td>カタログ</td><td></td><td>目錄</td><td></td></tr>
+<tr><td>9</td><td>じこくひょう</td><td>時刻表</td><td>時刻表</td><td></td></tr>
+<tr><td>10</td><td>ふく</td><td>服</td><td>衣服</td><td></td></tr>
+<tr><td>11</td><td>せいひん</td><td>製品</td><td>產品</td><td></td></tr>
+<tr><td>12</td><td>ソフト</td><td></td><td>軟件</td><td></td></tr>
+<tr><td>13</td><td>でんしじしょ</td><td>電子辞書</td><td>電子辭典</td><td></td></tr>
+<tr><td>14</td><td>けいざい</td><td>経済</td><td>經濟</td><td></td></tr>
+<tr><td>15</td><td>しやくしょ</td><td>市役所</td><td>市政府</td><td></td></tr>
+<tr><td>16</td><td>こうこう</td><td>高校</td><td>高中</td><td></td></tr>
+<tr><td>17</td><td>はいしゃ</td><td>歯医者</td><td>牙醫</td><td></td></tr>
+<tr><td>18</td><td>どくしん</td><td>独身</td><td>單身、未婚</td><td></td></tr>
+<tr><td>19</td><td>すみません</td><td></td><td>對不起</td><td></td></tr>
+<tr><td>20</td><td>おもいだします</td><td>思い出します</td><td>想起</td><td></td></tr>
+<tr><td>21</td><td>いらっしゃいます</td><td></td><td>有、在(います的尊敬語)</td><td></td></tr>
+<tr><td>22</td><td>みなさん</td><td>皆さん</td><td>各位</td><td></td></tr>
+<tr><td>23</td><td>にっぽんばし</td><td>日本橋</td><td>日本橋</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_16">第十六課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>のります「でんしゃに〜」</td><td>乗ります「電車に〜」</td><td>坐、搭電車</td><td>１</td></tr>
+<tr><td>2</td><td>おります「でんしゃを〜」</td><td>降ります「電車を〜」</td><td>下電車</td><td style="background-color:#FFFF00">２</td></tr>
+<tr><td>3</td><td>のりかえますう</td><td>乗り換えます</td><td>轉車</td><td>２</td></tr>
+<tr><td>4</td><td>あびます「シャワーを〜」</td><td>浴びます「シャワーを〜」</td><td>淋浴</td><td>２</td></tr>
+<tr><td>5</td><td>いれます</td><td>入れます</td><td>放入、插入</td><td>２</td></tr>
+<tr><td>6</td><td>だします</td><td>出します</td><td>拿出、取出、提交</td><td>１</td></tr>
+<tr><td>7</td><td>おろします「おかねを〜」</td><td>下ろします「お金を〜」</td><td>領錢</td><td>１</td></tr>
+<tr><td>8</td><td>はいります「だいがくに〜」</td><td>入ります「大学に〜」</td><td>上大學</td><td>１</td></tr>
+<tr><td>9</td><td>でます「だいがくを〜」</td><td>出ます「大学を〜」</td><td>大學畢業</td><td>２</td></tr>
+<tr><td>10</td><td>おします</td><td>押します</td><td>按、壓、推</td><td>１</td></tr>
+<tr><td>11</td><td>のみます</td><td>飲みます</td><td>喝、喝酒</td><td>１</td></tr>
+<tr><td>12</td><td>はじめます</td><td>始めます</td><td>開始</td><td>２</td></tr>
+<tr><td>13</td><td>けんがくします</td><td>見学します</td><td>參觀</td><td>３</td></tr>
+<tr><td>14</td><td>でんわします</td><td>電話します</td><td>打電話</td><td>３</td></tr>
+<tr><td>15</td><td>わかい</td><td>若い</td><td>年輕</td><td></td></tr>
+<tr><td>16</td><td>ながい</td><td>長い</td><td>長</td><td></td></tr>
+<tr><td>17</td><td>みじかい</td><td>短い</td><td>短</td><td></td></tr>
+<tr><td>18</td><td>あかるい</td><td>明るい</td><td>明亮</td><td></td></tr>
+<tr><td>19</td><td>くらい</td><td>暗い</td><td>昏暗</td><td></td></tr>
+<tr><td>20</td><td>からだ</td><td>体</td><td>身體</td><td></td></tr>
+<tr><td>21</td><td>あたま</td><td>頭</td><td>頭、頭腦</td><td></td></tr>
+<tr><td>22</td><td>かみ</td><td>髪</td><td>頭髮</td><td></td></tr>
+<tr><td>23</td><td>かお</td><td>顔</td><td>臉</td><td></td></tr>
+<tr><td>24</td><td>め</td><td>目</td><td>眼睛</td><td></td></tr>
+<tr><td>25</td><td>みみ</td><td>耳</td><td>耳朵</td><td></td></tr>
+<tr><td>26</td><td>はな</td><td>鼻</td><td>鼻子</td><td></td></tr>
+<tr><td>27</td><td>くち</td><td>口</td><td>嘴巴</td><td></td></tr>
+<tr><td>28</td><td>は</td><td>歯</td><td>牙齒</td><td></td></tr>
+<tr><td>29</td><td>おなか</td><td>お腹</td><td>肚子</td><td></td></tr>
+<tr><td>30</td><td>あし</td><td>足</td><td>腳、腿</td><td></td></tr>
+<tr><td>31</td><td>せ</td><td>背</td><td>身高</td><td></td></tr>
+<tr><td>32</td><td>サービス</td><td></td><td>服務</td><td></td></tr>
+<tr><td>33</td><td>ジョギング</td><td></td><td>慢跑＋をします</td><td></td></tr>
+<tr><td>34</td><td>シャワー</td><td></td><td>淋浴</td><td></td></tr>
+<tr><td>35</td><td>みどり</td><td>緑</td><td>綠色、綠意</td><td></td></tr>
+<tr><td>36</td><td>「お」てら</td><td>「お」寺</td><td>寺廟</td><td></td></tr>
+<tr><td>37</td><td>じんじゃ</td><td>神社</td><td>神社</td><td></td></tr>
+<tr><td>38</td><td>…ばん</td><td>…番</td><td>⋯號</td><td></td></tr>
+<tr><td>39</td><td>どうやって</td><td></td><td>怎麼～（詢問行動方法）</td><td></td></tr>
+<tr><td>40</td><td>どの〜</td><td></td><td>哪個～（用於有三個以上的東西時）</td><td></td></tr>
+<tr><td>41</td><td>どれ</td><td></td><td>哪一個（用於有三個以上的東西時）</td><td></td></tr>
+<tr><td>42</td><td>おひきだしですか。</td><td>お引き出しですか。</td><td>您要提款嗎？</td><td></td></tr>
+<tr><td>43</td><td>まず</td><td>まず</td><td>首先</td><td></td></tr>
+<tr><td>44</td><td>つぎに</td><td>次に</td><td>其次</td><td></td></tr>
+<tr><td>45</td><td>キャッシュカード</td><td>キャッシュカード</td><td>提款卡、金融卡</td><td></td></tr>
+<tr><td>46</td><td>あんしょうばんごう</td><td>暗証番号</td><td>密碼</td><td></td></tr>
+<tr><td>47</td><td>きんがく</td><td>金額</td><td>金額</td><td></td></tr>
+<tr><td>48</td><td>かくにん</td><td>確認</td><td>確認＋します</td><td></td></tr>
+<tr><td>49</td><td>ボタン</td><td></td><td>按鈕、開關</td><td></td></tr>
+<tr><td>50</td><td>すごいですね。</td><td></td><td>真了不起</td><td></td></tr>
+<tr><td>51</td><td>「いいえ、」まだまだです。</td><td></td><td>（不，）還差得遠</td><td></td></tr>
+<tr><td>52</td><td>ジェーアール</td><td>JR</td><td>日本鐵路公司</td><td></td></tr>
+<tr><td>53</td><td>ゆきまつり</td><td>雪祭り</td><td>雪之慶典</td><td></td></tr>
+<tr><td>54</td><td>バンドン</td><td></td><td>萬隆（印尼的地名）</td><td></td></tr>
+<tr><td>55</td><td>フランケン</td><td></td><td>法蘭克尼亞（德國的地名）</td><td></td></tr>
+<tr><td>56</td><td>ベラクルス</td><td></td><td>維拉克魯茲（墨西哥的地名）</td><td></td></tr>
+<tr><td>57</td><td>うめだ</td><td>梅田</td><td>大阪梅田</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_17">第十七課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>おぼえます</td><td>覚えます</td><td>記住</td><td>2</td></tr>
+<tr><td>2</td><td>わすれます</td><td>忘れます</td><td>忘記</td><td>2</td></tr>
+<tr><td>3</td><td>なくします</td><td></td><td>遺失、丟失</td><td>1</td></tr>
+<tr><td>4</td><td>はらいます</td><td>払います</td><td>支付、付款</td><td>1</td></tr>
+<tr><td>5</td><td>かえします</td><td>返します</td><td>歸還、返回</td><td>1</td></tr>
+<tr><td>6</td><td>でかけます</td><td>出かけます</td><td>出門、外出</td><td>2</td></tr>
+<tr><td>7</td><td>ぬぎます</td><td>脱ぎます</td><td>脫（衣服、鞋等）</td><td>1</td></tr>
+<tr><td>8</td><td>もっていきます</td><td>持って行きます</td><td>帶、拿去</td><td>1</td></tr>
+<tr><td>9</td><td>もってきます</td><td>持って来ます</td><td>帶、拿來</td><td>3</td></tr>
+<tr><td>10</td><td>しんぱいします</td><td>心配します</td><td>擔心</td><td>3</td></tr>
+<tr><td>11</td><td>ざんぎょうします</td><td>残業します</td><td>加班</td><td>3</td></tr>
+<tr><td>12</td><td>しゅっちょうします</td><td>出張します</td><td>出差</td><td>3</td></tr>
+<tr><td>13</td><td>のみます「くすりを〜」</td><td>飲みます「薬を〜」</td><td>吃（藥）</td><td>1</td></tr>
+<tr><td>14</td><td>はいります「おふろに〜」</td><td>入ります</td><td>泡（澡）、入浴</td><td>1</td></tr>
+<tr><td>15</td><td>たいせつ「な」</td><td>大切</td><td>重要</td><td></td></tr>
+<tr><td>16</td><td>だいじょうぶ「な」</td><td>大丈夫</td><td>沒問題</td><td></td></tr>
+<tr><td>17</td><td>あぶない</td><td>危ない</td><td>危險</td><td></td></tr>
+<tr><td>18</td><td>きんえん</td><td>禁煙</td><td>禁菸</td><td></td></tr>
+<tr><td>19</td><td>「けんこう」ほけんしょう</td><td>「健康」保険証</td><td>健保卡</td><td></td></tr>
+<tr><td>20</td><td>ねつ</td><td>熱</td><td>發燒</td><td></td></tr>
+<tr><td>21</td><td>びょうき</td><td>病気</td><td>疾病</td><td></td></tr>
+<tr><td>22</td><td>くすり</td><td>薬</td><td>藥</td><td></td></tr>
+<tr><td>23</td><td>「お」ふろ</td><td></td><td>泡澡、澡盆</td><td></td></tr>
+<tr><td>24</td><td>うわぎ</td><td>上着</td><td>上衣、外套</td><td></td></tr>
+<tr><td>25</td><td>したぎ</td><td>下着</td><td>內衣褲</td><td></td></tr>
+<tr><td>26</td><td>2、3にち</td><td>2、3日</td><td>兩三天</td><td></td></tr>
+<tr><td>27</td><td>2、3〜</td><td></td><td>兩三～</td><td></td></tr>
+<tr><td>28</td><td>〜までに</td><td></td><td>到～為止（表示時間的期限）</td><td></td></tr>
+<tr><td>29</td><td>ですから</td><td></td><td>因此</td><td></td></tr>
+<tr><td>30</td><td>どうしましたか。</td><td></td><td>怎麼了嗎？</td><td></td></tr>
+<tr><td>31</td><td>のど</td><td></td><td>喉嚨</td><td></td></tr>
+<tr><td>32</td><td>「〜が」いたいです。</td><td>「〜が」痛います。</td><td>（～）痛。</td><td></td></tr>
+<tr><td>33</td><td>かぜ</td><td>風邪</td><td>感冒</td><td></td></tr>
+<tr><td>34</td><td>それから</td><td></td><td>還有</td><td></td></tr>
+<tr><td>35</td><td>おだいじに。</td><td>お大事に。</td><td>請多保重（對生病受傷人說）</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_18">第十八課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>できます</td><td></td><td>能夠、會、可以</td><td style="background-color:#FFFF00">２</td></tr>
+<tr><td>2</td><td>あらいます</td><td>洗います</td><td>洗</td><td>１</td></tr>
+<tr><td>3</td><td>ひきます</td><td>弾きます</td><td>彈奏</td><td>１</td></tr>
+<tr><td>4</td><td>うたいます</td><td>歌います</td><td>唱歌</td><td>１</td></tr>
+<tr><td>5</td><td>あつめます</td><td>集めます</td><td>收集、收藏</td><td>２</td></tr>
+<tr><td>6</td><td>すてます</td><td>捨てます</td><td>丟掉、捨棄</td><td>２</td></tr>
+<tr><td>7</td><td>かえます</td><td>換えます</td><td>換</td><td>２</td></tr>
+<tr><td>8</td><td>うんてんします</td><td>運転します</td><td>駕駛</td><td>３</td></tr>
+<tr><td>9</td><td>よやくします</td><td>予約します</td><td>預約、預訂</td><td>３</td></tr>
+<tr><td>10</td><td>ピアノ</td><td></td><td>綱琴</td><td></td></tr>
+<tr><td>11</td><td>…メートル</td><td></td><td>⋯公尺</td><td></td></tr>
+<tr><td>12</td><td>げんきん</td><td>現金</td><td>現金</td><td></td></tr>
+<tr><td>13</td><td>しゅみ</td><td>趣味</td><td>興趣、嗜好</td><td></td></tr>
+<tr><td>14</td><td>にっき</td><td>日記</td><td>日記</td><td></td></tr>
+<tr><td>15</td><td>おいのり</td><td>お祈り</td><td>祈禱＋をします</td><td></td></tr>
+<tr><td>16</td><td>かちょう</td><td>課長</td><td>課長、科長</td><td></td></tr>
+<tr><td>17</td><td>ぶちょう</td><td>部長</td><td>經理</td><td></td></tr>
+<tr><td>18</td><td>しゃちょう</td><td>社長</td><td>總經理</td><td></td></tr>
+<tr><td>19</td><td>どうぶつ</td><td>動物</td><td>動物</td><td></td></tr>
+<tr><td>20</td><td>うま</td><td>馬</td><td>馬</td><td></td></tr>
+<tr><td>21</td><td>インターネット</td><td></td><td>網際網路</td><td></td></tr>
+<tr><td>22</td><td>とくに</td><td>特に</td><td>特別</td><td></td></tr>
+<tr><td>23</td><td>へえ</td><td></td><td>哦</td><td></td></tr>
+<tr><td>24</td><td>それはおもしろいですね。</td><td></td><td>那一定很有意思</td><td></td></tr>
+<tr><td>25</td><td>なかなか</td><td></td><td>不輕易、不容易、不簡單（接否定句）</td><td></td></tr>
+<tr><td>26</td><td>ほんとうですか。</td><td>本当ですか。</td><td>真的嗎？</td><td></td></tr>
+<tr><td>27</td><td>ぜひ</td><td></td><td>務必</td><td></td></tr>
+<tr><td>28</td><td>ふるさと</td><td>故郷</td><td>故鄉、家鄉</td><td></td></tr>
+<tr><td>29</td><td>ビートルズ</td><td></td><td>披頭四</td><td></td></tr>
+<tr><td>30</td><td>あきはばら</td><td>秋葉原</td><td>東京秋葉原</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_19">第十九課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>のぼります</td><td>登ります、上ります</td><td>登、上</td><td>1</td></tr>
+<tr><td>2</td><td>とまります「ホテルに〜」</td><td>泊まります</td><td>住飯店</td><td>1</td></tr>
+<tr><td>3</td><td>そうじします</td><td>掃除します</td><td>打掃</td><td>3</td></tr>
+<tr><td>4</td><td>せんたくします</td><td>洗濯します</td><td>洗衣服</td><td>3</td></tr>
+<tr><td>5</td><td>たります</td><td></td><td>變成、成為</td><td>1</td></tr>
+<tr><td>6</td><td>ねむい</td><td>眠い</td><td>睏</td><td></td></tr>
+<tr><td>7</td><td>つよい</td><td>強い</td><td>強</td><td></td></tr>
+<tr><td>8</td><td>よわい</td><td>弱い</td><td>弱</td><td></td></tr>
+<tr><td>9</td><td>れんしゅう</td><td>練習</td><td>練習+をします</td><td></td></tr>
+<tr><td>10</td><td>ゴルフ</td><td></td><td>高爾夫+をします</td><td></td></tr>
+<tr><td>11</td><td>すもう</td><td>相撲</td><td>相撲+(を)します</td><td></td></tr>
+<tr><td>12</td><td>おちゃ</td><td>お茶</td><td>茶、茶道</td><td></td></tr>
+<tr><td>13</td><td>ひ</td><td>日</td><td>日、日子</td><td></td></tr>
+<tr><td>14</td><td>ちょうし</td><td>調子</td><td>情形、狀況</td><td></td></tr>
+<tr><td>15</td><td>いちど</td><td>一度</td><td>一次</td><td></td></tr>
+<tr><td>16</td><td>いちども</td><td>一度も</td><td>連一次也(後接否定)</td><td></td></tr>
+<tr><td>17</td><td>だんだん</td><td></td><td>漸漸、逐漸</td><td></td></tr>
+<tr><td>18</td><td>もうすぐ</td><td></td><td>馬上、即將</td><td></td></tr>
+<tr><td>19</td><td>おかげさまで</td><td></td><td>託你的福</td><td></td></tr>
+<tr><td>20</td><td>でも</td><td></td><td>可是、但是、不過</td><td></td></tr>
+<tr><td>21</td><td>かんぱい</td><td>乾杯</td><td>乾杯</td><td></td></tr>
+<tr><td>22</td><td>ダイエット</td><td></td><td>減肥+をします</td><td></td></tr>
+<tr><td>23</td><td>むり「な」</td><td>無理</td><td>勉強</td><td></td></tr>
+<tr><td>24</td><td>からだにいい</td><td>体にいい</td><td>對身體好的</td><td></td></tr>
+<tr><td>25</td><td>とうきょうスカイツリー</td><td>東京スカイツリー</td><td>東京晴空塔</td><td></td></tr>
+<tr><td>26</td><td>かつしかほくさい</td><td>葛飾北斎</td><td>葛飾北齋</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_20">第二十課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>いります「ビザが〜」</td><td>要ります</td><td>需要(簽證)</td><td>1</td></tr>
+<tr><td>2</td><td>しらべます</td><td>調べます</td><td>調查、查詢</td><td>2</td></tr>
+<tr><td>3</td><td>しゅうりします</td><td>修理します</td><td>修理</td><td>3</td></tr>
+<tr><td>4</td><td>ぼく</td><td>僕</td><td>我、男性用語、不如わたし禮貌</td><td></td></tr>
+<tr><td>5</td><td>きみ</td><td>君</td><td>你、不如あなた禮貌</td><td></td></tr>
+<tr><td>6</td><td>〜くん</td><td>〜君</td><td>不如さん禮貌</td><td></td></tr>
+<tr><td>7</td><td>うん</td><td></td><td>嗯、はい的口語</td><td></td></tr>
+<tr><td>8</td><td>ううん</td><td></td><td>不、いいえ的口語</td><td></td></tr>
+<tr><td>9</td><td>ことば</td><td>言葉</td><td>單字、語彙</td><td></td></tr>
+<tr><td>10</td><td>きもの</td><td>着物</td><td>和服</td><td></td></tr>
+<tr><td>11</td><td>ビザ</td><td></td><td>簽證</td><td></td></tr>
+<tr><td>12</td><td>はじめ</td><td>初め</td><td>開始</td><td></td></tr>
+<tr><td>13</td><td>おわり</td><td>終わり</td><td>結束</td><td></td></tr>
+<tr><td>14</td><td>こっち</td><td></td><td>這邊、こちら的口語</td><td></td></tr>
+<tr><td>15</td><td>そっち</td><td></td><td>那邊、そちら的口語</td><td></td></tr>
+<tr><td>16</td><td>あっち</td><td></td><td>那邊、あちら的口語</td><td></td></tr>
+<tr><td>17</td><td>どっち</td><td></td><td>哪邊、どちら的口語</td><td></td></tr>
+<tr><td>18</td><td>みんなで</td><td></td><td>大家一起(包括自己)</td><td></td></tr>
+<tr><td>19</td><td>〜けど</td><td></td><td>～、但是(不如が正式)</td><td></td></tr>
+<tr><td>20</td><td>おなかがいっぱいです</td><td></td><td>肚子飽了</td><td></td></tr>
+<tr><td>21</td><td>よかったら</td><td></td><td>如果方便的話、如果你願意</td><td></td></tr>
+<tr><td>22</td><td>いろいろ</td><td></td><td>各式各樣</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_21">第二十一課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>おもいます</td><td>思います</td><td>想、覺得</td><td>1</td></tr>
+<tr><td>2</td><td>いいます</td><td>言います</td><td>說、講</td><td>1</td></tr>
+<tr><td>3</td><td>かちます</td><td>勝ちます</td><td>贏</td><td>1</td></tr>
+<tr><td>4</td><td>まけます</td><td>負けます</td><td>輸</td><td>2</td></tr>
+<tr><td>5</td><td>あります「おまつりが〜」</td><td>「お祭りが〜」</td><td>舉辦、有(慶典)</td><td>1</td></tr>
+<tr><td>6</td><td>やくにたちます</td><td>役に立ちます</td><td>有用、派上用場</td><td>1</td></tr>
+<tr><td>7</td><td>うごきます</td><td>動きます</td><td>轉動、動</td><td>1</td></tr>
+<tr><td>8</td><td>やめます「かいしゃを〜」</td><td>「会社を〜」</td><td>(向公司)辭職、退休</td><td>2</td></tr>
+<tr><td>9</td><td>きをつけます</td><td>気をつけます</td><td>小心、注意</td><td>2</td></tr>
+<tr><td>10</td><td>りゅうがくします</td><td>留学します</td><td>留學</td><td>3</td></tr>
+<tr><td>11</td><td>むだ「な」</td><td>無駄</td><td>浪費</td><td></td></tr>
+<tr><td>12</td><td>ふべん「な」</td><td>不便</td><td>不方便</td><td></td></tr>
+<tr><td>13</td><td>すごい</td><td></td><td>厲害</td><td></td></tr>
+<tr><td>14</td><td>ほんとう</td><td>本当</td><td>真的</td><td></td></tr>
+<tr><td>15</td><td>うそ</td><td></td><td>謊言</td><td></td></tr>
+<tr><td>16</td><td>じどうしゃ</td><td>自動車</td><td>汽車</td><td></td></tr>
+<tr><td>17</td><td>こうつう</td><td>交通</td><td>交通</td><td></td></tr>
+<tr><td>18</td><td>ぶっか</td><td>物価</td><td>物價</td><td></td></tr>
+<tr><td>19</td><td>ほうそう</td><td>放送</td><td>播放</td><td></td></tr>
+<tr><td>20</td><td>ニュース</td><td></td><td>新聞</td><td></td></tr>
+<tr><td>21</td><td>アニメ</td><td></td><td>動畫</td><td></td></tr>
+<tr><td>22</td><td>マンガ</td><td></td><td>漫畫</td><td></td></tr>
+<tr><td>23</td><td>デザイン</td><td></td><td>設計</td><td></td></tr>
+<tr><td>24</td><td>ゆめ</td><td>夢</td><td>夢、夢想</td><td></td></tr>
+<tr><td>25</td><td>てんさい</td><td>天才</td><td>天才</td><td></td></tr>
+<tr><td>26</td><td>しあい</td><td>試合</td><td>比賽+をします</td><td></td></tr>
+<tr><td>27</td><td>いけん</td><td>意見</td><td>意見</td><td></td></tr>
+<tr><td>28</td><td>はなし</td><td>話</td><td>講話、故事+をします</td><td></td></tr>
+<tr><td>29</td><td>ちきゅう</td><td>地球</td><td>地球</td><td></td></tr>
+<tr><td>30</td><td>つき</td><td>月</td><td>月亮</td><td></td></tr>
+<tr><td>31</td><td>さいきん</td><td>最近</td><td>最近</td><td></td></tr>
+<tr><td>32</td><td>たぶん</td><td></td><td>大概、也許</td><td></td></tr>
+<tr><td>33</td><td>きっと</td><td></td><td>一定</td><td></td></tr>
+<tr><td>34</td><td>ほんとうに</td><td></td><td>真的、的確(副詞)</td><td></td></tr>
+<tr><td>35</td><td>そんなに</td><td></td><td>很、不怎麼(接否定句)、=あまり</td><td></td></tr>
+<tr><td>36</td><td>〜について</td><td></td><td>關於～</td><td></td></tr>
+<tr><td>37</td><td>ひさしぶりですね。</td><td>久しぶりですね。</td><td>好久不見</td><td></td></tr>
+<tr><td>38</td><td>〜でものみませんか。</td><td>〜でも飲みませんか。</td><td>要不要喝點～呢？</td><td></td></tr>
+<tr><td>39</td><td>もちろん</td><td></td><td>當然</td><td></td></tr>
+<tr><td>40</td><td>もうかえらないと…</td><td>もう帰らないと…</td><td>已經得回去了。</td><td></td></tr>
+<tr><td>41</td><td>アインシュタイン</td><td></td><td>愛因斯坦</td><td></td></tr>
+<tr><td>42</td><td>ガガーリン</td><td></td><td>尤里加加林</td><td></td></tr>
+<tr><td>43</td><td>ガリレオ</td><td></td><td>伽利略</td><td></td></tr>
+<tr><td>44</td><td>キングぼくし</td><td>キング牧師</td><td>馬丁路德金</td><td></td></tr>
+<tr><td>45</td><td>フランクリン</td><td></td><td>班傑明富蘭克林</td><td></td></tr>
+<tr><td>46</td><td>かぐやひめ</td><td>かぐや姫</td><td>竹取物語輝夜姫</td><td></td></tr>
+<tr><td>47</td><td>てんじんまつり</td><td>天神祭</td><td>大阪天神祭</td><td></td></tr>
+<tr><td>48</td><td>よしのやま</td><td>吉野山</td><td>奈良吉野山</td><td></td></tr>
+<tr><td>49</td><td>カンガルー</td><td></td><td>袋鼠</td><td></td></tr>
+<tr><td>50</td><td>キャプテンクック</td><td></td><td>庫克船長</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_22">第二十二課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>きます</td><td>着ます</td><td>穿(襯衫等上半身衣物)</td><td style="background-color:#FFFF00">2</td></tr>
+<tr><td>2</td><td>はきます</td><td>履きます</td><td>穿(鞋子、褲子等)</td><td>1</td></tr>
+<tr><td>3</td><td>かぶります</td><td></td><td>戴(帽子等)</td><td>1</td></tr>
+<tr><td>4</td><td>かけます「めがねを〜」</td><td>「眼鏡を〜」</td><td>戴(眼鏡)</td><td>2</td></tr>
+<tr><td>5</td><td>します「ネクタイを〜」</td><td></td><td>繫(領帶)</td><td>3</td></tr>
+<tr><td>6</td><td>うまれます</td><td>生まれます</td><td>出生</td><td>2</td></tr>
+<tr><td>7</td><td>わたしたち</td><td></td><td>我們</td><td></td></tr>
+<tr><td>8</td><td>コート</td><td></td><td>大衣、外套</td><td></td></tr>
+<tr><td>9</td><td>セーター</td><td></td><td>毛衣</td><td></td></tr>
+<tr><td>10</td><td>スーツ</td><td></td><td>西裝、套裝</td><td></td></tr>
+<tr><td>11</td><td>ぼうし</td><td>帽子</td><td>帽子</td><td></td></tr>
+<tr><td>12</td><td>めがね</td><td>眼鏡</td><td>眼鏡</td><td></td></tr>
+<tr><td>13</td><td>ケーキ</td><td></td><td>蛋糕</td><td></td></tr>
+<tr><td>14</td><td>「お」べんとう</td><td>「お」弁当</td><td>便當</td><td></td></tr>
+<tr><td>15</td><td>ロボット</td><td></td><td>機器人</td><td></td></tr>
+<tr><td>16</td><td>ユーモア</td><td></td><td>幽默</td><td></td></tr>
+<tr><td>17</td><td>つごう</td><td>都合</td><td>方便、狀況、形勢(時間上的狀態)</td><td></td></tr>
+<tr><td>18</td><td>よく</td><td></td><td>經常</td><td></td></tr>
+<tr><td>19</td><td>おさがしですか。</td><td>お探しですか。</td><td>您在找～嗎？</td><td></td></tr>
+<tr><td>20</td><td>では</td><td></td><td>那麼</td><td></td></tr>
+<tr><td>21</td><td>こちら</td><td></td><td>這、これ的禮貌用語</td><td></td></tr>
+<tr><td>22</td><td>やちん</td><td>家賃</td><td>房租</td><td></td></tr>
+<tr><td>23</td><td>ダイニングキッチン</td><td></td><td>廚房兼餐廳</td><td></td></tr>
+<tr><td>24</td><td>わしつ</td><td>和室</td><td>和室</td><td></td></tr>
+<tr><td>25</td><td>おしいれ</td><td>押し入れ</td><td>日式壁櫉</td><td></td></tr>
+<tr><td>26</td><td>ふとん</td><td>布団</td><td>棉被、墊被</td><td></td></tr>
+<tr><td>27</td><td>えーと</td><td></td><td>那個⋯</td><td></td></tr>
+<tr><td>28</td><td>おめでとう「ございます」。</td><td></td><td>恭喜</td><td></td></tr>
+<tr><td>29</td><td>パリ</td><td></td><td>巴黎</td><td></td></tr>
+<tr><td>30</td><td>ばんりのちょうじょう</td><td>万里の長城</td><td>萬里長城</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_23">第二十三課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>ききます「せんせいに～」</td><td>聞きます「先生に～」</td><td>問(老師)</td><td>1</td></tr>
+<tr><td>2</td><td>まわします</td><td>回します</td><td>轉動</td><td>1</td></tr>
+<tr><td>3</td><td>ひきます</td><td>引きます</td><td>拉</td><td>1</td></tr>
+<tr><td>4</td><td>かえます</td><td>変えます</td><td>改變</td><td>2</td></tr>
+<tr><td>5</td><td>さわります「ドアに～」</td><td>触ります</td><td>摸、觸碰(門)</td><td>1</td></tr>
+<tr><td>6</td><td>でます「おつりが～」</td><td>出ます「お釣りが～」</td><td>(零錢)出來</td><td>2</td></tr>
+<tr><td>7</td><td>あるきます</td><td>歩きます</td><td>走</td><td>1</td></tr>
+<tr><td>8</td><td>わたります「はしを～」</td><td>渡ります「橋を～」</td><td>過(橋)</td><td>1</td></tr>
+<tr><td>9</td><td>まがります「みぎへ〜」</td><td>曲がります「右へ〜」</td><td>轉彎、(向右)轉</td><td>1</td></tr>
+<tr><td>10</td><td>さびしい</td><td>寂しい</td><td>寂寞</td><td></td></tr>
+<tr><td>11</td><td>「お」ゆ</td><td>「お」湯</td><td>熱水</td><td></td></tr>
+<tr><td>12</td><td>おと</td><td>音</td><td>聲音</td><td></td></tr>
+<tr><td>13</td><td>サイズ</td><td></td><td>尺寸</td><td></td></tr>
+<tr><td>14</td><td>こしょう</td><td>故障</td><td>故障+します</td><td></td></tr>
+<tr><td>15</td><td>みち</td><td>道</td><td>道路</td><td></td></tr>
+<tr><td>16</td><td>こうさてん</td><td>交差点</td><td>十字路口</td><td></td></tr>
+<tr><td>17</td><td>しんごう</td><td>信号</td><td>紅綠燈</td><td></td></tr>
+<tr><td>18</td><td>かど</td><td>角</td><td>轉角</td><td></td></tr>
+<tr><td>19</td><td>はし</td><td>橋</td><td>橋</td><td></td></tr>
+<tr><td>20</td><td>ちゅうしゃじょう</td><td>駐車場</td><td>停車場</td><td></td></tr>
+<tr><td>21</td><td>たてもの</td><td>建物</td><td>建築物</td><td></td></tr>
+<tr><td>22</td><td>なんかいも</td><td>何回も</td><td>好幾次</td><td></td></tr>
+<tr><td>23</td><td>…め</td><td>…目</td><td>第⋯個(指順序)</td><td></td></tr>
+<tr><td>24</td><td>しょうとくたいし</td><td>聖徳太子</td><td>聖德太子</td><td></td></tr>
+<tr><td>25</td><td>ほうりゅうじ</td><td>法隆寺</td><td>奈良法隆寺</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_24">第二十四課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>くれます</td><td></td><td>給(我、我方)</td><td>2</td></tr>
+<tr><td>2</td><td>なおします</td><td>直します</td><td>修理、修改</td><td>1</td></tr>
+<tr><td>3</td><td>つれていきます</td><td>連れて行きます</td><td>帶(某人)去</td><td>1</td></tr>
+<tr><td>4</td><td>つれてきます</td><td>連れてきます</td><td>帶(某人)來</td><td>3</td></tr>
+<tr><td>5</td><td>おくります「ひとを~」</td><td>送ります「人を~」</td><td>(為人)送行、送(人)一程</td><td>1</td></tr>
+<tr><td>6</td><td>しょうかいします</td><td>紹介します</td><td>介紹</td><td>3</td></tr>
+<tr><td>7</td><td>あんないします</td><td>案内します</td><td>帶路、引導</td><td>3</td></tr>
+<tr><td>8</td><td>せつめいします</td><td>説明します</td><td>說明、講解</td><td>3</td></tr>
+<tr><td>9</td><td>おじいさん／おじいちゃん</td><td></td><td>祖父、外公、老爺爺</td><td></td></tr>
+<tr><td>10</td><td>おばあさん／おばあちゃん</td><td></td><td>祖母、外婆、老奶奶</td><td></td></tr>
+<tr><td>11</td><td>じゅんび</td><td>準備</td><td>準備(～をします:準備)</td><td></td></tr>
+<tr><td>12</td><td>ひっこし</td><td>引っ越し</td><td>搬家(～をします:搬家)</td><td></td></tr>
+<tr><td>13</td><td>「お」かし</td><td>「お」菓子</td><td>點心</td><td></td></tr>
+<tr><td>14</td><td>ホームステイ</td><td></td><td>(留學或旅遊時)寄宿家庭</td><td></td></tr>
+<tr><td>15</td><td>ぜんぶ</td><td>全部</td><td>全部</td><td></td></tr>
+<tr><td>16</td><td>じぶんで</td><td>自分で</td><td>自己～、自力～(做某事)</td><td></td></tr>
+<tr><td>17</td><td>ほかに</td><td></td><td>另外</td><td></td></tr>
+<tr><td>18</td><td>ははのひ</td><td>母の日</td><td>母親節</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_25">第二十五課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>かんがえます</td><td>考えます</td><td>思考、想</td><td>2</td></tr>
+<tr><td>2</td><td>つきます</td><td>着きます</td><td>到達、抵達</td><td>1</td></tr>
+<tr><td>3</td><td>とります「としを～」</td><td>取ります「年を～」</td><td>(年紀)增長</td><td>1</td></tr>
+<tr><td>4</td><td>たります</td><td>足ります</td><td>足夠</td><td>2</td></tr>
+<tr><td>5</td><td>いなか</td><td>田舎</td><td>鄉下、故鄉</td><td></td></tr>
+<tr><td>6</td><td>チャンス</td><td></td><td>機會</td><td></td></tr>
+<tr><td>7</td><td>おく</td><td>億</td><td>億</td><td></td></tr>
+<tr><td>8</td><td>もし「～たら」</td><td></td><td>如果～</td><td></td></tr>
+<tr><td>9</td><td>いみ</td><td>意味</td><td>意思</td><td></td></tr>
+<tr><td>10</td><td>てんきん</td><td>転勤</td><td>調職(～します:調職)</td><td></td></tr>
+<tr><td>11</td><td>こと</td><td></td><td>事情、狀況(～のこと:〜的事)</td><td></td></tr>
+<tr><td>12</td><td>ひま</td><td>暇</td><td>空閒、閒暇</td><td></td></tr>
+<tr><td>13</td><td>「いろいろ」おせわになりました。</td><td>「いろいろ」お世話になりました。</td><td>承蒙您(多方)照顧</td><td></td></tr>
+<tr><td>14</td><td>がんばります</td><td>頑張ります</td><td>加油、努力</td><td>1</td></tr>
+<tr><td>15</td><td>どうぞおげんきで。</td><td>どうぞお元気で。</td><td>請保重。(用於將要長期分開時)</td><td></td></tr>
+<tr><td>16</td><td>もしもし</td><td></td><td>喂(打電話時的用語)</td><td></td></tr>
+<tr><td>17</td><td>ベトナム</td><td></td><td>越南</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_26">第二十六課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>みます</td><td>見ます、診ます</td><td>看、診斷</td><td>2</td></tr>
+<tr><td>2</td><td>さがします</td><td>探します、捜します</td><td>尋找</td><td>1</td></tr>
+<tr><td>3</td><td>おくれます「じかんに〜」</td><td>遅れます「時間に〜」</td><td>沒趕上時間</td><td>2</td></tr>
+<tr><td>4</td><td>まにあいます「じかんに〜」</td><td>間に合います「時間に〜」</td><td>趕上時間</td><td>1</td></tr>
+<tr><td>5</td><td>やります</td><td></td><td>做、從事</td><td>1</td></tr>
+<tr><td>6</td><td>ひろいます</td><td>拾います</td><td>拾、撿</td><td>1</td></tr>
+<tr><td>7</td><td>れんらくします</td><td>連絡します</td><td>聯繫</td><td>3</td></tr>
+<tr><td>8</td><td>きぶんがいい</td><td>気分がいい</td><td>舒服</td><td></td></tr>
+<tr><td>9</td><td>きぶんがわるい</td><td>気分が悪い</td><td>不舒服</td><td></td></tr>
+<tr><td>10</td><td>うんどうかい</td><td>運動会</td><td>運動會</td><td></td></tr>
+<tr><td>11</td><td>ぼんおどり</td><td>盆踊り</td><td>孟蘭盆節舞</td><td></td></tr>
+<tr><td>12</td><td>フリーマーケット</td><td></td><td>跳蚤市場</td><td></td></tr>
+<tr><td>13</td><td>ばしょ</td><td>場所</td><td>場所、地點</td><td></td></tr>
+<tr><td>14</td><td>ボランティア</td><td></td><td>義工</td><td></td></tr>
+<tr><td>15</td><td>さいふ</td><td>財布</td><td>錢包</td><td></td></tr>
+<tr><td>16</td><td>ごみ</td><td></td><td>垃圾</td><td></td></tr>
+<tr><td>17</td><td>こっかいぎじどう</td><td>国会議事堂</td><td>國會議事堂</td><td></td></tr>
+<tr><td>18</td><td>へいじつ</td><td>平日</td><td>平日</td><td></td></tr>
+<tr><td>19</td><td>〜べん</td><td>〜弁</td><td>方言</td><td></td></tr>
+<tr><td>20</td><td>こんど</td><td>今度</td><td>這次、下次</td><td></td></tr>
+<tr><td>21</td><td>ずいぶん</td><td>随分</td><td>極其、相當、很</td><td></td></tr>
+<tr><td>22</td><td>ちょくせつ</td><td>直接</td><td>直接</td><td></td></tr>
+<tr><td>23</td><td>いつでも</td><td></td><td>隨時</td><td></td></tr>
+<tr><td>24</td><td>どこでも</td><td></td><td>在任何地方</td><td></td></tr>
+<tr><td>25</td><td>だれでも</td><td></td><td>任何人都</td><td></td></tr>
+<tr><td>26</td><td>なんでも</td><td>何でも</td><td>什麼都</td><td></td></tr>
+<tr><td>27</td><td>こんな〜</td><td></td><td>這樣的～</td><td></td></tr>
+<tr><td>28</td><td>そんな〜</td><td></td><td>那樣的～(離聽者較近)</td><td></td></tr>
+<tr><td>29</td><td>あんな〜</td><td></td><td>那樣的～(離說話者和聽者都較遠)</td><td></td></tr>
+<tr><td>30</td><td>かたづきます「にもつが〜」</td><td>片づきます「荷物が〜」</td><td>收拾行李</td><td>1</td></tr>
+<tr><td>31</td><td>だします「ごみを〜」</td><td>出します「ごみを〜」</td><td>扔、倒垃圾</td><td>1</td></tr>
+<tr><td>32</td><td>もえるごみ</td><td>燃えるごみ</td><td>可燃垃圾</td><td></td></tr>
+<tr><td>33</td><td>おきば</td><td>置き場</td><td>放置處</td><td></td></tr>
+<tr><td>34</td><td>よこ</td><td>横</td><td>旁邊</td><td></td></tr>
+<tr><td>35</td><td>びん</td><td>瓶</td><td>瓶子</td><td></td></tr>
+<tr><td>36</td><td>かん</td><td>缶</td><td>罐子</td><td></td></tr>
+<tr><td>37</td><td>ガス</td><td></td><td>瓦斯</td><td></td></tr>
+<tr><td>38</td><td>〜がいしゃ</td><td>〜会社</td><td>留意變音</td><td></td></tr>
+<tr><td>39</td><td>うちゅう</td><td>宇宙</td><td>宇宙</td><td></td></tr>   
+<tr><td>40</td><td>〜さま</td><td>〜様</td><td>～さん的敬語</td><td></td></tr>
+<tr><td>41</td><td>うちゅうせん</td><td>宇宙船</td><td>太空船</td><td></td></tr>    
+<tr><td>42</td><td>こわい</td><td>怖い</td><td>害怕、可怕</td><td></td></tr>
+<tr><td>43</td><td>うちゅうステーション</td><td>宇宙ステーション</td><td>太空站</td><td></td></tr>
+<tr><td>44</td><td>ちがいます</td><td>違います</td><td>不一樣</td><td>1</td></tr>
+<tr><td>45</td><td>うちゅうひこうし</td><td>宇宙飛行士</td><td>太空人</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_27">第二十七課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>かいます</td><td>飼います</td><td>飼養</td><td>1</td></tr>
+<tr><td>2</td><td>はしります「みちを〜」</td><td>走ります「道を〜」</td><td>跑</td><td>1</td></tr>
+<tr><td>3</td><td>みえます「やまが〜」</td><td>見えます「山が〜」</td><td>看得見山</td><td>2</td></tr>
+<tr><td>4</td><td>きこえます「おとが〜」</td><td>聞こえます「音が〜」</td><td>聽得見聲音</td><td>2</td></tr>
+<tr><td>5</td><td>できます「みちが〜」</td><td>「道が〜」</td><td>完成道路</td><td>2</td></tr>
+<tr><td>6</td><td>ひらきます「きょうしつを〜」</td><td>開きます「教室を〜」</td><td>開班</td><td>1</td></tr>
+<tr><td>7</td><td>しんぱい「な」</td><td>心配</td><td>擔心</td><td></td></tr>
+<tr><td>8</td><td>ペット</td><td></td><td>寵物</td><td></td></tr>
+<tr><td>9</td><td>とり</td><td>鳥</td><td>鳥</td><td></td></tr>
+<tr><td>10</td><td>こえ</td><td>声</td><td>人或動物的聲音</td><td></td></tr>
+<tr><td>11</td><td>なみ</td><td>波</td><td>波浪</td><td></td></tr>
+<tr><td>12</td><td>はなび</td><td>花火</td><td>煙火</td><td></td></tr>
+<tr><td>13</td><td>どうぐ</td><td>道具</td><td>工具</td><td></td></tr>
+<tr><td>14</td><td>クリーニング</td><td></td><td>乾洗、洗衣</td><td></td></tr>
+<tr><td>15</td><td>いえ</td><td>家</td><td>實在的家</td><td></td></tr>
+<tr><td>16</td><td>マンション</td><td></td><td>公寓</td><td></td></tr>
+<tr><td>17</td><td>キッチン</td><td></td><td>廚房</td><td></td></tr>
+<tr><td>18</td><td>〜きょうしつ</td><td>〜教室</td><td>～教室</td><td></td></tr>
+<tr><td>19</td><td>パーティールーム</td><td></td><td>派對房</td><td></td></tr>
+<tr><td>20</td><td>かた</td><td>方</td><td>人ひと的敬語</td><td></td></tr>
+<tr><td>21</td><td>〜ご</td><td>〜後</td><td>時間後</td><td></td></tr>
+<tr><td>22</td><td>〜しか</td><td></td><td>只～+否定句,對比だけ〜ます</td><td></td></tr>
+<tr><td>23</td><td>ほかの</td><td>他の</td><td>其他的</td><td></td></tr>
+<tr><td>24</td><td>はっきり</td><td></td><td>清楚地</td><td></td></tr>
+<tr><td>25</td><td>かぐ</td><td>家具</td><td>家具</td><td></td></tr>
+<tr><td>26</td><td>ほんだな</td><td>本棚</td><td>書架</td><td></td></tr>
+<tr><td>27</td><td>いつか</td><td></td><td>總有一天</td><td></td></tr>
+<tr><td>28</td><td>たてます</td><td>建てます</td><td>建、蓋</td><td>2</td></tr>
+<tr><td>29</td><td>すばらしい</td><td>素晴らしい</td><td>很捧、了不起</td><td></td></tr>
+<tr><td>30</td><td>こどもたち</td><td>子どもたち</td><td>孩子們</td><td></td></tr>
+<tr><td>31</td><td>だいすき「な」</td><td>大好き</td><td>非常喜歡</td><td></td></tr>
+<tr><td>32</td><td>しゅじんこう</td><td>主人公</td><td>主人翁</td><td></td></tr>
+<tr><td>33</td><td>かたち</td><td>形</td><td>形狀、樣子</td><td></td></tr>
+<tr><td>34</td><td>ふしぎ「な」</td><td>不思議</td><td>不可思議</td><td></td></tr>
+<tr><td>35</td><td>ポケット</td><td></td><td>口袋</td><td></td></tr>
+<tr><td>36</td><td>たとえば</td><td>例えば</td><td>例如</td><td></td></tr>
+<tr><td>37</td><td>つけます</td><td>付けます</td><td>戴上</td><td>2</td></tr>
+<tr><td>38</td><td>じゆうに</td><td>自由に</td><td>自由地、隨意地</td><td></td></tr>
+<tr><td>39</td><td>そら</td><td>空</td><td>天空</td><td></td></tr>
+<tr><td>40</td><td>とびます</td><td>飛びます</td><td>飛、飛翔</td><td>1</td></tr>
+<tr><td>41</td><td>むかし</td><td>昔</td><td>過去、以前</td><td></td></tr>
+<tr><td>42</td><td>じぶん</td><td>自分</td><td>自己</td><td></td></tr>
+<tr><td>43</td><td>しょうらい</td><td>将来</td><td>將來</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_28">第二十八課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1290 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=430>
+ <col width=30>
+<tr><td>1</td><td>うれます「パンが〜」</td><td>売れます「パンが〜」</td><td>麵包賣得好、暢銷</td><td>2</td></tr>
+<tr><td>2</td><td>おどります</td><td>踊ります</td><td>跳舞</td><td>1</td></tr>
+<tr><td>3</td><td>かみます</td><td>噛みます</td><td>嚼咬+を</td><td>1</td></tr>
+<tr><td>4</td><td>えらびます</td><td>選びます</td><td>選擇</td><td>1</td></tr>
+<tr><td>5</td><td>かよいます「だいがくに〜」</td><td>通います「大学に〜」</td><td>返往大學</td><td>1</td></tr>
+<tr><td>6</td><td>メモします</td><td></td><td>記筆記</td><td>3</td></tr>
+<tr><td>7</td><td>まじめ「な」</td><td>真面目</td><td>認真</td><td></td></tr>
+<tr><td>8</td><td>ねっしん「な」</td><td>熱心</td><td>熱心、熱忱</td><td></td></tr>
+<tr><td>9</td><td>えらい</td><td>偉い</td><td>偉大、了不起</td><td></td></tr>
+<tr><td>10</td><td>ちょうどいい</td><td>丁度いい</td><td>正好</td><td></td></tr>
+<tr><td>11</td><td>けしき</td><td>景色</td><td>景色</td><td></td></tr>
+<tr><td>12</td><td>びよういん</td><td>美容院</td><td>髮型屋</td><td></td></tr>
+<tr><td>13</td><td>だいどころ</td><td>台所</td><td>廚房</td><td></td></tr>
+<tr><td>14</td><td>けいけん</td><td>経験</td><td>經驗(～があります:有經驗、～をします:經驗)</td><td></td></tr>
+<tr><td>15</td><td>ちから</td><td>力</td><td>力量、力氣</td><td></td></tr>
+<tr><td>16</td><td>にんき</td><td>人気</td><td>受歡迎、有人緣(がくせいに)〜があります:很收(學生)歡迎</td><td></td></tr>
+<tr><td>17</td><td>かたち</td><td>形</td><td>形狀、樣子</td><td></td></tr>
+<tr><td>18</td><td>いろ</td><td>色</td><td>顏色</td><td></td></tr>
+<tr><td>19</td><td>あじ</td><td>味</td><td>味道</td><td></td></tr>
+<tr><td>20</td><td>ガム</td><td></td><td>口香糖</td><td></td></tr>
+<tr><td>21</td><td>しなもの</td><td>品物</td><td>物品、商品</td><td></td></tr>
+<tr><td>22</td><td>ねだん</td><td>値段</td><td>價錢、價位</td><td></td></tr>
+<tr><td>23</td><td>きゅうりょう</td><td>給料</td><td>薪水、工資</td><td></td></tr>
+<tr><td>24</td><td>ボーナス</td><td></td><td>獎金</td><td></td></tr>
+<tr><td>25</td><td>ゲーム</td><td></td><td>遊戲</td><td></td></tr>
+<tr><td>26</td><td>ばんぐみ</td><td>番組</td><td>節目</td><td></td></tr>
+<tr><td>27</td><td>ドラマ</td><td></td><td>電視劇</td><td></td></tr>
+<tr><td>28</td><td>かしゅ</td><td>歌手</td><td>歌手</td><td></td></tr>
+<tr><td>29</td><td>しょうせつ</td><td>小説</td><td>小說</td><td></td></tr>
+<tr><td>30</td><td>しょうせつか</td><td>小説家</td><td>小說家</td><td></td></tr>
+<tr><td>31</td><td>〜か</td><td>〜家</td><td>～家</td><td></td></tr>
+<tr><td>32</td><td>〜き</td><td>〜機</td><td>機械</td><td></td></tr>
+<tr><td>33</td><td>むすこ</td><td>息子</td><td>自己的兒子</td><td></td></tr>
+<tr><td>34</td><td>むすこさん</td><td>息子さん</td><td>別人的兒子</td><td></td></tr>
+<tr><td>35</td><td>むすめ</td><td>娘</td><td>自己的女兒</td><td></td></tr>
+<tr><td>36</td><td>むすめさん</td><td>娘さん</td><td>別人的女兒</td><td></td></tr>
+<tr><td>37</td><td>じぶん</td><td>自分</td><td>自己</td><td></td></tr>
+<tr><td>38</td><td>しょうらい</td><td>将来</td><td>將來</td><td></td></tr>
+<tr><td>39</td><td>しばらく</td><td>暫く</td><td>不久、暫且、一陣子</td><td></td></tr>
+<tr><td>40</td><td>たいてい</td><td></td><td>大部分、通常</td><td></td></tr>
+<tr><td>41</td><td>それに</td><td></td><td>而且</td><td></td></tr>
+<tr><td>42</td><td>それで</td><td></td><td>因此、所以</td><td></td></tr>
+<tr><td>43</td><td>「ちょっと」おねがいがあるんですが。</td><td>「ちょっと」お願いがあるんですが。</td><td>我有件事想麻煩你一下。</td><td></td></tr>
+<tr><td>44</td><td>じつは</td><td>実は</td><td>其實、實際上</td><td></td></tr>
+<tr><td>45</td><td>かいわ</td><td>会話</td><td>會話</td><td></td></tr>
+<tr><td>46</td><td>うーん</td><td></td><td>嗯</td><td></td></tr>
+<tr><td>47</td><td>おしらせ</td><td>お知らせ</td><td>通知</td><td></td></tr>
+<tr><td>48</td><td>さんかします</td><td>参加します</td><td>參加</td><td>3</td></tr>
+<tr><td>49</td><td>ひにち</td><td>日にち</td><td>日期</td><td></td></tr>
+<tr><td>50</td><td>ど</td><td>土</td><td>星期六</td><td></td></tr>
+<tr><td>51</td><td>たいいくかん</td><td>体育館</td><td>體育館</td><td></td></tr>
+<tr><td>52</td><td>むりょう</td><td>無料</td><td>免費</td><td></td></tr>
+<tr><td>53</td><td>ゆうりょう</td><td>有料</td><td></td><td></td></tr>
+<tr><td>54</td><td>さそいます</td><td>誘います</td><td>邀請</td><td>1</td></tr>
+<tr><td>55</td><td>イベント</td><td></td><td>活動</td><td></td></tr>
+</table>
+
+
+<p><h4 id="Chapter_29">第二十九課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1460 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+ <col width=100>
+ <col width=100>
+<tr><td>0</td><td></td><td></td><td></td><td></td><td>自動詞（が)</td><td>他動詞（を)</td></tr>
+<tr><td>1</td><td>あきます「ドアが〜」</td><td>開きます</td><td>(門)開著</td><td>1</td><td>開く</td><td>開ける</td></tr>
+<tr><td>2</td><td>しまります「ドアが〜」</td><td>閉まります</td><td>(門)關著</td><td>1</td><td>閉まる</td><td>閉める</td></tr>
+<tr><td>3</td><td>つきます「でんきが〜」</td><td>「電気が〜」</td><td>(燈)開著</td><td>1</td><td>つく</td><td>つける</td></tr>
+<tr><td>4</td><td>きえます「でんきが〜」</td><td>消えます「電気が〜」</td><td>(燈)關著</td><td>2</td><td>消える(きえる)</td><td>消す(けす)</td></tr>
+<tr><td>5</td><td>こわれます「いすが〜」</td><td>壊れます「椅子が〜」</td><td>(椅子)壞了</td><td>2</td><td>壊れる</td><td>壊す</td></tr>
+<tr><td>6</td><td>われます「コップが〜」</td><td>割れます</td><td>(杯子)碎了</td><td>2</td><td>割れる</td><td>割る</td></tr>
+<tr><td>7</td><td>おれます「きが〜」</td><td>折れます「木が〜」</td><td>(樹)折斷了</td><td>2</td><td>折れる</td><td>折る</td></tr>
+<tr><td>8</td><td>やぶれます「かみが〜」</td><td>破れます「紙が〜」</td><td>(紙)破了</td><td>2</td><td>破れる</td><td>破る</td></tr>
+<tr><td>9</td><td>よごれます「ふくが〜」</td><td>汚れます「服が〜」</td><td>(衣服)髒了</td><td>2</td><td>汚れる</td><td>汚す</td></tr>
+<tr><td>10</td><td>つきます「ポケットが〜」</td><td>付きます</td><td>附有(口袋)</td><td>1</td><td>付く</td><td>付ける</td></tr>
+<tr><td>11</td><td>はずれます「ボタンが〜」</td><td>外れます</td><td>(鈕扣)掉了</td><td>2</td><td>外れる</td><td>外す</td></tr>
+<tr><td>12</td><td>とまります「くるまが〜」</td><td>止まります「車が〜」</td><td>(車)停了、停著(車)</td><td>1</td><td>止まる</td><td>止める</td></tr>
+<tr><td>13</td><td>まちがえます(他動詞)</td><td>間違えます</td><td>弄錯</td><td>2</td><td>間違う</td><td>間違える</td></tr>
+<tr><td>14</td><td>おとします(他動詞)</td><td>落とします</td><td>落下、弄丟</td><td>1</td><td>落ちる</td><td>落とす</td></tr>
+<tr><td>15</td><td>かかります「かぎが〜」</td><td>掛かります</td><td>上著(鎖)</td><td>1</td><td>掛かる</td><td>掛ける</td></tr>
+<tr><td>16</td><td>ふきます(他動詞)</td><td></td><td>擦</td><td>1</td><td></td><td>拭く</td></tr>
+<tr><td>17</td><td>とりかえます(他動詞)</td><td>取り替えます</td><td>更換</td><td>2</td><td>とりかわる</td><td>とりかえる</td></tr>
+<tr><td>18</td><td>かたづけます(他動詞)</td><td>片づけます</td><td>收拾</td><td>2</td><td>片付く</td><td>片付ける</td></tr>
+<tr><td>19</td><td>「お」さら</td><td>「お」皿</td><td>盤子、碟子</td><td></td><td></td><td></td></tr>
+<tr><td>20</td><td>「お」ちゃわん</td><td></td><td>飯碗、碗</td><td></td><td></td><td></td></tr>
+<tr><td>21</td><td>コップ</td><td></td><td>杯子</td><td></td><td></td><td></td></tr>
+<tr><td>22</td><td>ガラス</td><td></td><td>玻璃</td><td></td><td></td><td></td></tr>
+<tr><td>23</td><td>ふくろ</td><td>袋</td><td>袋子</td><td></td><td></td><td></td></tr>
+<tr><td>24</td><td>しょるい</td><td>書類</td><td>文件、資料</td><td></td><td></td><td></td></tr>
+<tr><td>25</td><td>えだ</td><td>枝</td><td>樹枝</td><td></td><td></td><td></td></tr>
+<tr><td>26</td><td>えきいん</td><td>駅員</td><td>站務員</td><td></td><td></td><td></td></tr>
+<tr><td>27</td><td>こうばん</td><td>交番</td><td>派出所</td><td></td><td></td><td></td></tr>
+<tr><td>28</td><td>スピーチ</td><td></td><td>演講(～をします:演講)</td><td></td><td></td><td></td></tr>
+<tr><td>29</td><td>へんじ</td><td>返事</td><td>回信(～をします:回話)</td><td></td><td></td><td></td></tr>
+<tr><td>30</td><td>おさきにどうぞ</td><td>お先にどうぞ</td><td>您先請。</td><td></td><td></td><td></td></tr>
+<tr><td>31</td><td>げんじものがたり</td><td>源氏物語</td><td>源氏物語(平安時代紫式部寫的小說)</td><td></td><td></td><td></td></tr>
+<tr><td>32</td><td>いまのでんしゃ</td><td>今の電車</td><td>剛才的電車</td><td></td><td></td><td></td></tr>
+<tr><td>33</td><td>わすれもの</td><td>忘れ物</td><td>遺失物品</td><td></td><td></td><td></td></tr>
+<tr><td>34</td><td>このくらい</td><td>このくらい</td><td>這樣大小的</td><td></td><td></td><td></td></tr>
+<tr><td>35</td><td>〜がわ</td><td>〜側</td><td>～側</td><td></td><td></td><td></td></tr>
+<tr><td>36</td><td>ポケット</td><td></td><td>口袋</td><td></td><td></td><td></td></tr>
+<tr><td>37</td><td>〜へん</td><td>〜辺</td><td>～邊</td><td></td><td></td><td></td></tr>
+<tr><td>38</td><td>おぼえていません</td><td>覚えていません</td><td>不記得了</td><td></td><td></td><td></td></tr>
+<tr><td>39</td><td>あみだな</td><td>網棚</td><td>行李網架</td><td></td><td></td><td></td></tr>
+<tr><td>40</td><td>たしか</td><td>確か</td><td>似乎是、大概是</td><td></td><td></td><td></td></tr>
+<tr><td>41</td><td>「ああ、」よかった</td><td></td><td>(啊，)太好了。(用於表示安心時)</td><td></td><td></td><td></td></tr>
+<tr><td>42</td><td>しんじゅく</td><td>新宿</td><td>新宿</td><td></td><td></td><td></td></tr>
+<tr><td>43</td><td>じしん</td><td>地震</td><td>地震</td><td></td><td></td><td></td></tr>
+<tr><td>44</td><td>かべ</td><td>壁</td><td>牆壁</td><td></td><td></td><td></td></tr>
+<tr><td>45</td><td>はり</td><td>針</td><td>(鐘錶的)指針</td><td></td><td></td><td></td></tr>
+<tr><td>46</td><td>さします(他動詞)</td><td>指します</td><td>指</td><td>1</td><td></td><td>さす</td></tr>
+<tr><td>47</td><td>えきまえ</td><td>駅前</td><td>車站前</td><td></td><td></td><td></td></tr>
+<tr><td>48</td><td>たおれます</td><td>倒れます</td><td>倒、倒下來</td><td>2</td><td>倒れる</td><td>倒す</td></tr>
+<tr><td>49</td><td>にし</td><td>西</td><td>西</td><td></td><td></td><td></td></tr>
+<tr><td>50</td><td>〜のほう</td><td>〜の方</td><td>～方面、～方</td><td></td><td></td><td></td></tr>
+<tr><td>51</td><td>もえます</td><td>燃えます</td><td>燃燒</td><td>2</td><td>燃える</td><td>燃やす</td></tr>
+<tr><td>52</td><td>レポーター</td><td></td><td>採訪記者</td><td></td><td></td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_30">第三十課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>はります</td><td></td><td>貼</td><td>1</td></tr>
+<tr><td>2</td><td>かけます</td><td>掛けます</td><td>掛</td><td>2</td></tr>
+<tr><td>3</td><td>かざります</td><td>飾ります</td><td>裝飾</td><td>1</td></tr>
+<tr><td>4</td><td>ならべます</td><td>並べます</td><td>排列</td><td>2</td></tr>
+<tr><td>5</td><td>うえます</td><td>植えます</td><td>種植</td><td>2</td></tr>
+<tr><td>6</td><td>もどします</td><td>戻します</td><td>歸還、還原</td><td>1</td></tr>
+<tr><td>7</td><td>まとめます</td><td></td><td>收拾、完成</td><td>2</td></tr>
+<tr><td>8</td><td>しまいます</td><td></td><td>整體、收拾</td><td>1</td></tr>
+<tr><td>9</td><td>きめます</td><td>決めます</td><td>決定</td><td>2</td></tr>
+<tr><td>10</td><td>よしゅうします</td><td>予習します</td><td>預習(上課前)</td><td>3</td></tr>
+<tr><td>11</td><td>ふくしゅうします</td><td>復習します</td><td>複習(下課後)</td><td>3</td></tr>
+<tr><td>12</td><td>そのままにします</td><td></td><td>保持原狀</td><td>3</td></tr>
+<tr><td>13</td><td>じゅぎょう</td><td>授業</td><td>課、課程</td><td></td></tr>
+<tr><td>14</td><td>こうぎ</td><td>講義</td><td>授課、上課</td><td></td></tr>
+<tr><td>15</td><td>ミーティング</td><td></td><td>會議</td><td></td></tr>
+<tr><td>16</td><td>よてい</td><td>予定</td><td>預定、計畫</td><td></td></tr>
+<tr><td>17</td><td>おしらせ</td><td>お知らせ</td><td>通知</td><td></td></tr>
+<tr><td>18</td><td>ガイドブック</td><td></td><td>指南</td><td></td></tr>
+<tr><td>19</td><td>カレンダー</td><td></td><td>年曆、月曆、日曆</td><td></td></tr>
+<tr><td>20</td><td>ポスター</td><td></td><td>海報</td><td></td></tr>
+<tr><td>21</td><td>よていひょう</td><td>予定表</td><td>計畫表、日程表</td><td></td></tr>
+<tr><td>22</td><td>ごみばこ</td><td>ごみ箱</td><td>垃圾桶</td><td></td></tr>
+<tr><td>23</td><td>にんぎょう</td><td>人形</td><td>人偶</td><td></td></tr>
+<tr><td>24</td><td>ぬいぐるみ</td><td></td><td>布公仔</td><td></td></tr>
+<tr><td>25</td><td>かびん</td><td>花瓶</td><td>花瓶</td><td></td></tr>
+<tr><td>26</td><td>かがみ</td><td>鏡</td><td>鏡子</td><td></td></tr>
+<tr><td>27</td><td>ひきだし</td><td>引き出し</td><td>抽屜</td><td></td></tr>
+<tr><td>28</td><td>げんかん</td><td>玄関</td><td>玄關</td><td></td></tr>
+<tr><td>29</td><td>ろうか</td><td>廊下</td><td>走廊</td><td></td></tr>
+<tr><td>30</td><td>かべ</td><td>壁</td><td>牆壁</td><td></td></tr>
+<tr><td>31</td><td>いけ</td><td>池</td><td>池塘、水池</td><td></td></tr>
+<tr><td>32</td><td>もとのところ</td><td>元の所</td><td>原處</td><td></td></tr>
+<tr><td>33</td><td>まわり</td><td>周り</td><td>周圍</td><td></td></tr>
+<tr><td>34</td><td>まんなか</td><td>真ん中</td><td>正中間</td><td></td></tr>
+<tr><td>35</td><td>すみ</td><td>隅</td><td>角落(內角)</td><td></td></tr>
+<tr><td>36</td><td>まだ</td><td></td><td>還、未</td><td></td></tr>
+<tr><td>37</td><td>リュック</td><td></td><td>帆布背包</td><td></td></tr>
+<tr><td>38</td><td>ひじょうぶくろ</td><td>非常袋</td><td>緊急避難包</td><td></td></tr>
+<tr><td>39</td><td>ひじょうじ</td><td>非常時</td><td>緊急情況</td><td></td></tr>
+<tr><td>40</td><td>せいかつします</td><td>生活します</td><td>生活</td><td>3</td></tr>
+<tr><td>41</td><td>かいちゅうでんとう</td><td>懐中電灯</td><td>手電筒</td><td></td></tr>
+<tr><td>42</td><td>〜とか、〜とか</td><td></td><td>～啦～啦(表示列舉)</td><td></td></tr>
+<tr><td>43</td><td>まるい</td><td>丸い</td><td>圓的</td><td></td></tr>
+<tr><td>44</td><td>ある〜</td><td></td><td>某～、某個～</td><td></td></tr>
+<tr><td>45</td><td>ゆめをみます</td><td>夢を見ます</td><td>做夢</td><td>2</td></tr>
+<tr><td>46</td><td>うれしい</td><td>嬉しい</td><td>高興</td><td></td></tr>
+<tr><td>47</td><td>いや「な」</td><td>嫌</td><td>討厭、不喜歡</td><td></td></tr>
+<tr><td>48</td><td>すると</td><td></td><td>於是</td><td></td></tr>
+<tr><td>49</td><td>めがさめます</td><td>目が覚めます</td><td>醒來</td><td>2</td></tr>
+</table>
+
+<p><h4 id="Chapter_31">第三十一課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>つづけます</td><td>続けます</td><td>繼續</td><td>2</td></tr>
+<tr><td>2</td><td>みつけます</td><td>見つけます</td><td>找、尋找</td><td>2</td></tr>
+<tr><td>3</td><td>とります「やすみを〜」</td><td>取ります「休みを〜」</td><td>取得(休假)</td><td>1</td></tr>
+<tr><td>4</td><td>うけます「試験を〜」</td><td>受けます「試験を〜」</td><td>應考(考試)</td><td>2</td></tr>
+<tr><td>5</td><td>もうしこみます</td><td>申し込みます</td><td>申請</td><td>1</td></tr>
+<tr><td>6</td><td>きゅうけいします</td><td>休憩します</td><td>休息</td><td>3</td></tr>
+<tr><td>7</td><td>れんきゅう</td><td>連休</td><td>連假</td><td></td></tr>
+<tr><td>8</td><td>さくぶん</td><td>作文</td><td>作文、寫作</td><td></td></tr>
+<tr><td>9</td><td>はっぴょう</td><td>発表</td><td>發表、公布(～します：發表、發布)</td><td></td></tr>
+<tr><td>10</td><td>てんらんかい</td><td>展覧会</td><td>展覽會</td><td></td></tr>
+<tr><td>11</td><td>けっこんしき</td><td>結婚式</td><td>結婚典禮</td><td></td></tr>
+<tr><td>12</td><td>「お」そうしき</td><td>「お」葬式</td><td>葬禮</td><td></td></tr>
+<tr><td>13</td><td>しき</td><td>式</td><td>典禮、儀式</td><td></td></tr>
+<tr><td>14</td><td>ほんしゃ</td><td>本社</td><td>總公司、本公司</td><td></td></tr>
+<tr><td>15</td><td>してん</td><td>支店</td><td>分公司、分店</td><td></td></tr>
+<tr><td>16</td><td>きょうかい</td><td>教会</td><td>教會</td><td></td></tr>
+<tr><td>17</td><td>だいがくいん</td><td>大学院</td><td>研究所</td><td></td></tr>
+<tr><td>18</td><td>どうぶつえん</td><td>動物園</td><td>動物園</td><td></td></tr>
+<tr><td>19</td><td>おんせん</td><td>温泉</td><td>溫泉：+にはいります</td><td></td></tr>
+<tr><td>20</td><td>かえり</td><td>帰り</td><td>回來：+みち->回家的路</td><td></td></tr>
+<tr><td>21</td><td>おこさん</td><td>お子さん</td><td>(別人的）孩子</td><td></td></tr>
+<tr><td>22</td><td>…ごう</td><td>…号</td><td>⋯號(電車車輛的編號、颱風的編號)</td><td></td></tr>
+<tr><td>23</td><td>〜のほう</td><td>〜の方</td><td>〜方面、～方</td><td></td></tr>
+<tr><td>24</td><td>ずっと</td><td>一直</td><td>一直</td><td></td></tr>
+<tr><td>25</td><td>バリ</td><td>巴里島</td><td></td><td></td></tr>
+<tr><td>26</td><td>ピカソ</td><td>畢卡索</td><td></td><td></td></tr>
+<tr><td>27</td><td>のぞみ</td><td>希望號新幹線</td><td></td><td></td></tr>
+<tr><td>28</td><td>しんこうべ</td><td>新神戸</td><td></td><td></td></tr>
+<tr><td>29</td><td>のこります</td><td>残ります</td><td>留下、剩下：+に</td><td>1</td></tr>
+<tr><td>30</td><td>にゅうがくしけん</td><td>入学試験</td><td>入學考試</td><td></td></tr>
+<tr><td>31</td><td>つきに</td><td>月に</td><td>每個月、每月</td><td></td></tr>
+<tr><td>32</td><td>むら</td><td>村</td><td>村、村莊</td><td></td></tr>
+<tr><td>33</td><td>そつぎょうします</td><td>卒業します</td><td>畢業</td><td>3</td></tr>
+<tr><td>34</td><td>えいがかん</td><td>映画館</td><td>電影院</td><td></td></tr>
+<tr><td>35</td><td>いや「な」</td><td>嫌</td><td>討厭、不喜歡</td><td></td></tr>
+<tr><td>36</td><td>そら</td><td>空</td><td>天空</td><td></td></tr>
+<tr><td>37</td><td>とじます</td><td>閉じます</td><td>閉上、關上：傘をとじます</td><td>2</td></tr>
+<tr><td>38</td><td>とかい</td><td>都会</td><td>都會、城市</td><td></td></tr>
+<tr><td>39</td><td>こどもたち</td><td>子どもたち</td><td>孩子們</td><td></td></tr>
+<tr><td>40</td><td>じゆうに</td><td>自由に</td><td>自由地、隨意地</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_32">第三十二課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>うんどうします</td><td>運動します</td><td>運動</td><td>3</td></tr>
+<tr><td>2</td><td>せいこうします</td><td>成功します</td><td>成功</td><td>3</td></tr>
+<tr><td>3</td><td>しっぱいします「しけんに〜」</td><td>失敗します「試験に〜」</td><td>(考試)失敗</td><td>3</td></tr>
+<tr><td>4</td><td>ごうかくします「しけんに〜」</td><td>合格します「試験に〜」</td><td>通過(考試)、合格</td><td>3</td></tr>
+<tr><td>5</td><td>やみます「あめが〜」</td><td>「雨が〜」</td><td>(雨)停了</td><td>1</td></tr>
+<tr><td>6</td><td>はれます</td><td>晴れます</td><td>晴朗</td><td>2</td></tr>
+<tr><td>7</td><td>くもります</td><td>曇ります</td><td>陰天</td><td>1</td></tr>
+<tr><td>8</td><td>つづきます「ねつが〜」</td><td>続きます「熱が〜」</td><td>持續(發燒)</td><td>1</td></tr>
+<tr><td>9</td><td>ひきます「かぜを〜」</td><td></td><td>患(感冒)</td><td>1</td></tr>
+<tr><td>10</td><td>ひやします</td><td>冷やします</td><td>使～涼下來，冰鎮</td><td>1</td></tr>
+<tr><td>11</td><td>こみます「みちが〜」</td><td>込みます「道が〜」</td><td>(道路)擁擠：自動詞</td><td>1</td></tr>
+<tr><td>12</td><td>すきます「みちが〜」</td><td>「道が〜」</td><td>((道路)空：自動詞</td><td>1</td></tr>
+<tr><td>13</td><td>でます「しあいに〜」</td><td>出ます「試合に〜」</td><td>參加(比賽)</td><td>2</td></tr>
+<tr><td>14</td><td>でます「パーティーに〜」</td><td></td><td>參加(派對)</td><td>2</td></tr>
+<tr><td>15</td><td>むりをします</td><td>無理をします</td><td>勉強</td><td>3</td></tr>
+<tr><td>16</td><td>じゅうぶん「な」</td><td>十分「な」</td><td>充分、足夠</td><td></td></tr>
+<tr><td>17</td><td>おかしい</td><td></td><td>奇怪、可疑</td><td></td></tr>
+<tr><td>18</td><td>うるさい</td><td></td><td>吵鬧、煩人</td><td></td></tr>
+<tr><td>19</td><td>せんせい</td><td></td><td>醫生(專業人仕)</td><td></td></tr>
+<tr><td>20</td><td>やけど</td><td>火傷</td><td>燙傷、燒傷(〜をします:燒傷、燙傷)</td><td></td></tr>
+<tr><td>21</td><td>けが</td><td>怪我</td><td>傷(～をします:受傷)</td><td></td></tr>
+<tr><td>22</td><td>せき</td><td></td><td>咳嗽(～をします/〜がでます:咳嗽)</td><td></td></tr>
+<tr><td>23</td><td>インフルエンザ</td><td></td><td>流行性感冒</td><td></td></tr>
+<tr><td>24</td><td>そら</td><td>空</td><td>天空</td><td></td></tr>
+<tr><td>25</td><td>たいよう</td><td></td><td>太陽</td><td></td></tr>
+<tr><td>26</td><td>ほし</td><td></td><td>星星</td><td></td></tr>
+<tr><td>27</td><td>かぜ</td><td>風</td><td>風</td><td></td></tr>
+<tr><td>28</td><td>ひがし</td><td>東</td><td>東</td><td></td></tr>
+<tr><td>29</td><td>にし</td><td>西</td><td>西</td><td></td></tr>
+<tr><td>30</td><td>みなみ</td><td>南</td><td>南</td><td></td></tr>
+<tr><td>31</td><td>きた</td><td>北</td><td>北</td><td></td></tr>
+<tr><td>32</td><td>こくさい〜</td><td>国際〜</td><td>國際～</td><td></td></tr>
+<tr><td>33</td><td>すいどう</td><td>水道</td><td>自來水、自來水管</td><td></td></tr>
+<tr><td>34</td><td>エンジン</td><td></td><td>引擎</td><td></td></tr>
+<tr><td>35</td><td>チーム</td><td></td><td>隊、團隊</td><td></td></tr>
+<tr><td>36</td><td>こんや</td><td>今夜</td><td>今天晚上、今晚</td><td></td></tr>
+<tr><td>37</td><td>ゆうがた</td><td>夕方</td><td>黃昏、傍晚</td><td></td></tr>
+<tr><td>38</td><td>まえ</td><td></td><td>以前、之前</td><td></td></tr>
+<tr><td>39</td><td>おそく</td><td>遅く</td><td>晚(時間)</td><td></td></tr>
+<tr><td>40</td><td>こんなに</td><td></td><td>這麼(程度相當厲害)</td><td></td></tr>
+<tr><td>41</td><td>そんなに</td><td></td><td>那麼(與聽者有關的事，程度相當厲害)</td><td></td></tr>
+<tr><td>42</td><td>あんなに</td><td></td><td>那麼(與說話者、聽者都無關的事，程度相當厲害)</td><td></td></tr>
+<tr><td>43</td><td>ヨーロッパ</td><td></td><td>歐洲</td><td></td></tr>
+<tr><td>44</td><td>げんき</td><td>元気</td><td>精神、健康</td><td></td></tr>
+<tr><td>45</td><td>い</td><td>胃</td><td>胃</td><td></td></tr>
+<tr><td>46</td><td>ストレス</td><td></td><td>壓力</td><td></td></tr>
+<tr><td>47</td><td>それはいけませんね。</td><td></td><td>那可不太好。</td><td></td></tr>
+<tr><td>48</td><td>ほしうらない</td><td>星占い</td><td>占星術、星相</td><td></td></tr>
+<tr><td>49</td><td>おうしざ</td><td>牡牛座</td><td>金牛座</td><td></td></tr>
+<tr><td>50</td><td>はたらきすぎ</td><td>働きすぎ</td><td>工作過度</td><td></td></tr>
+<tr><td>51</td><td>こまります</td><td>困ります</td><td>為難、困擾</td><td>1</td></tr>
+<tr><td>52</td><td>たからくじ</td><td>宝くじ</td><td>彩券</td><td></td></tr>
+<tr><td>53</td><td>あたります「たからくじが〜」</td><td>当たります「宝くじが〜」</td><td>中(彩券)</td><td>1</td></tr>
+<tr><td>54</td><td>けんこう</td><td>健康</td><td>健康</td><td></td></tr>
+<tr><td>55</td><td>れんあい</td><td>恋愛</td><td>戀愛</td><td></td></tr>
+<tr><td>56</td><td>こいびと</td><td>恋人</td><td>戀人</td><td></td></tr>
+<tr><td>57</td><td>ラッキーアイテム</td><td></td><td>吉祥物</td><td></td></tr>
+<tr><td>58</td><td>いし</td><td>石</td><td>石頭</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_33">第三十三課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>にげます</td><td>逃げます</td><td>逃走</td><td>2</td></tr>
+<tr><td>2</td><td>さわぎます</td><td>騒ぎます</td><td>吵鬧、喧嘩</td><td>1</td></tr>
+<tr><td>3</td><td>あきらめます</td><td>諦めます</td><td>放棄、死心</td><td>2</td></tr>
+<tr><td>4</td><td>なげます</td><td>投げます</td><td>扔、投</td><td>2</td></tr>
+<tr><td>5</td><td>まもります</td><td>守ります</td><td>遵守(有保護的意思)</td><td>1</td></tr>
+<tr><td>6</td><td>はじまります「しきが〜」</td><td>始まります「式が〜」</td><td>(典禮)開始</td><td>1</td></tr>
+<tr><td>7</td><td>しゅっせきします「かいぎに〜」</td><td>出席します「会議に〜」</td><td>出席(會議)</td><td>3</td></tr>
+<tr><td>8</td><td>つたえます</td><td>伝えます</td><td>傳達、轉告</td><td>2</td></tr>
+<tr><td>9</td><td>ちゅういします「くるまに〜」</td><td>注意します「車に〜」</td><td>注意、小心(汽車)</td><td>3</td></tr>
+<tr><td>10</td><td>はずします「せきを〜」</td><td>外します「席を〜」</td><td>離開(座位)</td><td>1</td></tr>
+<tr><td>11</td><td>もどります</td><td>戻ります</td><td>回來、返回</td><td>1</td></tr>
+<tr><td>12</td><td>あります「でんわが〜」</td><td>「電話が〜」</td><td>有電話</td><td>1</td></tr>
+<tr><td>13</td><td>リサイクルします</td><td></td><td>再利用、資源回收</td><td>3</td></tr>
+<tr><td>14</td><td>だめ「な」</td><td>駄目</td><td>不行、不可能</td><td></td></tr>
+<tr><td>15</td><td>おなじ</td><td>同じ</td><td>一樣、同樣</td><td></td></tr>
+<tr><td>16</td><td>けいさつ</td><td>警察</td><td>警察、警察局</td><td></td></tr>
+<tr><td>17</td><td>せき</td><td>席</td><td>座位</td><td></td></tr>
+<tr><td>18</td><td>マーク</td><td></td><td>標記、標誌</td><td></td></tr>
+<tr><td>19</td><td>ボール</td><td></td><td>球</td><td></td></tr>
+<tr><td>20</td><td>しめきり</td><td>締め切り</td><td>截止、截止日期</td><td></td></tr>
+<tr><td>21</td><td>きそく</td><td>規則</td><td>規則</td><td></td></tr>
+<tr><td>22</td><td>きけん</td><td>危険</td><td>危險</td><td></td></tr>
+<tr><td>23</td><td>しようきんし</td><td>使用禁止</td><td>禁止使用</td><td></td></tr>
+<tr><td>24</td><td>たちいりきんし</td><td>立入禁止</td><td>禁止入內</td><td></td></tr>
+<tr><td>25</td><td>じょこう</td><td>徐行</td><td>慢行</td><td></td></tr>
+<tr><td>26</td><td>いりぐち</td><td>入口</td><td>入口</td><td></td></tr>
+<tr><td>27</td><td>でぐち</td><td>出口</td><td>出口</td><td></td></tr>
+<tr><td>28</td><td>ひじょうぐち</td><td>非常口</td><td>緊急出口</td><td></td></tr>
+<tr><td>29</td><td>むりょう</td><td>無料</td><td>免費</td><td></td></tr>
+<tr><td>30</td><td>わりびき</td><td>割引</td><td>折扣</td><td></td></tr>
+<tr><td>31</td><td>のみほうだい</td><td>飲み放題</td><td>無限暢飲</td><td></td></tr>
+<tr><td>32</td><td>しようちゅう</td><td>使用中</td><td>正在使用</td><td></td></tr>
+<tr><td>33</td><td>ぼしゅうちゅう</td><td>募集中</td><td>正在招募</td><td></td></tr>
+<tr><td>34</td><td>〜ちゅう</td><td>〜中</td><td>正在～</td><td></td></tr>
+<tr><td>35</td><td>どういう〜</td><td></td><td>怎樣的～、什麼樣的～</td><td></td></tr>
+<tr><td>36</td><td>いくら「〜ても」</td><td></td><td>怎麼～也～、無論～也～</td><td></td></tr>
+<tr><td>37</td><td>もう</td><td></td><td>已經、不再（與否定形一起使用)</td><td></td></tr>
+<tr><td>38</td><td>あと〜</td><td></td><td>還有～</td><td></td></tr>
+<tr><td>39</td><td>〜ほど</td><td></td><td>大概～、大約～</td><td></td></tr>
+<tr><td>40</td><td>ちゅうしゃいはん</td><td>駐車違反</td><td>違規停車</td><td></td></tr>
+<tr><td>41</td><td>ばっきん</td><td>罰金</td><td>罰款</td><td></td></tr>
+<tr><td>42</td><td>じしん</td><td>地震</td><td>地震</td><td></td></tr>
+<tr><td>43</td><td>おきます</td><td>起きます</td><td>發生</td><td>2</td></tr>
+<tr><td>44</td><td>たすけあいます</td><td>助け合います</td><td>互助</td><td>1</td></tr>
+<tr><td>45</td><td>もともと</td><td></td><td>原本、原來</td><td></td></tr>
+<tr><td>46</td><td>かなしい</td><td>悲しい</td><td>悲傷</td><td></td></tr>
+<tr><td>47</td><td>もっと</td><td></td><td>更加</td><td></td></tr>
+<tr><td>48</td><td>あいさつ</td><td></td><td>寒暄、問候(～をします）</td><td></td></tr>
+<tr><td>49</td><td>あいて</td><td>相手</td><td>對方</td><td></td></tr>
+<tr><td>50</td><td>きもち</td><td>気持ち</td><td>心情、情緒</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_34">第三十四課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>みがきます「はを〜」</td><td>磨きます「歯を〜」</td><td>刷牙</td><td>1</td></tr>
+<tr><td>2</td><td>くみたてます</td><td>組み立てます</td><td>組裝</td><td>2</td></tr>
+<tr><td>3</td><td>おります</td><td>折ります</td><td>摺、折彎</td><td>1</td></tr>
+<tr><td>4</td><td>きがつきます「わすれものに〜」</td><td>気がつきます「忘れ物に〜」</td><td>發現、發覺（遺失物品)</td><td>1</td></tr>
+<tr><td>5</td><td>つけます「しょうゆを〜」</td><td></td><td>沾(醬油)</td><td>2</td></tr>
+<tr><td>6</td><td>みつかります「かぎが〜」</td><td>見つかります</td><td>找到(鑰匙)(自動詞)</td><td>1</td></tr>
+<tr><td>7</td><td>しつもんします</td><td>質問します</td><td>提問</td><td>3</td></tr>
+<tr><td>8</td><td>さします「かさを〜」</td><td>「傘を〜」</td><td>撐傘專用字</td><td>1</td></tr>
+<tr><td>9</td><td>スポーツクラブ</td><td></td><td>運動俱樂部</td><td></td></tr>
+<tr><td>10</td><td>「お」しろ</td><td>「お」城</td><td>城</td><td></td></tr>
+<tr><td>11</td><td>せつめいしょ</td><td>説明書</td><td>說明書</td><td></td></tr>
+<tr><td>12</td><td>ず</td><td>図</td><td>圖</td><td></td></tr>
+<tr><td>13</td><td>せん</td><td>線</td><td>線</td><td></td></tr>
+<tr><td>14</td><td>やじるし</td><td>矢印</td><td>箭頭(記號)</td><td></td></tr>
+<tr><td>15</td><td>くろ</td><td>黒</td><td>黑色(名詞)</td><td></td></tr>
+<tr><td>16</td><td>しろ</td><td>白</td><td>白色(名詞)</td><td></td></tr>
+<tr><td>17</td><td>あか</td><td>赤</td><td>紅色(名詞)/</td><td></td></tr>
+<tr><td>18</td><td>あお</td><td>青</td><td>(藍色(名詞)</td><td></td></tr>
+<tr><td>19</td><td>こん</td><td>紺</td><td>深藍色(名詞)</td><td></td></tr>
+<tr><td>20</td><td>きいろ</td><td>黄色</td><td>黃色(名詞)</td><td></td></tr>
+<tr><td>21</td><td>ちゃいろ</td><td>茶色</td><td>棕色(名詞)</td><td></td></tr>
+<tr><td>22</td><td>しょうゆ</td><td>醤油</td><td>醬油</td><td></td></tr>
+<tr><td>23</td><td>ソース</td><td></td><td>醬汁</td><td></td></tr>
+<tr><td>24</td><td>おきゃく「さん」</td><td>お客「さん」</td><td>顧客、客戶</td><td></td></tr>
+<tr><td>25</td><td>～か～</td><td></td><td>～或～</td><td></td></tr>
+<tr><td>26</td><td>ゆうべ</td><td>昨夜</td><td>昨晚(常用)</td><td></td></tr>
+<tr><td>27</td><td>さっき</td><td></td><td>剛才</td><td></td></tr>
+<tr><td>28</td><td>さどう</td><td>茶道</td><td>茶道</td><td></td></tr>
+<tr><td>29</td><td>おちゃをたてます</td><td>お茶をたてます</td><td>泡茶(茶道專用語)</td><td>2</td></tr>
+<tr><td>30</td><td>さきに</td><td>先に</td><td>先、首先</td><td></td></tr>
+<tr><td>31</td><td>のせます</td><td>載せます</td><td>放上</td><td>2</td></tr>
+<tr><td>32</td><td>これでいいですか。</td><td></td><td>這樣可以嗎？</td><td></td></tr>
+<tr><td>33</td><td>いかがですか。</td><td></td><td>怎麼樣？</td><td></td></tr>
+<tr><td>34</td><td>にがい</td><td>苦い</td><td>苦</td><td></td></tr>
+<tr><td>35</td><td>おやこどんぶり</td><td>親子どんぶり</td><td>雞肉親子丼</td><td></td></tr>
+<tr><td>36</td><td>ざいりょう</td><td>材料</td><td>材料</td><td></td></tr>
+<tr><td>37</td><td>⋯ぶん</td><td>⋯分</td><td>⋯分(表示量)</td><td></td></tr>
+<tr><td>38</td><td>⋯グラム</td><td></td><td>⋯克</td><td></td></tr>
+<tr><td>39</td><td>⋯こ</td><td>⋯個</td><td>⋯個</td><td></td></tr>
+<tr><td>40</td><td>たまねぎ</td><td></td><td>洋蔥</td><td></td></tr>
+<tr><td>41</td><td>よんぶんのいち</td><td>4分の1 (1/4)</td><td>四分之一</td><td></td></tr>
+<tr><td>42</td><td>ちょうみりょう</td><td>調味料</td><td>調味料</td><td></td></tr>
+<tr><td>43</td><td>てきとうなおおきさに</td><td>適当な大きさに</td><td>適當的大小</td><td></td></tr>
+<tr><td>44</td><td>なべ</td><td></td><td>鍋</td><td></td></tr>
+<tr><td>45</td><td>ひ</td><td>火</td><td>火</td><td></td></tr>
+<tr><td>46</td><td>ひにかけます</td><td>火にかけます</td><td>加熱</td><td>2</td></tr>
+<tr><td>47</td><td>にます</td><td>煮ます</td><td>煮、燉</td><td>2</td></tr>
+<tr><td>48</td><td>にえます</td><td>煮えます</td><td>煮熟</td><td>2</td></tr>
+<tr><td>49</td><td>どんぶり</td><td></td><td>大碗</td><td></td></tr>
+<tr><td>50</td><td>たちます</td><td></td><td>流逝、過去</td><td>1</td></tr>
+</table>
+
+<p><h4 id="Chapter_35">第三十五課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>さきます「はなが〜」</td><td>咲きます「花が〜」</td><td>開花</td><td>1</td></tr>
+<tr><td>2</td><td>かわります「いろが〜」</td><td>変わります「色が〜」</td><td>變色</td><td>1</td></tr>
+<tr><td>3</td><td>こまります</td><td>困ります</td><td>為難、困擾</td><td>1</td></tr>
+<tr><td>4</td><td>つけます「まるを〜」</td><td>付けます「丸を〜」</td><td>加上、畫(圈)</td><td>2</td></tr>
+<tr><td>5</td><td>なおります「びょうきが〜」</td><td>治ります「病気が〜」</td><td>(病)痊愈、治好</td><td>1</td></tr>
+<tr><td>6</td><td>なおります「こしょうが〜」</td><td>直ります「故障が〜」</td><td>(故障)修理好</td><td>1</td></tr>
+<tr><td>7</td><td>クリックします</td><td></td><td>點擊</td><td>3</td></tr>
+<tr><td>8</td><td>にゅうりょくします</td><td>入力します</td><td>輸入(打字)</td><td>3</td></tr>
+<tr><td>9</td><td>ただしい</td><td>正しい</td><td>正確</td><td></td></tr>
+<tr><td>10</td><td>むこう</td><td>向こう</td><td>對面、那邊</td><td></td></tr>
+<tr><td>11</td><td>しま</td><td>島</td><td>島</td><td></td></tr>
+<tr><td>12</td><td>みなと</td><td>港</td><td>港口</td><td></td></tr>
+<tr><td>13</td><td>きんじょ</td><td>近所</td><td>附近、鄰居</td><td></td></tr>
+<tr><td>14</td><td>おくじょう</td><td>屋上</td><td>屋頂</td><td></td></tr>
+<tr><td>15</td><td>かいがい</td><td>海外</td><td>海外</td><td></td></tr>
+<tr><td>16</td><td>やまのぼり</td><td>山登り</td><td>登山</td><td></td></tr>
+<tr><td>17</td><td>れきし</td><td>歴史</td><td>歷史</td><td></td></tr>
+<tr><td>18</td><td>きかい</td><td>機会</td><td>機會</td><td></td></tr>
+<tr><td>19</td><td>きょか</td><td>許可</td><td>許可</td><td></td></tr>
+<tr><td>20</td><td>まる</td><td>丸</td><td>圓、圈</td><td></td></tr>
+<tr><td>21</td><td>ふりがな</td><td></td><td>標注假名</td><td></td></tr>
+<tr><td>22</td><td>せつび</td><td>設備</td><td>設備</td><td></td></tr>
+<tr><td>23</td><td>レバー</td><td></td><td>把手、操縱桿</td><td></td></tr>
+<tr><td>24</td><td>キー</td><td></td><td>鍵</td><td></td></tr>
+<tr><td>25</td><td>カーテン</td><td></td><td>窗簾</td><td></td></tr>
+<tr><td>26</td><td>ひも</td><td></td><td>繩子</td><td></td></tr>
+<tr><td>27</td><td>すいはんき</td><td>炊飯器</td><td>電鍋</td><td></td></tr>
+<tr><td>28</td><td>は</td><td>葉</td><td>葉子</td><td></td></tr>
+<tr><td>29</td><td>むかし</td><td>昔</td><td>過去、以前</td><td></td></tr>
+<tr><td>30</td><td>もっと</td><td></td><td>更、更加</td><td></td></tr>
+<tr><td>31</td><td>これでおわりましょう</td><td>これで終わりましょう</td><td>到此結束吧</td><td></td></tr>
+<tr><td>32</td><td>はこね</td><td>箱根</td><td>箱根</td><td></td></tr>
+<tr><td>33</td><td>にっこう</td><td>日光</td><td>日光市</td><td></td></tr>
+<tr><td>34</td><td>アフリカ</td><td></td><td>非洲</td><td></td></tr>
+<tr><td>35</td><td>それなら</td><td></td><td>那樣的話、如果是那樣</td><td></td></tr>
+<tr><td>36</td><td>やこうバス</td><td>夜行バス</td><td>夜行巴士</td><td></td></tr>
+<tr><td>37</td><td>さあ</td><td></td><td>哎、用於對一些情況不太淸楚時</td><td></td></tr>
+<tr><td>38</td><td>りょこうしゃ</td><td>旅行社</td><td>旅行社</td><td></td></tr>
+<tr><td>39</td><td>くわしい</td><td>詳しい</td><td>詳細</td><td></td></tr>
+<tr><td>40</td><td>スキーじょう</td><td>スキー場</td><td>滑雪場</td><td></td></tr>
+<tr><td>41</td><td>くさつ</td><td>草津</td><td></td><td></td></tr>
+<tr><td>42</td><td>しがこうげん</td><td>志賀高原</td><td></td><td></td></tr>
+<tr><td>43</td><td>しゅ</td><td>朱</td><td>朱紅、紅色</td><td></td></tr>
+<tr><td>44</td><td>まじわります</td><td>交わります</td><td>來往、交際(不用記、不會用)</td><td>1</td></tr>
+<tr><td>45</td><td>ことわざ</td><td></td><td>諺語</td><td></td></tr>
+<tr><td>46</td><td>かんけい</td><td>関係</td><td>關係</td><td></td></tr>
+<tr><td>47</td><td>なかよくします</td><td>仲良くします</td><td>友好交往</td><td>3</td></tr>
+<tr><td>48</td><td>ひつよう「な」</td><td>必要「な」</td><td>必要、需要</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_36">第三十六課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>あいます「じこに〜」</td><td>あいます「事故に〜」</td><td>遇到事故</td><td>1</td></tr>
+<tr><td>2</td><td>ちょきんします</td><td>貯金します</td><td>存錢</td><td>3</td></tr>
+<tr><td>3</td><td>すぎます「しちじを〜」</td><td>過ぎます「7時を〜」</td><td>過七點</td><td>2</td></tr>
+<tr><td>4</td><td>なれます「しごとに〜」</td><td>慣れます「仕事に〜」</td><td>習慣工作</td><td>2</td></tr>
+<tr><td>5</td><td>くさります「たべものが〜」</td><td>腐ります「食べ物が〜」</td><td>食物腐爛</td><td>1</td></tr>
+<tr><td>6</td><td>けんどう</td><td>剣道</td><td></td><td></td></tr>
+<tr><td>7</td><td>じゅうどう</td><td>柔道</td><td></td><td></td></tr>
+<tr><td>8</td><td>ラッシュ</td><td></td><td>上下班高峰時間、交通尖峰時間</td><td></td></tr>
+<tr><td>9</td><td>うちゅう</td><td>宇宙</td><td></td><td></td></tr>
+<tr><td>10</td><td>きょく</td><td>曲</td><td>曲子</td><td></td></tr>
+<tr><td>11</td><td>まいしゅう</td><td>毎週</td><td></td><td></td></tr>
+<tr><td>12</td><td>まいつき</td><td>毎月</td><td></td><td></td></tr>
+<tr><td>13</td><td>まいとし</td><td>毎年</td><td></td><td></td></tr>
+<tr><td>14</td><td>まいねん</td><td>毎年</td><td></td><td></td></tr>
+<tr><td>15</td><td>このごろ</td><td></td><td>這些日子、最近</td><td></td></tr>
+<tr><td>16</td><td>やっと</td><td></td><td>終於、總算</td><td></td></tr>
+<tr><td>17</td><td>かなり</td><td></td><td>相當</td><td></td></tr>
+<tr><td>18</td><td>かならず</td><td>必ず</td><td>一定</td><td></td></tr>
+<tr><td>19</td><td>ぜったいに</td><td>絶対に</td><td>絕對地</td><td></td></tr>
+<tr><td>20</td><td>じょうずに</td><td>上手に</td><td>擅長</td><td></td></tr>
+<tr><td>21</td><td>できるだけ</td><td></td><td>盡可能、盡量</td><td></td></tr>
+<tr><td>22</td><td>ほとんど</td><td></td><td>幾乎(肯定句)、幾乎完全(否定句)</td><td></td></tr>
+<tr><td>23</td><td>ショパン</td><td></td><td>蕭邦</td><td></td></tr>
+<tr><td>24</td><td>おきゃくさま</td><td>お客様</td><td>顧客、客戶おきゃくさん的尊敬語</td><td></td></tr>
+<tr><td>25</td><td>とくべつ「な」</td><td>特別「な」</td><td></td><td></td></tr>
+<tr><td>26</td><td>していらっしゃいます</td><td></td><td>正在做～、しています的尊敬語</td><td></td></tr>
+<tr><td>27</td><td>すいえい</td><td>水泳</td><td>游泳(名詞)</td><td></td></tr>
+<tr><td>28</td><td>ちがいます</td><td>違います</td><td>不同、不一樣</td><td></td></tr>
+<tr><td>29</td><td>つかっていらっしゃるんですね</td><td>使っていらっしゃるんですね</td><td>使用～啊、つかっているんですね的尊敬語</td><td></td></tr>
+<tr><td>30</td><td>チャレンジします</td><td></td><td>挑戰</td><td>3</td></tr>
+<tr><td>31</td><td>きもち</td><td>気持ち</td><td>心情、情緒</td><td></td></tr>
+<tr><td>32</td><td>のりもの</td><td>乗り物</td><td>交通工具</td><td></td></tr>
+<tr><td>33</td><td>…せいき</td><td>…世紀</td><td>⋯世紀</td><td></td></tr>
+<tr><td>34</td><td>とおく</td><td>遠く</td><td>遠處</td><td></td></tr>
+<tr><td>35</td><td>めずらしい</td><td>珍しい</td><td>珍奇、罕見</td><td></td></tr>
+<tr><td>36</td><td>きしゃ</td><td>汽車</td><td>蒸氣火車</td><td></td></tr>
+<tr><td>37</td><td>きせん</td><td>汽船</td><td>汽船</td><td></td></tr>
+<tr><td>38</td><td>おおぜいの〜</td><td>大勢の〜</td><td>很多的～(人)</td><td></td></tr>
+<tr><td>39</td><td>はこびます</td><td>運びます</td><td>運送</td><td>1</td></tr>
+<tr><td>40</td><td>りようします</td><td>利用します</td><td>利用</td><td>3</td></tr>
+<tr><td>41</td><td>じゆうに</td><td>自由に</td><td>自由地、隨意地</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_37">第三十七課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>ほめます</td><td>褒めます</td><td>讚美、表揚</td><td>2</td></tr>
+<tr><td>2</td><td>しかります</td><td></td><td>責罵</td><td>1</td></tr>
+<tr><td>3</td><td>さそいます</td><td>誘います</td><td>邀請</td><td>1</td></tr>
+<tr><td>4</td><td>しょうたいします</td><td>招待します</td><td>招待</td><td>3</td></tr>
+<tr><td>5</td><td>たのみます</td><td>頼みます</td><td>請求、委託</td><td>1</td></tr>
+<tr><td>6</td><td>ちゅういします</td><td>注意します</td><td>提醒、警告</td><td>3</td></tr>
+<tr><td>7</td><td>とります</td><td></td><td>偷、搶</td><td>1</td></tr>
+<tr><td>8</td><td>ふみます</td><td>踏みます</td><td>踩</td><td>1</td></tr>
+<tr><td>9</td><td>こわします</td><td>壊します</td><td>弄壞</td><td>1</td></tr>
+<tr><td>10</td><td>よごします</td><td>汚します</td><td>弄髒</td><td>1</td></tr>
+<tr><td>11</td><td>おこないます</td><td>行います</td><td>舉行、舉辦</td><td>1</td></tr>
+<tr><td>12</td><td>ゆしゅつします</td><td>輸出します</td><td>出口</td><td>3</td></tr>
+<tr><td>13</td><td>ゆにゅうします</td><td>輸入します</td><td>進口</td><td>3</td></tr>
+<tr><td>14</td><td>ほんやくします</td><td>翻訳します</td><td>翻譯</td><td>3</td></tr>
+<tr><td>15</td><td>はつめいします</td><td>発明します</td><td>發明</td><td>3</td></tr>
+<tr><td>16</td><td>はっけんします</td><td>発見します</td><td>發現</td><td>3</td></tr>
+<tr><td>17</td><td>こめ</td><td>米</td><td>稻米</td><td></td></tr>
+<tr><td>18</td><td>むぎ</td><td>麦</td><td>麥子</td><td></td></tr>
+<tr><td>19</td><td>せきゆ</td><td>石油</td><td>石油</td><td></td></tr>
+<tr><td>20</td><td>げんりょう</td><td>原料</td><td>原料</td><td></td></tr>
+<tr><td>21</td><td>インスタントラーメン</td><td></td><td>泡麵、速食麵</td><td></td></tr>
+<tr><td>22</td><td>デート</td><td></td><td>約會</td><td></td></tr>
+<tr><td>23</td><td>どろぼう</td><td>泥棒</td><td>小偷</td><td></td></tr>
+<tr><td>24</td><td>けいかん</td><td>警官</td><td>警官</td><td></td></tr>
+<tr><td>25</td><td>せかいじゅう</td><td>世界中</td><td>全世界</td><td></td></tr>
+<tr><td>26</td><td>～じゅう</td><td>～中</td><td>全～、整個～</td><td></td></tr>
+<tr><td>27</td><td>⋯せいき</td><td>⋯世紀</td><td>⋯世紀</td><td></td></tr>
+<tr><td>28</td><td>なにご</td><td>何語</td><td>哪種語言</td><td></td></tr>
+<tr><td>29</td><td>だれか</td><td></td><td>有誰</td><td></td></tr>
+<tr><td>30</td><td>よかったですね</td><td></td><td>太好了</td><td></td></tr>
+<tr><td>31</td><td>オリンピック</td><td></td><td>奧林匹克運動會</td><td></td></tr>
+<tr><td>32</td><td>ワールドカップ</td><td></td><td>世界杯</td><td></td></tr>
+<tr><td>33</td><td>とうだいじ</td><td>東大寺</td><td>東大寺</td><td></td></tr>
+<tr><td>34</td><td>だいぶつ</td><td>大仏</td><td>大佛</td><td></td></tr>
+<tr><td>35</td><td>えどじだい</td><td>江戸時代</td><td>江戶時代</td><td></td></tr>
+<tr><td>36</td><td>ポルトガル</td><td></td><td>葡萄牙</td><td></td></tr>
+<tr><td>37</td><td>サウジアラビア</td><td></td><td>沙地阿拉伯</td><td></td></tr>
+<tr><td>38</td><td>ロシア</td><td></td><td>俄羅斯</td><td></td></tr>
+<tr><td>39</td><td>みなさま</td><td>皆様</td><td>各位（みなさん)的尊敬語</td><td></td></tr>
+<tr><td>40</td><td>やけます「うちが～」</td><td>焼けます</td><td>（房子）起火、燃燒</td><td>2</td></tr>
+<tr><td>41</td><td>そのご</td><td>その後</td><td>之後、後來</td><td></td></tr>
+<tr><td>42</td><td>せかいいさん</td><td>世界遺産</td><td>世界遺產</td><td></td></tr>
+<tr><td>43</td><td>～のひとつ</td><td>～の一つ</td><td>～之一</td><td></td></tr>
+<tr><td>44</td><td>きんいろ</td><td>金色</td><td>金色</td><td></td></tr>
+<tr><td>45</td><td>ほんもの</td><td>本物</td><td>真貨、真的</td><td></td></tr>
+<tr><td>46</td><td>きん</td><td>金</td><td>金子</td><td></td></tr>
+<tr><td>47</td><td>⋯キロ</td><td></td><td>⋯公斤、⋯公里</td><td></td></tr>
+<tr><td>48</td><td>うつくしい</td><td>美しい</td><td>美麗、好看 - 抽象/內在/觸動心靈的靚</td><td></td></tr>
+<tr><td>49</td><td>ごうか「な」</td><td>豪華「な」</td><td>豪華</td><td></td></tr>
+<tr><td>50</td><td>ちょうこく</td><td>彫刻</td><td>雕刻</td><td></td></tr>
+<tr><td>51</td><td>いいつたえ</td><td>言い伝え</td><td>傳說</td><td></td></tr>
+<tr><td>52</td><td>ねむります</td><td>眠ります</td><td>睡、睡眠（自動詞）</td><td>1</td></tr>
+<tr><td>53</td><td>ほります</td><td>彫ります</td><td>雕</td><td>1</td></tr>
+<tr><td>54</td><td>なかま</td><td>仲間</td><td>朋友、夥伴</td><td></td></tr>
+<tr><td>55</td><td>しかし</td><td></td><td>但是</td><td></td></tr>
+<tr><td>56</td><td>そのあと</td><td></td><td>之後、後來</td><td></td></tr>
+<tr><td>57</td><td>いっしょうけんめい</td><td>一生懸命</td><td>努力、拼命</td><td></td></tr>
+<tr><td>58</td><td>ねずみ</td><td></td><td>老鼠</td><td></td></tr>
+<tr><td>59</td><td>いっぴきもいません</td><td>一匹もいません</td><td>一隻也設有</td><td></td></tr>
+<tr><td>60</td><td>とうしょうぐう</td><td>東照宮</td><td>祭祀德川家康的神社</td><td></td></tr>
+<tr><td>61</td><td>ねむりねこ</td><td>眠り猫</td><td>睡貓（雕刻的名稱)</td><td></td></tr>
+<tr><td>62</td><td>ひだりじんごろう</td><td>左甚五郎</td><td></td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_38">第三十八課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>さんかします「りょこうに～」</td><td>参加します「旅行に～」</td><td>參加(旅行)</td><td>3</td></tr>
+<tr><td>2</td><td>そだてます</td><td>育てます</td><td>培育、撫養</td><td>2</td></tr>
+<tr><td>3</td><td>はこびます</td><td>運びます</td><td>搬、搬運</td><td>1</td></tr>
+<tr><td>4</td><td>にゅういんします</td><td>入院します</td><td>住院</td><td>3</td></tr>
+<tr><td>5</td><td>たいいんします</td><td>退院します</td><td>出院</td><td>3</td></tr>
+<tr><td>6</td><td>いれます「でんげんを～」</td><td>入れます「電源を～」</td><td>打開(電源)</td><td>2</td></tr>
+<tr><td>7</td><td>きります「でんげんを～」</td><td>切ります「電源を～」</td><td>關上(電源)</td><td>1</td></tr>
+<tr><td>8</td><td>かけます「かぎを～」</td><td>掛けます「鍵を～」</td><td>上(鎖)</td><td>2</td></tr>
+<tr><td>9</td><td>つきます「うそを～」</td><td></td><td>(說(謊)</td><td>1</td></tr>
+<tr><td>10</td><td>きもちがいい</td><td>気持ちがいい</td><td>舒服(心情上)</td><td></td></tr>
+<tr><td>11</td><td>きもちがわるい</td><td>気持ちが悪い</td><td>不舒服(心情上)</td><td></td></tr>
+<tr><td>12</td><td>おおきな～</td><td>大きな～</td><td>大的～（抽象上用)</td><td></td></tr>
+<tr><td>13</td><td>ちいさな～</td><td>小さな～</td><td>小的～(抽象上用)</td><td></td></tr>
+<tr><td>14</td><td>あかちゃん</td><td>赤ちゃん</td><td>嬰兒</td><td></td></tr>
+<tr><td>15</td><td>しょうがっこう</td><td>小学校</td><td>小學</td><td></td></tr>
+<tr><td>16</td><td>ちゅうがっこう</td><td>中学校</td><td>中學</td><td></td></tr>
+<tr><td>17</td><td>えきまえ</td><td>駅前</td><td>車站前</td><td></td></tr>
+<tr><td>18</td><td>かいがん</td><td>海岸</td><td>海岸</td><td></td></tr>
+<tr><td>19</td><td>こうじょう</td><td>工場</td><td>工廠</td><td></td></tr>
+<tr><td>20</td><td>むら</td><td>村</td><td>村、村莊</td><td></td></tr>
+<tr><td>21</td><td>かな</td><td></td><td>假名(日文字母)</td><td></td></tr>
+<tr><td>22</td><td>ゆびわ</td><td>指輪</td><td>戒指</td><td></td></tr>
+<tr><td>23</td><td>でんげん</td><td>電源</td><td>電源</td><td></td></tr>
+<tr><td>24</td><td>しゅうかん</td><td>習慣</td><td>習慣</td><td></td></tr>
+<tr><td>25</td><td>けんこう</td><td>健康</td><td>健康</td><td></td></tr>
+<tr><td>26</td><td>～せい</td><td>～製</td><td>～製造</td><td></td></tr>
+<tr><td>27</td><td>おととし</td><td></td><td>前年</td><td></td></tr>
+<tr><td>28</td><td>「あ、」いけない。</td><td></td><td>啊、糟了。(用於做錯或失敗時)</td><td></td></tr>
+<tr><td>29</td><td>おさきに「しつれいします」。</td><td>お先に「失礼します」。</td><td>我先告辭了。/我先走了。</td><td></td></tr>
+<tr><td>30</td><td>げんばくドーム</td><td>原爆ドーム</td><td>廣島原爆爆炸紀念館</td><td></td></tr>
+<tr><td>31</td><td>いずもたいしゃ</td><td>出雲大社</td><td></td><td></td></tr>
+<tr><td>32</td><td>チェンマイ</td><td></td><td>清邁(泰國)</td><td></td></tr>
+<tr><td>33</td><td>かいらん</td><td>回覧</td><td>通知、傳閲</td><td></td></tr>
+<tr><td>34</td><td>けんきゅうしつ</td><td>研究室</td><td>研究室</td><td></td></tr>
+<tr><td>35</td><td>きちんと</td><td></td><td>整齊地</td><td></td></tr>
+<tr><td>36</td><td>せいりします</td><td>整理します</td><td>整體、收拾</td><td>3</td></tr>
+<tr><td>37</td><td>ほうほう</td><td>方法</td><td>方法</td><td></td></tr>
+<tr><td>38</td><td>～という</td><td></td><td>叫～、名為～</td><td></td></tr>
+<tr><td>39</td><td>⋯さつ</td><td>⋯冊</td><td>⋯本、⋯冊</td><td></td></tr>
+<tr><td>40</td><td>はんこ</td><td>判子</td><td>章、印章</td><td></td></tr>
+<tr><td>41</td><td>おします「はんこを～」</td><td>押します「はんこを～」</td><td>蓋(章)</td><td></td></tr>
+<tr><td>42</td><td>いんかん</td><td>印鑑</td><td>印鑑</td><td></td></tr>
+<tr><td>43</td><td>ふたご</td><td>双子</td><td>雙胞胎</td><td></td></tr>
+<tr><td>44</td><td>しまい</td><td>姉妹</td><td>姊妹</td><td></td></tr>
+<tr><td>45</td><td>5ねんせい</td><td>5年生</td><td>五年級學生</td><td></td></tr>
+<tr><td>46</td><td>にています</td><td>似ています</td><td>相似、相像</td><td></td></tr>
+<tr><td>47</td><td>せいかく</td><td>性格</td><td>性格</td><td></td></tr>
+<tr><td>48</td><td>おとなしい</td><td>大人しい</td><td>文靜、老實、溫順(成熟)</td><td></td></tr>
+<tr><td>49</td><td>やさしい</td><td>優しい</td><td>温柔、親切</td><td></td></tr>
+<tr><td>50</td><td>せわをします</td><td>世話をします</td><td>照顧、照料</td><td></td></tr>
+<tr><td>51</td><td>じかんがたちます</td><td>時間がたちます</td><td>時間流逝</td><td>1</td></tr>
+<tr><td>52</td><td>だいすき「な」</td><td>大好き</td><td>非常喜歡</td><td></td></tr>
+<tr><td>53</td><td>⋯てん</td><td>⋯点</td><td>考試的分數</td><td></td></tr>
+<tr><td>54</td><td>きがつよい</td><td>気が強い</td><td>好強、剛強(好勝)</td><td></td></tr>
+<tr><td>55</td><td>けんかします</td><td>喧嘩します</td><td>吵架、打架</td><td>3</td></tr>
+<tr><td>56</td><td>ふしぎ「な」</td><td>不思議</td><td>不可思議</td><td></td></tr>
+<tr><td>57</td><td>ねんれい</td><td>年齢</td><td>年齡</td><td></td></tr>
+<tr><td>58</td><td>しかた</td><td>仕方</td><td>方法、辦法</td><td></td></tr>
+<tr><td>59</td><td>しかた「が」ない</td><td>仕方「が」ない</td><td>無計、無辦法</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_39">第三十九課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>こたえます「しつもんに〜」</td><td>答えます「質問に〜」</td><td>回答(問題)</td><td>2</td></tr>
+<tr><td>2</td><td>たおれます「ビルが〜」</td><td>倒れます</td><td>(大樓)倒塌</td><td>2</td></tr>
+<tr><td>3</td><td>とおります「みちを〜」</td><td>通ります「道を〜」</td><td>通過、過(街道)</td><td>1</td></tr>
+<tr><td>4</td><td>しにます</td><td>死にます</td><td>死</td><td>1</td></tr>
+<tr><td>5</td><td>なくなります</td><td>亡くなります</td><td>去世、有禮貌用語</td><td></td></tr>
+<tr><td>6</td><td>びっくりします</td><td></td><td>吃驚</td><td>3</td></tr>
+<tr><td>7</td><td>がっかりします</td><td></td><td>失望</td><td>3</td></tr>
+<tr><td>8</td><td>あんしんします</td><td>安心します</td><td>安心、放心</td><td>3</td></tr>
+<tr><td>9</td><td>けんかします</td><td>喧嘩します</td><td>吵架、打架</td><td>3</td></tr>
+<tr><td>10</td><td>りこんします</td><td>離婚します</td><td>離婚</td><td>3</td></tr>
+<tr><td>11</td><td>ふとります</td><td>太ります</td><td>胖</td><td>1</td></tr>
+<tr><td>12</td><td>やせます</td><td>痩せます</td><td>瘦</td><td>2</td></tr>
+<tr><td>13</td><td>ふくざつ「な」</td><td>複雑</td><td>複雜</td><td></td></tr>
+<tr><td>14</td><td>じゃま「な」</td><td>邪魔</td><td>妨礙、打攪</td><td></td></tr>
+<tr><td>15</td><td>かたい</td><td>硬い</td><td>硬、堅硬</td><td></td></tr>
+<tr><td>16</td><td>やわらかい</td><td>軟らかい</td><td>軟、柔軟</td><td></td></tr>
+<tr><td>17</td><td>きたない</td><td>汚い</td><td>髒、骯髒</td><td></td></tr>
+<tr><td>18</td><td>うれしい</td><td>嬉しい</td><td>高興</td><td></td></tr>
+<tr><td>19</td><td>かなしい</td><td>悲しい</td><td>悲傷</td><td></td></tr>
+<tr><td>20</td><td>はずかしい</td><td>恥ずかしい</td><td>害羞、不好意思</td><td></td></tr>
+<tr><td>21</td><td>しゅしょう</td><td>首相</td><td>首相</td><td></td></tr>
+<tr><td>22</td><td>じしん</td><td>地震</td><td>地震</td><td></td></tr>
+<tr><td>23</td><td>つなみ</td><td>津波</td><td>海嘯</td><td></td></tr>
+<tr><td>24</td><td>たいふう</td><td>台風</td><td>颱風</td><td></td></tr>
+<tr><td>25</td><td>かみなり</td><td>雷</td><td>雷</td><td></td></tr>
+<tr><td>26</td><td>かじ</td><td>火事</td><td>火災</td><td></td></tr>
+<tr><td>27</td><td>じこ</td><td>事故</td><td>事故</td><td></td></tr>
+<tr><td>28</td><td>ハイキング</td><td></td><td>遠足、徒步旅行</td><td></td></tr>
+<tr><td>29</td><td>「お」みあい</td><td>「お」見合い</td><td>相親</td><td></td></tr>
+<tr><td>30</td><td>そうさ</td><td>操作</td><td>操作：～します</td><td></td></tr>
+<tr><td>31</td><td>かいじょう</td><td>会場</td><td>會場</td><td></td></tr>
+<tr><td>32</td><td>〜だい</td><td>〜代</td><td>～費</td><td></td></tr>
+<tr><td>33</td><td>〜や</td><td>〜屋</td><td>～店</td><td></td></tr>
+<tr><td>34</td><td>フロント</td><td></td><td>(飯店等的)櫃台、詢問處</td><td></td></tr>
+<tr><td>35</td><td>…ごうしつ</td><td>…号室</td><td>⋯號房間</td><td></td></tr>
+<tr><td>36</td><td>タオル</td><td></td><td>毛巾</td><td></td></tr>
+<tr><td>37</td><td>せっけん</td><td>石鹸</td><td>肥皂、香皂</td><td></td></tr>
+<tr><td>38</td><td>おおぜい</td><td>大勢</td><td>很多(人)</td><td></td></tr>
+<tr><td>39</td><td>おつかれさまでした</td><td>お疲れさまでした</td><td>您辛苦了。慰勞同事或部下時用的話</td><td></td></tr>
+<tr><td>40</td><td>うかがいます</td><td>伺います</td><td>去、拜訪，いきます的謙讓語</td><td></td></tr>
+<tr><td>41</td><td>とちゅうで</td><td>途中で</td><td>(在)途中、路上、半途</td><td></td></tr>
+<tr><td>42</td><td>トラック</td><td></td><td>卡車</td><td></td></tr>
+<tr><td>43</td><td>ぶつかります</td><td></td><td>撞、碰</td><td>1</td></tr>
+<tr><td>44</td><td>おとな</td><td>大人</td><td>大人、成年人</td><td></td></tr>
+<tr><td>45</td><td>しかし</td><td></td><td>但是</td><td></td></tr>
+<tr><td>46</td><td>また</td><td></td><td>還有、且</td><td></td></tr>
+<tr><td>47</td><td>ようふく</td><td>洋服</td><td>西式服裝</td><td></td></tr>
+<tr><td>48</td><td>せいようかします</td><td>西洋化します</td><td>西化</td><td>3</td></tr>
+<tr><td>49</td><td>あいます</td><td>合います</td><td>適合、合適</td><td>1</td></tr>
+<tr><td>50</td><td>いまでは</td><td>今では</td><td>現在</td><td></td></tr>
+<tr><td>51</td><td>せいじんしき</td><td>成人式</td><td>成人禮</td><td></td></tr>
+<tr><td>52</td><td>でんとうてき「な」</td><td>伝統的</td><td>傳統的</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_40">第四十課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>かぞえます</td><td>数えます</td><td>數</td><td>2</td></tr>
+<tr><td>2</td><td>はかります</td><td>測ります、量ります</td><td>測量、秤</td><td>1</td></tr>
+<tr><td>3</td><td>たしかめます</td><td>確かめます</td><td>確認</td><td>2</td></tr>
+<tr><td>4</td><td>あいます「サイズが〜」</td><td>合います</td><td>(尺寸)合適</td><td>1</td></tr>
+<tr><td>5</td><td>しゅっぱつします</td><td>出発します</td><td>出發</td><td>3</td></tr>
+<tr><td>6</td><td>とうちゃくします</td><td>到着します</td><td>到達</td><td>3</td></tr>
+<tr><td>7</td><td>よいます</td><td>酔います</td><td>醉</td><td>1</td></tr>
+<tr><td>8</td><td>うまくいきます</td><td></td><td>進展順利</td><td>1</td></tr>
+<tr><td>9</td><td>でます「もんだいが〜」</td><td>出ます「問題が〜」</td><td>出(考題)</td><td>2</td></tr>
+<tr><td>10</td><td>そうだんします</td><td>相談します</td><td>商量、商議</td><td>3</td></tr>
+<tr><td>11</td><td>ひつよう「な」</td><td>必要</td><td>必要、需要</td><td></td></tr>
+<tr><td>12</td><td>てんきよほう</td><td>天気予報</td><td>天氣預報</td><td></td></tr>
+<tr><td>13</td><td>ぼうねんかい</td><td>忘年会</td><td>尾牙</td><td></td></tr>
+<tr><td>14</td><td>しんねんかい</td><td>新年会</td><td>春酒</td><td></td></tr>
+<tr><td>15</td><td>にじかい</td><td>二次会</td><td>第二攤、飯後去的第二個地方</td><td></td></tr>
+<tr><td>16</td><td>はっぴょうかい</td><td>発表会</td><td>發表會</td><td></td></tr>
+<tr><td>17</td><td>たいかい</td><td>大会</td><td>大會</td><td></td></tr>
+<tr><td>18</td><td>マラソン</td><td></td><td>馬拉松</td><td></td></tr>
+<tr><td>19</td><td>コンテスト</td><td></td><td>比賽、競賽</td><td></td></tr>
+<tr><td>20</td><td>おもて</td><td>表</td><td>表面、正面</td><td></td></tr>
+<tr><td>21</td><td>うら</td><td>裏</td><td>背面、反面</td><td></td></tr>
+<tr><td>22</td><td>まちがい</td><td></td><td>錯、錯誤</td><td></td></tr>
+<tr><td>23</td><td>きず</td><td>傷</td><td>傷、損傷</td><td></td></tr>
+<tr><td>24</td><td>ズボン</td><td></td><td>長褲</td><td></td></tr>
+<tr><td>25</td><td>パンツ</td><td></td><td>短褲</td><td></td></tr>
+<tr><td>26</td><td>「お」としより</td><td>「お」年寄り</td><td>老人</td><td></td></tr>
+<tr><td>27</td><td>ながさ</td><td>長さ</td><td>長度</td><td></td></tr>
+<tr><td>28</td><td>おもさ</td><td>重さ</td><td>重量</td><td></td></tr>
+<tr><td>29</td><td>たかさ</td><td>高さ</td><td>高度</td><td></td></tr>
+<tr><td>30</td><td>おおきさ</td><td>大きさ</td><td>大小</td><td></td></tr>
+<tr><td>31</td><td>「…」びん</td><td>「…」便</td><td>「⋯」班機</td><td></td></tr>
+<tr><td>32</td><td>…こ</td><td>…個</td><td>⋯個(數小物品時的量詞)</td><td></td></tr>
+<tr><td>33</td><td>…ほん(…ぽん、…ぼん)</td><td>…本</td><td>⋯根、⋯條(數細長物品時的量詞)</td><td></td></tr>
+<tr><td>34</td><td>…はい(…ぱい、…ばい)</td><td>…杯</td><td>⋯杯(數玻璃杯等時的量詞)</td><td></td></tr>
+<tr><td>35</td><td>…センチ</td><td></td><td>⋯公分</td><td></td></tr>
+<tr><td>36</td><td>…ミリ</td><td></td><td>⋯公釐</td><td></td></tr>
+<tr><td>37</td><td>…グラム</td><td></td><td>⋯公克</td><td></td></tr>
+<tr><td>38</td><td>〜いじょう</td><td>〜以上</td><td>～以上、超過～</td><td></td></tr>
+<tr><td>39</td><td>〜いか</td><td>〜以下</td><td>～以下、低於～</td><td></td></tr>
+<tr><td>40</td><td>ながさき</td><td>長崎</td><td>長崎</td><td></td></tr>
+<tr><td>41</td><td>せんだい</td><td>仙台</td><td>仙台</td><td></td></tr>
+<tr><td>42</td><td>ジェーエル</td><td>JL</td><td>日本航空公司</td><td></td></tr>
+<tr><td>43</td><td>たなばたまつり</td><td>七夕祭り</td><td>七夕祭典</td><td></td></tr>
+<tr><td>44</td><td>とうしょうぐう</td><td>東照宮</td><td>東照宮</td><td></td></tr>
+<tr><td>45</td><td>どうでしょうか。</td><td></td><td>怎麼樣？どうですか的禮貌語</td><td></td></tr>
+<tr><td>46</td><td>テスト</td><td></td><td>測驗、考試</td><td></td></tr>
+<tr><td>47</td><td>せいせき</td><td>成績</td><td>成績</td><td></td></tr>
+<tr><td>48</td><td>ところで</td><td></td><td>(轉換話題)話說、話時話</td><td></td></tr>
+<tr><td>49</td><td>いらっしゃいます</td><td></td><td>來、きます的尊敬語</td><td>1</td></tr>
+<tr><td>50</td><td>ようす</td><td>様子</td><td>樣子、情況、情形</td><td></td></tr>
+<tr><td>51</td><td>じけん</td><td>事件</td><td>事件、案件</td><td></td></tr>
+<tr><td>52</td><td>オートバイ</td><td></td><td>摩托車</td><td></td></tr>
+<tr><td>53</td><td>ばくだん</td><td>爆弾</td><td>炸彈</td><td></td></tr>
+<tr><td>54</td><td>つみます</td><td>積みます</td><td>堆積、裝</td><td>1</td></tr>
+<tr><td>55</td><td>うんてんしゅ</td><td>運転手</td><td>司機</td><td></td></tr>
+<tr><td>56</td><td>はなれた</td><td>離れた</td><td>相距</td><td></td></tr>
+<tr><td>57</td><td>きゅうに</td><td>急に</td><td>突然地</td><td></td></tr>
+<tr><td>58</td><td>うごかします</td><td>動かします</td><td>開動、發動</td><td>1</td></tr>
+<tr><td>59</td><td>いっしょうけんめい</td><td>一生懸命</td><td>努力、拚命</td><td></td></tr>
+<tr><td>60</td><td>はんにん</td><td>犯人</td><td>犯人</td><td></td></tr>
+<tr><td>61</td><td>おとこ</td><td>男</td><td>男人</td><td></td></tr>
+<tr><td>62</td><td>てにいれます</td><td>手に入れます</td><td>到手、得到</td><td>2</td></tr>
+<tr><td>63</td><td>いまでも</td><td>今でも</td><td>現在也</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_41">第四十一課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>いただきます</td><td></td><td>得到、收到「もらいます」的謙讓語</td><td>1</td></tr>
+<tr><td>2</td><td>くださいます</td><td></td><td>給(我)「くれます」的尊敬語</td><td>1</td></tr>
+<tr><td>3</td><td>やります</td><td></td><td>給(用於比自己小、職位低及動植物)</td><td>1</td></tr>
+<tr><td>4</td><td>あげます</td><td>上げます</td><td>提高</td><td>2</td></tr>
+<tr><td>5</td><td>さげます</td><td>下げます</td><td>降低</td><td>2</td></tr>
+<tr><td>6</td><td>しんせつにします</td><td>親切にします</td><td>對～和氣、友善</td><td>3</td></tr>
+<tr><td>7</td><td>かわいい</td><td></td><td>可愛</td><td></td></tr>
+<tr><td>8</td><td>めずらしい</td><td>珍しい</td><td>珍奇、罕見</td><td></td></tr>
+<tr><td>9</td><td>おいわい</td><td>お祝い</td><td>祝賀、賀禮(表示行為或物品)～をします</td><td></td></tr>
+<tr><td>10</td><td>おとしだま</td><td>お年玉</td><td>壓歲錢</td><td></td></tr>
+<tr><td>11</td><td>「お」みまい</td><td>「お」見舞い</td><td>探視(病人)、慰問品(行為/物品)</td><td></td></tr>
+<tr><td>12</td><td>きょうみ</td><td>興味</td><td>愛好、興趣「コンピューターに」〜があります</td><td></td></tr>
+<tr><td>13</td><td>じょうほう</td><td>情報</td><td>資訊</td><td></td></tr>
+<tr><td>14</td><td>ぶんぽう</td><td>文法</td><td>文法</td><td></td></tr>
+<tr><td>15</td><td>はつおん</td><td>発音</td><td>發音</td><td></td></tr>
+<tr><td>16</td><td>さる</td><td>猿</td><td>猴子</td><td></td></tr>
+<tr><td>17</td><td>えさ</td><td></td><td>飼料</td><td></td></tr>
+<tr><td>18</td><td>おもちゃ</td><td></td><td>玩具</td><td></td></tr>
+<tr><td>19</td><td>えほん</td><td>絵本</td><td>繪本、畫冊</td><td></td></tr>
+<tr><td>20</td><td>えはがき</td><td>絵はがき</td><td>風景明信片</td><td></td></tr>
+<tr><td>21</td><td>ドライバー</td><td></td><td>螺絲起子</td><td></td></tr>
+<tr><td>22</td><td>ハンカチ</td><td></td><td>手帕</td><td></td></tr>
+<tr><td>23</td><td>くつした</td><td>靴下</td><td>襪子</td><td></td></tr>
+<tr><td>24</td><td>てぶくろ</td><td>手袋</td><td>手套</td><td></td></tr>
+<tr><td>25</td><td>ようちえん</td><td>幼稚園</td><td>幼稚園</td><td></td></tr>
+<tr><td>26</td><td>だんぼう</td><td>暖房</td><td>暖氣</td><td></td></tr>
+<tr><td>27</td><td>れいぼう</td><td>冷房</td><td>冷氣</td><td></td></tr>
+<tr><td>28</td><td>おんど</td><td>温度</td><td>温度</td><td></td></tr>
+<tr><td>29</td><td>そふ</td><td>祖父</td><td>(自己的)祖父</td><td></td></tr>
+<tr><td>30</td><td>そぼ</td><td>祖母</td><td>(自己的)祖母</td><td></td></tr>
+<tr><td>31</td><td>まご</td><td>孫</td><td>(自己的)孫子</td><td></td></tr>
+<tr><td>32</td><td>おまごさん</td><td>お孫さん</td><td>(別人的)孫子</td><td></td></tr>
+<tr><td>33</td><td>おじ</td><td></td><td>(自己的)叔叔、伯父、舅舅</td><td></td></tr>
+<tr><td>34</td><td>おじさん</td><td></td><td>(別人的)叔叔、伯父、舅舅</td><td></td></tr>
+<tr><td>35</td><td>おば</td><td></td><td>(自己的)姑姑、伯母、嬸嬸、舅媽</td><td></td></tr>
+<tr><td>36</td><td>おばさん</td><td></td><td>(別人的)姑姑、伯母、嬸嬸、舅媽</td><td></td></tr>
+<tr><td>37</td><td>かんりにん</td><td>管理人</td><td>(公寓等)管理人</td><td></td></tr>
+<tr><td>38</td><td>〜さん</td><td></td><td>(為了表示禮貌，接在職稱、職務之後</td><td></td></tr>
+<tr><td>39</td><td>このあいだ</td><td>この間</td><td>前些天、前幾天</td><td></td></tr>
+<tr><td>40</td><td>ひとこと</td><td></td><td>(說上)一句</td><td></td></tr>
+<tr><td>41</td><td>〜ずつ</td><td></td><td>每～(表示各一)</td><td></td></tr>
+<tr><td>42</td><td>ふたり</td><td>二人</td><td>兩人(指情侶、夫妻)</td><td></td></tr>
+<tr><td>43</td><td>おたく</td><td>お宅</td><td>貴宅「うち」、「いえ」的尊敬語</td><td></td></tr>
+<tr><td>44</td><td>どうぞおしあわせに。</td><td>どうぞお幸せに。</td><td>祝你們幸福</td><td></td></tr>
+<tr><td>45</td><td>むかしばなし</td><td>昔話</td><td>傳說、故事</td><td></td></tr>
+<tr><td>46</td><td>ある〜</td><td></td><td>某～、某個～</td><td></td></tr>
+<tr><td>47</td><td>おとこ</td><td>男</td><td>男人</td><td></td></tr>
+<tr><td>48</td><td>こどもたち</td><td>子どもたち</td><td>孩子們</td><td></td></tr>
+<tr><td>49</td><td>いじめます</td><td></td><td>欺負</td><td>2</td></tr>
+<tr><td>50</td><td>かめ</td><td></td><td>烏龜</td><td></td></tr>
+<tr><td>51</td><td>たすけます</td><td>助けます</td><td>幫助、救助</td><td>2</td></tr>
+<tr><td>52</td><td>やさしい</td><td>優しい</td><td>溫柔、親切</td><td></td></tr>
+<tr><td>53</td><td>おひめさま</td><td>お姫様</td><td>公主</td><td></td></tr>
+<tr><td>54</td><td>くらします</td><td>暮らします</td><td>生活</td><td>1</td></tr>
+<tr><td>55</td><td>りく</td><td>陸</td><td>陸地</td><td></td></tr>
+<tr><td>56</td><td>すると</td><td></td><td>於是</td><td></td></tr>
+<tr><td>57</td><td>けむり</td><td>煙</td><td>煙</td><td></td></tr>
+<tr><td>58</td><td>まっしろ「な」</td><td>真っ白</td><td>雪白、純白</td><td></td></tr>
+<tr><td>59</td><td>なかみ</td><td>中身</td><td>內容、裝在其中的東西</td><td></td></tr>
+<tr><td>60</td><td>うらしまたろう</td><td>浦島太郎</td><td>浦島太郎</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_42">第四十二課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>つつみます</td><td>包みます</td><td>包、包上</td><td>1</td></tr>
+<tr><td>2</td><td>わかします</td><td>沸かします</td><td>燒開</td><td>1</td></tr>
+<tr><td>3</td><td>まぜます</td><td>混ぜます</td><td>混合、攪拌</td><td>2</td></tr>
+<tr><td>4</td><td>けいさんします</td><td>計算します</td><td>計算</td><td>3</td></tr>
+<tr><td>5</td><td>ならびます</td><td>並びます</td><td>排列（自動詞）</td><td>1</td></tr>
+<tr><td>6</td><td>じょうぶ「な」</td><td>丈夫</td><td>結實、堅固</td><td></td></tr>
+<tr><td>7</td><td>アパート</td><td></td><td>公寓</td><td></td></tr>
+<tr><td>8</td><td>べんごし</td><td>弁護士</td><td>律師</td><td></td></tr>
+<tr><td>9</td><td>おんがくか</td><td>音楽家</td><td>音樂家</td><td></td></tr>
+<tr><td>10</td><td>こどもたち</td><td>子どもたち</td><td>孩子們</td><td></td></tr>
+<tr><td>11</td><td>しぜん</td><td>自然</td><td>自然</td><td></td></tr>
+<tr><td>12</td><td>きょういく</td><td>教育</td><td>教育</td><td></td></tr>
+<tr><td>13</td><td>ぶんか</td><td>文化</td><td>文化</td><td></td></tr>
+<tr><td>14</td><td>しゃかい</td><td>社会</td><td>社會</td><td></td></tr>
+<tr><td>15</td><td>せいじ</td><td>政治</td><td>政治</td><td></td></tr>
+<tr><td>16</td><td>ほうりつ</td><td>法律</td><td>法律</td><td></td></tr>
+<tr><td>17</td><td>せんそう</td><td>戦争</td><td>戰爭</td><td></td></tr>
+<tr><td>18</td><td>へいわ</td><td>平和</td><td>和平</td><td></td></tr>
+<tr><td>19</td><td>もくてき</td><td>目的</td><td>目的</td><td></td></tr>
+<tr><td>20</td><td>ろんぶん</td><td>論文</td><td>論文</td><td></td></tr>
+<tr><td>21</td><td>たのしみ</td><td>楽しみ</td><td>盼望、期待</td><td></td></tr>
+<tr><td>22</td><td>ミキサー</td><td></td><td>攪拌器</td><td></td></tr>
+<tr><td>23</td><td>やかん</td><td></td><td>水壺</td><td></td></tr>
+<tr><td>24</td><td>ふた</td><td></td><td>蓋子</td><td></td></tr>
+<tr><td>25</td><td>せんぬき</td><td>栓抜き</td><td>開瓶器</td><td></td></tr>
+<tr><td>26</td><td>かんきり</td><td>缶切り</td><td>/開罐器</td><td></td></tr>
+<tr><td>27</td><td>かんづめ</td><td>缶詰</td><td>罐頭</td><td></td></tr>
+<tr><td>28</td><td>のしぶくろ</td><td>のし袋</td><td>禮袋（裝贈款的專用信封）</td><td></td></tr>
+<tr><td>29</td><td>ふろしき</td><td>風呂敷</td><td>包巾</td><td></td></tr>
+<tr><td>30</td><td>そろばん</td><td></td><td>算盤</td><td></td></tr>
+<tr><td>31</td><td>たいおんけい</td><td>体温計</td><td>體温計、温度計</td><td></td></tr>
+<tr><td>32</td><td>ざいりょう</td><td>材料</td><td>材料</td><td></td></tr>
+<tr><td>33</td><td>ある〜</td><td></td><td>某～、某個～</td><td></td></tr>
+<tr><td>34</td><td>いっしょうけんめい</td><td>一生懸命</td><td>努力、拼命</td><td></td></tr>
+<tr><td>35</td><td>なぜ</td><td></td><td>為什麼</td><td></td></tr>
+<tr><td>36</td><td>どのくらい</td><td></td><td>多少</td><td></td></tr>
+<tr><td>37</td><td>こくれん</td><td>国連</td><td>聯合國</td><td></td></tr>
+<tr><td>38</td><td>エリーゼの　ために</td><td></td><td>給愛麗絲</td><td></td></tr>
+<tr><td>39</td><td>ベートーベン</td><td></td><td>貝多芬</td><td></td></tr>
+<tr><td>40</td><td>でます「ボーナスが〜」</td><td>出ます「ボーナスが〜」</td><td>發（獎金）</td><td>2</td></tr>
+<tr><td>41</td><td>はんぶん</td><td>半分</td><td>一半</td><td></td></tr>
+<tr><td>42</td><td>ローン</td><td></td><td>貸款</td><td></td></tr>
+<tr><td>43</td><td>かっぷめん</td><td></td><td>杯麵、泡麵</td><td></td></tr>
+<tr><td>44</td><td>せかいはつ</td><td>世界初</td><td>世界最初</td><td></td></tr>
+<tr><td>45</td><td>〜に　よって</td><td></td><td>由～、被～</td><td></td></tr>
+<tr><td>46</td><td>どんぶり</td><td></td><td>大碗</td><td></td></tr>
+<tr><td>47</td><td>めん</td><td></td><td>麵條</td><td></td></tr>
+<tr><td>48</td><td>ひろめます</td><td>広めます</td><td>擴大、推廣</td><td>2</td></tr>
+<tr><td>49</td><td>しじょうちょうさ</td><td>市場調査</td><td>市場調査</td><td></td></tr>
+<tr><td>50</td><td>わります</td><td>割ります</td><td>分、切</td><td>1</td></tr>
+<tr><td>51</td><td>そそぎます</td><td>注ぎます</td><td>注入、倒入</td><td>1</td></tr>
+<tr><td>52</td><td>チキンラーメン</td><td></td><td>雞湯拉麵</td><td></td></tr>
+<tr><td>53</td><td>あんどうももふく</td><td>安藤百福</td><td>安藤百福</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_43">第四十三課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>ふえます「ゆしゅつが〜」</td><td>増えます「輸出が〜」</td><td>（出口）增加</td><td>２</td></tr>
+<tr><td>2</td><td>へります「ゆしゅつが〜」</td><td>減ります「輸出が〜」</td><td>（出口）減少</td><td>１</td></tr>
+<tr><td>3</td><td>あがります「ねだんが〜」</td><td>上ります「値段が〜」</td><td>（價格）上漲</td><td>１</td></tr>
+<tr><td>4</td><td>さがります「ねだんが〜」</td><td>下がります「値段が〜」</td><td>（價格）下降</td><td>１</td></tr>
+<tr><td>5</td><td>きれます「ひもが〜」</td><td>切れます</td><td>（繩子）斷了</td><td>２</td></tr>
+<tr><td>6</td><td>とれます「ボタンが〜」</td><td></td><td>（鈕扣）脫落</td><td>２</td></tr>
+<tr><td>7</td><td>おちます「にもつが〜」</td><td>落ちます「荷物が〜」</td><td>（行李）掉落</td><td style="background-color:#FFFF00">２</td></tr>
+<tr><td>8</td><td>なくなります「ガソリンが〜」</td><td></td><td>（汽油）用盡</td><td>１</td></tr>
+<tr><td>9</td><td>へん「な」</td><td>変</td><td>奇怪、不尋常</td><td></td></tr>
+<tr><td>10</td><td>しあわせ「な」</td><td>幸せ</td><td>幸福</td><td></td></tr>
+<tr><td>11</td><td>らく「な」</td><td>楽</td><td>輕鬆</td><td></td></tr>
+<tr><td>12</td><td>うまい</td><td></td><td>好吃</td><td></td></tr>
+<tr><td>13</td><td>まずい</td><td></td><td>不好吃</td><td></td></tr>
+<tr><td>14</td><td>つまらない</td><td></td><td>無聊、微不足道</td><td></td></tr>
+<tr><td>15</td><td>やさしい</td><td>優しい</td><td>温柔、親切</td><td></td></tr>
+<tr><td>16</td><td>ガソリン</td><td></td><td>汽油</td><td></td></tr>
+<tr><td>17</td><td>ひ</td><td>火</td><td>火</td><td></td></tr>
+<tr><td>18</td><td>パンフレット</td><td></td><td>簡介、小冊子</td><td></td></tr>
+<tr><td>19</td><td>いまにも</td><td>今にも</td><td>馬上、就要</td><td></td></tr>
+<tr><td>20</td><td>わあ</td><td></td><td>哇</td><td></td></tr>
+<tr><td>21</td><td>ばら</td><td></td><td>玫瑰、薔薇</td><td></td></tr>
+<tr><td>22</td><td>ドライブ</td><td></td><td>兜風</td><td></td></tr>
+<tr><td>23</td><td>りゆう</td><td>理由</td><td>理由</td><td></td></tr>
+<tr><td>24</td><td>あやまります</td><td>謝ります</td><td>道歉</td><td>１</td></tr>
+<tr><td>25</td><td>しりあいます</td><td>知り合います</td><td>認識</td><td>１</td></tr>
+</table>
+
+<p><h4 id="Chapter_44">第四十四課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>なきます</td><td>泣きます</td><td>哭</td><td>１</td></tr>
+<tr><td>2</td><td>わらいます</td><td>笑います</td><td>笑</td><td>１</td></tr>
+<tr><td>3</td><td>ねむります</td><td>眠ります</td><td>睡</td><td>１</td></tr>
+<tr><td>4</td><td>かわきます「シャツが〜」</td><td>乾きます</td><td>（襯衫）乾</td><td>１</td></tr>
+<tr><td>5</td><td>ぬれます「シャツが〜」</td><td>濡れます</td><td>（襯衫）濕</td><td>２</td></tr>
+<tr><td>6</td><td>すべります</td><td>滑ります</td><td>滑</td><td>１</td></tr>
+<tr><td>7</td><td>おきます「じこが〜」</td><td>起きます「事故が〜」</td><td>發生（事故）</td><td style="background-color:#FFFF00">２</td></tr>
+<tr><td>8</td><td>ちょうせつします</td><td>調節します</td><td>調節</td><td>３</td></tr>
+<tr><td>9</td><td>あんぜん「な」</td><td>安全</td><td>安全</td><td></td></tr>
+<tr><td>10</td><td>きけん「な」</td><td>危険</td><td>危險</td><td></td></tr>
+<tr><td>11</td><td>こい</td><td>濃い</td><td>（味道）濃、（顏色）深</td><td></td></tr>
+<tr><td>12</td><td>うすい</td><td>薄い</td><td>（味道）淡、（顏色）淺</td><td></td></tr>
+<tr><td>13</td><td>あつい</td><td>厚い</td><td>厚</td><td></td></tr>
+<tr><td>14</td><td>ふとい</td><td>太い</td><td>粗</td><td></td></tr>
+<tr><td>15</td><td>ほそい</td><td>細い</td><td>細</td><td></td></tr>
+<tr><td>16</td><td>くうき</td><td>空気</td><td>空氣</td><td></td></tr>
+<tr><td>17</td><td>なみだ</td><td>涙</td><td>眼淚</td><td></td></tr>
+<tr><td>18</td><td>わしょく</td><td>和食</td><td>日式料理</td><td></td></tr>
+<tr><td>19</td><td>ようしょく</td><td>洋食</td><td>西餐</td><td></td></tr>
+<tr><td>20</td><td>おかず</td><td></td><td>菜餚</td><td></td></tr>
+<tr><td>21</td><td>りょう</td><td>量</td><td>量</td><td></td></tr>
+<tr><td>22</td><td>…ばい</td><td>…倍</td><td>⋯倍</td><td></td></tr>
+<tr><td>23</td><td>シングル</td><td></td><td>單人房</td><td></td></tr>
+<tr><td>24</td><td>ツイン</td><td></td><td>雙人房</td><td></td></tr>
+<tr><td>25</td><td>せんたくもの</td><td>洗濯物</td><td>洗滌衣物</td><td></td></tr>
+<tr><td>26</td><td>ディーブイディー</td><td>DVD</td><td>DVD</td><td></td></tr>
+<tr><td>27</td><td>ホテルひろしま</td><td></td><td>廣島飯店</td><td></td></tr>
+<tr><td>28</td><td>どうなさいますか。</td><td></td><td>你要怎麼做？</td><td></td></tr>
+<tr><td>29</td><td>カット</td><td></td><td>剪髮</td><td></td></tr>
+<tr><td>30</td><td>シャンプー</td><td></td><td>洗髮（～をします：洗髮）</td><td></td></tr>
+<tr><td>31</td><td>どういうふうになさいますか。</td><td></td><td>你準備怎麼（剪）呢？</td><td></td></tr>
+<tr><td>32</td><td>ショート</td><td></td><td>短髮</td><td></td></tr>
+<tr><td>33</td><td>〜みたいにしてください。</td><td></td><td>請剪成像～的樣子。</td><td></td></tr>
+<tr><td>34</td><td>これでよろしいでしょうか。</td><td></td><td>這樣可以嗎？（禮貌的說法）</td><td></td></tr>
+<tr><td>35</td><td>「どうも」おつかれさまでした。</td><td>「どうも」お疲れさまでした。</td><td>你辛苦了。</td><td></td></tr>
+<tr><td>36</td><td>いやがります</td><td>嫌がります</td><td>討厭、不喜歡</td><td>１</td></tr>
+<tr><td>37</td><td>また</td><td></td><td>還有、且</td><td></td></tr>
+<tr><td>38</td><td>いまく</td><td></td><td>～得好</td><td></td></tr>
+<tr><td>39</td><td>じゅんじょ</td><td>順序</td><td>順序</td><td></td></tr>
+<tr><td>40</td><td>あんしん「な」</td><td>安心</td><td>安心、放心</td><td></td></tr>
+<tr><td>41</td><td>ひょうげん</td><td>表現</td><td>表達、表現</td><td></td></tr>
+<tr><td>42</td><td>たとえば</td><td>例えば</td><td>例如</td><td></td></tr>
+<tr><td>43</td><td>わかれます</td><td>別れます</td><td>分開、分離</td><td>２</td></tr>
+<tr><td>44</td><td>これら</td><td></td><td>這些</td><td></td></tr>
+<tr><td>45</td><td>えんぎがわるい</td><td>縁起が悪い</td><td>不吉利</td><td></td></tr>
+</table>
+
+<p><h4 id="Chapter_45">第四十五課&nbsp;[<a href="#Top">Top</a>]</h4></p>
+<table width=1260 style='table-layout:fixed'>
+ <col width=30>
+ <col width=400>
+ <col width=400>
+ <col width=400>
+ <col width=30>
+<tr><td>1</td><td>しんじます</td><td>信じます</td><td>相信</td><td>２</td></tr>
+<tr><td>2</td><td>キャンセルします</td><td></td><td>取消</td><td>３</td></tr>
+<tr><td>3</td><td>しらせます</td><td>知らせます</td><td>通知</td><td>２</td></tr>
+<tr><td>4</td><td>ほしょうしょ</td><td>保証書</td><td>保證書</td><td></td></tr>
+<tr><td>5</td><td>りょうしゅうしょ</td><td>領収書</td><td>收據、發票</td><td></td></tr>
+<tr><td>6</td><td>キャンプ</td><td></td><td>露營、帳篷</td><td></td></tr>
+<tr><td>7</td><td>ちゅうし</td><td>中止</td><td>中止</td><td></td></tr>
+<tr><td>8</td><td>てん</td><td>点</td><td>分數</td><td></td></tr>
+<tr><td>9</td><td>うめ</td><td>梅</td><td>梅花</td><td></td></tr>
+<tr><td>10</td><td>ひゃくとおばん</td><td>110番</td><td>警察電話</td><td></td></tr>
+<tr><td>11</td><td>ひゃくじゅうきゅうばん</td><td>119番</td><td>消防電話</td><td></td></tr>
+<tr><td>12</td><td>きゅうに</td><td>急に</td><td>突然地</td><td></td></tr>
+<tr><td>13</td><td>むりに</td><td>無理に</td><td>勉強地</td><td></td></tr>
+<tr><td>14</td><td>たのしみにしています</td><td>楽しみにしています</td><td>期待著、盼望著</td><td></td></tr>
+<tr><td>15</td><td>いじょうです。</td><td>以上です。</td><td>到此結束、我的話講完了</td><td></td></tr>
+<tr><td>16</td><td>かかりいん</td><td>係員</td><td>工作人員</td><td></td></tr>
+<tr><td>17</td><td>コース</td><td></td><td>路線</td><td></td></tr>
+<tr><td>18</td><td>スタート</td><td></td><td>出發、開始</td><td></td></tr>
+<tr><td>19</td><td>…い</td><td>…位</td><td>第⋯名</td><td></td></tr>
+<tr><td>20</td><td>ゆうしょうします</td><td>優勝します</td><td>獲得冠軍</td><td>３</td></tr>
+<tr><td>21</td><td>なやみ</td><td>悩み</td><td>煩惱、麻煩</td><td></td></tr>
+<tr><td>22</td><td>めざまし「どけい」</td><td>目覚まし「時計」</td><td>鬧鐘</td><td></td></tr>
+<tr><td>23</td><td>めがさめます</td><td>目が覚めます</td><td>醒來</td><td>２</td></tr>
+<tr><td>24</td><td>だいがくせい</td><td>大学生</td><td>大學生</td><td></td></tr>
+<tr><td>25</td><td>かいとう</td><td>回答</td><td>回答（～します：回答）</td><td></td></tr>
+<tr><td>26</td><td>なります</td><td>鳴ります</td><td>響、叫</td><td>１</td></tr>
+<tr><td>27</td><td>セットします</td><td></td><td>設定</td><td>３</td></tr>
+<tr><td>28</td><td>それでも</td><td></td><td>儘管如此</td><td></td></tr>
+</table>
+
+</body>
+</html>
